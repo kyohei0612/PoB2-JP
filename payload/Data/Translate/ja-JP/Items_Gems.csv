@@ -1,73 +1,73 @@
-﻿Max Stages,Max Stages
-Lightning Surge,Lightning Surge
-Explosion (10 fuses),Explosion (10 fuses)
-Explosion (20 fuses),Explosion (20 fuses)
-1 Blade,1 Blade
-3 Blades,3 Blades
-6 Blades,6 Blades
-40 Blades,40 Blades
-50 Blades,50 Blades
-Explosion (15 fuses),Explosion (15 fuses)
-Single Projectile Hit,Single Projectile Hit
-All Projectiles Hit,All Projectiles Hit
-Cone AoE,Cone AoE
-Main Projectile,Main Projectile
-Split Projectile,Split Projectile
-First Impact,First Impact
-Subsequent Impacts,Subsequent Impacts
-Primary Debuff,Primary Debuff
-Secondary Debuff,Secondary Debuff
-Initial Bursts,Initial Bursts
-Final Burst,Final Burst
-Target,Target
-1 Energy Explosion,1 Energy Explosion
-5 Energy Explosion,5 Energy Explosion
-10 Energy Explosion,10 Energy Explosion
-15 Energy Explosion,15 Energy Explosion
-20 Energy Explosion,20 Energy Explosion
-20 Energy Pulse,20 Energy Pulse
-Spike,Spike
-First Wave Area,First Wave Area
-Final Wave Area,Final Wave Area
-Skitterbot Wait,Skitterbot Wait
-Caustic Ground,Caustic Ground
-ChannelledSnipeSupport,ChannelledSnipeSupport
-Minion Explosion,Minion Explosion
-Greater Spell Echo,Greater Spell Echo
-Triggered Summon Phantasm,Triggered Summon Phantasm
-Elemental Hit Fire,Elemental Hit Fire
-Physical Beam,Physical Beam
-Crystal Impact,Crystal Impact
-Projectile Spell,Projectile Spell
-Bombs,Bombs
-Breach Lightning Whip,Breach Lightning Whip
-Breach Arc,Breach Arc
-Breach Team Warp,Breach Team Warp
-Breach Lightning Orbs Commander,Breach Lightning Orbs Commander
-Sand Leaper Dodge Left,Sand Leaper Dodge Left
-Sand Leaper Dodge Right,Sand Leaper Dodge Right
-Lightning Laser,Lightning Laser
-Nova Spell,Nova Spell
-Slam Attack,Slam Attack
-Frost Projectile,Frost Projectile
-Frost Mortar,Frost Mortar
-Explosive Arrow (20 Fuses),Explosive Arrow (20 Fuses)
-Dagger Trigger Spell,Dagger Trigger Spell
-Secret Police Daggers,Secret Police Daggers
-Mortar Shards,Mortar Shards
-Arrow Shotgun,Arrow Shotgun
-Ranged Shotgun,Ranged Shotgun
-Beam Blast,Beam Blast
-Nuke Beam,Nuke Beam
-Nuke Beam Channelled,Nuke Beam Channelled
-Manual Stacks,Manual Stacks
-Maximum Stacks,Maximum Stacks
-Energy Explosion,Energy Explosion
-Max Explosion per Brand,Max Explosion per Brand
-Max Stages Energy Pulsing,Max Stages Energy Pulsing
-1 Orb Tick,1 Orb Tick
-Max Channelled Orbs,Max Channelled Orbs
-Debuff Explosion - 1 Stack,Debuff Explosion - 1 Stack
-Debuff Explosion - 6 Stacks,Debuff Explosion - 6 Stacks
-Beam Sweep,Beam Sweep
-Knockback Attack,Knockback Attack
+﻿Max Stages,最大ステージ数
+Lightning Surge,ライトニングサージ
+Explosion (10 fuses),爆発 (ヒューズ10個)
+Explosion (20 fuses),爆発 (ヒューズ20個)
+1 Blade,ブレード1個
+3 Blades,ブレード3個
+6 Blades,ブレード6個
+40 Blades,ブレード40個
+50 Blades,ブレード50個
+Explosion (15 fuses),爆発 (ヒューズ15個)
+Single Projectile Hit,単一投射物ヒット
+All Projectiles Hit,すべての投射物がヒット
+Cone AoE,円錐範囲攻撃
+Main Projectile,メイン投射物
+Split Projectile,分裂投射物
+First Impact,最初の衝撃
+Subsequent Impacts,後続の衝撃
+Primary Debuff,プライマリデバフ
+Secondary Debuff,セカンダリデバフ
+Initial Bursts,初期バースト
+Final Burst,最終バースト
+Target,ターゲット
+1 Energy Explosion,エネルギー爆発1個
+5 Energy Explosion,エネルギー爆発5個
+10 Energy Explosion,エネルギー爆発10個
+15 Energy Explosion,エネルギー爆発15個
+20 Energy Explosion,エネルギー爆発20個
+20 Energy Pulse,エネルギーパルス20個
+Spike,スパイク
+First Wave Area,最初の波の範囲
+Final Wave Area,最終波の範囲
+Skitterbot Wait,スキッターボット待機
+Caustic Ground,腐食する地面
+ChannelledSnipeSupport,チャネリングスナイプサポート
+Minion Explosion,ミニオン爆発
+Greater Spell Echo,グレータースペルエコー
+Triggered Summon Phantasm,トリガー召喚ファントム
+Elemental Hit Fire,エレメンタルヒットファイア
+Physical Beam,物理ビーム
+Crystal Impact,クリスタルインパクト
+Projectile Spell,投射物スペル
+Bombs,爆弾
+Breach Lightning Whip,ブリーチライトニングウィップ
+Breach Arc,ブリーチアーク
+Breach Team Warp,ブリーチチームワープ
+Breach Lightning Orbs Commander,ブリーチ・ライトニング・オーブ・コマンダー
+Sand Leaper Dodge Left,サンド・リーパー・ドッジ・レフト
+Sand Leaper Dodge Right,サンド・リーパー・ドッジ・ライト
+Lightning Laser,ライトニング・レーザー
+Nova Spell,ノヴァ・スペル
+Slam Attack,スラム・アタック
+Frost Projectile,フロスト・プロジェクタイル
+Frost Mortar,フロスト・モーター
+Explosive Arrow (20 Fuses),爆発矢 (20ヒューズ)
+Dagger Trigger Spell,ダガー・トリガースペル
+Secret Police Daggers,秘密警察ダガー
+Mortar Shards,モーター・シャード
+Arrow Shotgun,アロー・ショットガン
+Ranged Shotgun,レンジド・ショットガン
+Beam Blast,ビーム・ブラスト
+Nuke Beam,ヌーク・ビーム
+Nuke Beam Channelled,ヌーク・ビーム・チャネリング
+Manual Stacks,マニュアルスタック
+Maximum Stacks,最大スタック
+Energy Explosion,エナジー爆発
+Max Explosion per Brand,ブランド毎の最大爆発数
+Max Stages Energy Pulsing,最大ステージ・エナジー・パルシング
+1 Orb Tick,1オーブティック
+Max Channelled Orbs,最大チャネリングオーブ数
+Debuff Explosion - 1 Stack,デバフ爆発 - 1スタック
+Debuff Explosion - 6 Stacks,デバフ爆発 - 6スタック
+Beam Sweep,ビーム・スイープ
+Knockback Attack,ノックバック・アタック

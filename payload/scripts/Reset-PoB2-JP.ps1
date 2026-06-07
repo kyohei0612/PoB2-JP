@@ -66,6 +66,30 @@ foreach ($fontName in @("JpUI.ttf", "JpUI-Bold.ttf")) {
     }
 }
 
+# pob2jp: 更新ループ抑止/Phase2 の生成物を除去（UpdateCheck.lua 本体は下の .bak 一括復元で原本に戻る）
+foreach ($meta in @(".pob2jp-keep.txt", ".pob2jp-state.json", ".pob2jp-log.txt", ".pob2jp-log.txt.1", ".pob2jp-coverage.json")) {
+    $metaPath = Join-Path $root $meta
+    if (Test-Path $metaPath) {
+        Remove-Item -LiteralPath $metaPath -Force
+        Write-Host "Removed $meta"
+    }
+}
+
+# manifest 登録ファイル一覧（upstream原本）を絶対パスで集合化。
+# JP追加物（manifest非登録: 例 JpUI.ttf）の .bak は「原本」ではないため復元せず破棄し、
+# 原本へ完全復帰させる（無差別復元だと JP 追加フォントが復活して残骸が残る）。
+$registered = @{}
+$manPath = Join-Path $root "manifest.xml"
+if (Test-Path $manPath) {
+    try {
+        $doc = [xml](Get-Content -LiteralPath $manPath -Raw)
+        foreach ($f in $doc.PoBVersion.File) {
+            $rel = (($f.GetAttribute("name")) -replace '\{space\}', ' ') -replace '/', '\'
+            $registered[((Join-Path $root $rel).ToLower())] = $true
+        }
+    } catch { Write-Host "Warning: failed to parse manifest.xml; restoring all backups." }
+}
+
 $backups = @(Get-ChildItem -LiteralPath $root -Filter "*.pob2jp.bak" -Recurse -Force | Sort-Object FullName -Descending)
 if ($backups.Count -eq 0) {
     Write-Host "No PoB2-JP backups found"
@@ -74,6 +98,15 @@ if ($backups.Count -eq 0) {
 
 foreach ($backup in $backups) {
     $target = $backup.FullName.Substring(0, $backup.FullName.Length - ".pob2jp.bak".Length)
+    # manifest を読めた場合のみ: 未登録ファイル(=vanilla原本が存在しない JP追加物)の .bak は
+    # 「JP自身のコピー」(再インストール時に生成される stale bak)なので復元すると蘇ってしまう。
+    # 復元はせず stale bak を破棄するだけ。実体ファイルは消さない（vanilla誤削除を避ける。
+    # JP追加実体の除去はフォント明示削除(上)と .pob2jp-runtime.json の added 機構が担当）。
+    if ($registered.Count -gt 0 -and -not $registered.ContainsKey($target.ToLower())) {
+        Remove-Item -LiteralPath $backup.FullName -Force
+        Write-Host "Dropped stale non-upstream backup: $($backup.Name)"
+        continue
+    }
     Copy-Item -LiteralPath $backup.FullName -Destination $target -Force
     Remove-Item -LiteralPath $backup.FullName -Force
     Write-Host "Restored $target"

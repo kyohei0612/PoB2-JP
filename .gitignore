@@ -1,2 +1,9 @@
 __pycache__/
 *.pyc
+*.pob2jp.bak
+*.pre-loopfix.bak
+*.poc-bak
+*.llm-bak
+*.pre-fill.bak
+*.icon-bak
+tools/llm/cache/

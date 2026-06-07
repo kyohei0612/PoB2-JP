@@ -2,7 +2,9 @@
     [string]$PoBRoot,
     [string]$PayloadName = "payload",
     [switch]$NoRuntime,
-    [switch]$NoHooks
+    [switch]$NoHooks,
+    [switch]$Force,  # 高速パス(既に最新JP適用済なら即終了)を無効化し、常にフルインストールする
+    [switch]$NoUpdate # GitHub からの日本語化アップデート自動取得をスキップ
 )
 
 $ErrorActionPreference = "Stop"
@@ -124,6 +126,49 @@ function Set-TextUtf8NoBom {
     [System.IO.File]::WriteAllText($Path, $Value, $encoding)
 }
 
+# ===== Phase 2: アンカー耐性・可観測性ヘルパ =====
+
+function Write-JpLog {
+    # PoBルート .pob2jp-log.txt へ1行追記（UTF-8, 64KB超でローテ）。失敗しても本処理を止めない。
+    param([string]$Message, [string]$Root = $script:Root)
+    if (-not $Root) { return }
+    try {
+        $log = Join-Path $Root ".pob2jp-log.txt"
+        if ((Test-Path $log) -and ((Get-Item $log).Length -gt 65536)) { Move-Item -LiteralPath $log -Destination "$log.1" -Force }
+        $stamp = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+        Add-Content -LiteralPath $log -Value ("{0} {1}" -f $stamp, $Message) -Encoding UTF8
+    } catch {}
+}
+
+function Resolve-Anchor {
+    # literal候補（複数・CRLF両試行）→ regex の順で、テキスト中に実在する「置換対象文字列」を解決する。
+    # regex は capture group 1 を対象に（無ければ全マッチ）。全滅は Found=$false（呼び出し側が縮退判断、throwしない）。
+    param(
+        [string]$Text,
+        [string[]]$Literals = @(),
+        [string]$Regex = $null,
+        [string]$Name = ""
+    )
+    foreach ($lit in $Literals) {
+        if (-not $lit) { continue }
+        if ($Text.Contains($lit)) {
+            return [pscustomobject]@{ Found = $true; Match = $lit; Method = "literal"; Name = $Name }
+        }
+        $alt = $lit.Replace("`n", "`r`n")
+        if ($alt -ne $lit -and $Text.Contains($alt)) {
+            return [pscustomobject]@{ Found = $true; Match = $alt; Method = "literal-crlf"; Name = $Name }
+        }
+    }
+    if ($Regex) {
+        $m = [regex]::Match($Text, $Regex)
+        if ($m.Success) {
+            $cap = if ($m.Groups.Count -gt 1 -and $m.Groups[1].Success) { $m.Groups[1].Value } else { $m.Value }
+            return [pscustomobject]@{ Found = $true; Match = $cap; Method = "regex"; Name = $Name }
+        }
+    }
+    return [pscustomobject]@{ Found = $false; Match = $null; Method = "none"; Name = $Name }
+}
+
 function Patch-LaunchLua {
     param([string]$Path)
     $text = Get-Content -LiteralPath $Path -Raw -Encoding UTF8
@@ -188,10 +233,14 @@ function Patch-LaunchLua {
         return
     }
 
-    $anchor = "`tRenderInit(`"DPI_AWARE`")"
-    if (-not $text.Contains($anchor)) {
-        throw "Launch.lua RenderInit anchor not found"
+    $ra = Resolve-Anchor -Text $text -Literals @("`tRenderInit(`"DPI_AWARE`")", "RenderInit(`"DPI_AWARE`")") -Regex 'RenderInit\s*\(\s*"DPI_AWARE"\s*\)' -Name "Launch.RenderInit"
+    if (-not $ra.Found) {
+        Write-Host "Launch.lua RenderInit anchor unresolved; skipped (will degrade to data-only)"
+        Write-JpLog "ANCHOR name=Launch.RenderInit method=MISSING"
+        return $false
     }
+    Write-JpLog "ANCHOR name=Launch.RenderInit method=$($ra.Method)"
+    $anchor = $ra.Match
     $block = [string]::Join("`n", @(
 "`t-- pob2jp: load translator",
 "`tlocal poejpLoadOk, poejpLoaded = pcall(LoadModule, `"Modules/PoeJP/Init`")",
@@ -232,6 +281,7 @@ function Patch-LaunchLua {
     $text = $text.Replace($anchor, "$anchor`n$block")
     Set-TextUtf8NoBom $Path $text
     Write-Host "Patched Launch.lua"
+    return $true
 }
 
 function Patch-MainLua {
@@ -399,6 +449,24 @@ function Restore-RuntimeBackups {
     }
 }
 
+function Remove-AddedRuntime {
+    # JP が新規追加した（manifest非登録・vanilla原本なし）runtime DLL を .pob2jp-runtime.json の
+    # added リストに基づき除去。data-only 縮退で「差分ゼロ＝vanilla完全復帰」を徹底するため。
+    # ループ安全性自体は manifest 非登録ゆえ残っても無害だが、残骸を残さない。
+    param([string]$Root)
+    $marker = Join-Path $Root ".pob2jp-runtime.json"
+    if (-not (Test-Path $marker)) { return }
+    try {
+        $st = Get-Content -LiteralPath $marker -Raw -Encoding UTF8 | ConvertFrom-Json
+        foreach ($name in @($st.added)) {
+            if (-not $name) { continue }
+            $p = Join-Path $Root $name
+            if (Test-Path $p) { Remove-Item -LiteralPath $p -Force; Write-Host "Removed JP-added runtime: $name" }
+        }
+        Remove-Item -LiteralPath $marker -Force
+    } catch {}
+}
+
 function Restore-HookBackups {
     param([string]$Root)
     $paths = @(
@@ -415,20 +483,299 @@ function Restore-HookBackups {
     }
 }
 
+# ===== PoB2-JP: update-loop fix (added 2026-06) =====
+
+function Get-Sha1Hex {
+    param([byte[]]$Bytes)
+    $sha = [System.Security.Cryptography.SHA1]::Create()
+    try { return ([BitConverter]::ToString($sha.ComputeHash($Bytes))).Replace("-", "").ToLower() }
+    finally { $sha.Dispose() }
+}
+
+$Latin1 = [System.Text.Encoding]::GetEncoding(28591)  # ISO-8859-1: 1:1 byte<->char (PS5.1互換)
+
+function Test-MatchesSha1 {
+    # UpdateCheck.lua と同じ CRLF 寛容判定。raw sha1 を先に比較し、
+    # 一致すれば即 true（DLL等バイナリ/大半のファイルはここで決着、351MBでも1ハッシュのみ）。
+    # 不一致時だけ Latin1(1:1) で \n->\r\n 変換版を生成して再比較。1バイトずつのList追加を廃止。
+    param([string]$Path, [string]$ExpectedSha1)
+    $expected = $ExpectedSha1.ToLower()
+    $bytes = [System.IO.File]::ReadAllBytes($Path)
+    if ((Get-Sha1Hex $bytes) -eq $expected) { return $true }
+    $crlf = $Latin1.GetString($bytes).Replace("`n", "`r`n")
+    return ((Get-Sha1Hex ($Latin1.GetBytes($crlf))) -eq $expected)
+}
+
+# UpdateCheck.lua の3アンカー仕様（literal優先・regexフォールバック）。Test-AnchorHealth と共用。
+$script:UcAnchorA = @{ Lit = @("runtimePath = runtimePath or runtimeFallback or scriptPath");
+                       Rx  = 'runtimePath\s*=\s*runtimePath\s+or\s+runtimeFallback\s+or\s+scriptPath'; Name = "UpdateCheck.A" }
+$script:UcAnchorB = @{ Lit = @("local updateFiles = { }", "local updateFiles = {}");
+                       Rx  = 'local\s+updateFiles\s*=\s*\{\s*\}'; Name = "UpdateCheck.B" }
+# C は最脆: ループ本体先頭の if(...) then を行頭インデント込みで捕捉（条件式の文言に依存しない）
+$script:UcAnchorC = @{ Lit = @("`tif (not localFiles[name] or localFiles[name].sha1 ~= data.sha1) and (not localFiles[sanitizedName] or localFiles[sanitizedName].sha1 ~= data.sha1) then");
+                       Rx  = '([ \t]*if\s*\(\s*not\s+localFiles\[name\][\s\S]*?\)\s*then)'; Name = "UpdateCheck.C" }
+
+function Patch-UpdateCheckLua {
+    # 戻り値: $true=適用成功 / "skip"=既適用or対象なし / $false=必須アンカー解決不能（呼び出し側が縮退判断）
+    param([string]$Path)
+    if (-not (Test-Path $Path)) { Write-Host "UpdateCheck.lua not found; skipped"; return "skip" }
+    $text = Get-Content -LiteralPath $Path -Raw -Encoding UTF8
+    if ($text.Contains("pob2jp: load keep-list")) { Write-Host "UpdateCheck.lua already patched"; return "skip" }
+
+    $rA = Resolve-Anchor -Text $text -Literals $script:UcAnchorA.Lit -Regex $script:UcAnchorA.Rx -Name $script:UcAnchorA.Name
+    $rB = Resolve-Anchor -Text $text -Literals $script:UcAnchorB.Lit -Regex $script:UcAnchorB.Rx -Name $script:UcAnchorB.Name
+    $rC = Resolve-Anchor -Text $text -Literals $script:UcAnchorC.Lit -Regex $script:UcAnchorC.Rx -Name $script:UcAnchorC.Name
+    foreach ($r in @($rA, $rB, $rC)) {
+        if (-not $r.Found) { Write-Host "UpdateCheck.lua anchor unresolved: $($r.Name)"; Write-JpLog "ANCHOR name=$($r.Name) method=MISSING"; return $false }
+        Write-JpLog "ANCHOR name=$($r.Name) method=$($r.Method)"
+    }
+
+    # C: 解決した実マッチからインデントを検出し、keep+versionガードのskip分岐でラップ（元条件は elseif で温存）
+    $cMatch = $rC.Match
+    $indent = [regex]::Match($cMatch, '^[ \t]*').Value
+    $cond = $cMatch.Substring($indent.Length)
+    $condElse = $cond -replace '^if\b', 'elseif'
+    $newC = "${indent}if pob2jpKeep[name] and not pob2jpVersionChanged then`n${indent}`t-- pob2jp: skip JP-diverged file while same version (prevents false update loop)`n${indent}$condElse"
+
+    $insertA = @'
+
+-- pob2jp: load keep-list of JP-diverged files (skipped while PoB version is unchanged)
+local pob2jpKeep = {}
+do
+    local pob2jpKeepFile = io.open(scriptPath.."/.pob2jp-keep.txt", "r")
+    if pob2jpKeepFile then
+        for line in pob2jpKeepFile:lines() do
+            line = line:gsub("^%s+", ""):gsub("%s+$", "")
+            if line ~= "" and line:sub(1, 1) ~= "#" then
+                pob2jpKeep[line] = true
+            end
+        end
+        pob2jpKeepFile:close()
+    end
+end
+'@
+
+    $insertB = @'
+-- pob2jp: protect JP-diverged files only while the PoB version is unchanged
+local pob2jpVersionChanged = (localVer ~= remoteVer)
+'@
+
+    # R1強化: 各アンカーは1回だけ出現すべき。複数出現は String.Replace の全置換で二重挿入→
+    # Lua の local 二重宣言/構文破壊を招くため、当てずに data-only へ縮退する（壊さない）。
+    foreach ($mm in @($rA.Match, $rB.Match, $cMatch)) {
+        $occ = ([regex]::Matches($text, [regex]::Escape($mm))).Count
+        if ($occ -ne 1) {
+            Write-Host "UpdateCheck.lua anchor not unique (occurrences=$occ); skipping patch (degrade to data-only)."
+            Write-JpLog "ANCHOR name=UpdateCheck result=NON-UNIQUE occ=$occ"
+            return $false
+        }
+    }
+
+    Backup-File $Path
+    $text = $text.Replace($rA.Match, $rA.Match + $insertA)
+    $text = $text.Replace($rB.Match, $insertB + "`n" + $rB.Match)
+    $text = $text.Replace($cMatch, $newC)
+    # R1: 置換後の整合を post-verify。崩れたら .bak から原本復帰し $false（縮退）— ファイルを壊さない
+    $ok = $true
+    foreach ($m in @("pob2jp: load keep-list", "pob2jpVersionChanged", "pob2jp: skip JP-diverged", "localFiles[name]")) {
+        if (-not $text.Contains($m)) { $ok = $false }
+    }
+    if (-not $ok) {
+        $bak = "$Path$BackupSuffix"
+        if (Test-Path $bak) { Copy-Item -LiteralPath $bak -Destination $Path -Force }
+        Write-Host "UpdateCheck.lua post-patch verification failed; reverted"
+        Write-JpLog "ANCHOR name=UpdateCheck.C method=$($rC.Method) result=POSTVERIFY-FAIL reverted=1"
+        return $false
+    }
+    Set-TextUtf8NoBom $Path $text
+    Write-Host "Patched UpdateCheck.lua"
+    return $true
+}
+
+function Write-KeepList {
+    # manifest 登録ファイルのうち on-disk sha1 が不一致 = JP が改変した = keep 対象、を動的に列挙
+    param([string]$Root)
+    $manPath = Join-Path $Root "manifest.xml"
+    if (-not (Test-Path $manPath)) { Write-Host "manifest.xml not found; keep-list skipped"; return }
+    $doc = [xml](Get-Content -LiteralPath $manPath -Raw)
+    $keep = New-Object System.Collections.Generic.List[string]
+    foreach ($f in $doc.PoBVersion.File) {
+        $name = $f.GetAttribute("name")        # manifest 生表記（{space}含む）。これがkeepキー
+        $rel = $name -replace '\{space\}', ' '  # 物理パス解決用にのみ {space}→space 変換
+        $abs = Join-Path $Root $rel
+        if (-not (Test-Path $abs)) { continue }
+        $msha = ($f.GetAttribute("sha1")).ToLower()
+        # keep には必ず $name（manifest生表記）を入れる。UpdateCheck.lua の照合キー pob2jpKeep[name] は
+        # remoteFiles の生キー＝manifest生表記なので、ここを変換するとスペース入りフォント等でskip不発になる。
+        if (-not (Test-MatchesSha1 $abs $msha)) { [void]$keep.Add($name) }
+    }
+    if ($keep -notcontains "UpdateCheck.lua") { [void]$keep.Add("UpdateCheck.lua") }
+    $header = "# Auto-generated by PoB2-JP installer. JP-diverged files; skipped during same-version PoB update checks. Do not edit."
+    Set-TextUtf8NoBom (Join-Path $Root ".pob2jp-keep.txt") (($header + "`n" + ($keep -join "`n")) + "`n")
+    Write-Host ("Wrote .pob2jp-keep.txt ({0} files)" -f $keep.Count)
+}
+
+function Write-State {
+    param([string]$Root, [string]$Tier = "full", [string]$DegradeReason = $null)
+    $manPath = Join-Path $Root "manifest.xml"
+    $ver = "unknown"
+    if (Test-Path $manPath) {
+        try {
+            $doc = [xml](Get-Content -LiteralPath $manPath -Raw)
+            $ver = $doc.SelectSingleNode("/PoBVersion/Version").GetAttribute("number")
+        } catch {}
+    }
+    $state = [ordered]@{
+        patchedVersion = $ver
+        patchedAt      = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+        installer      = "PoB2-JP"
+        tier           = $Tier           # full | data-only
+        degradeReason  = $DegradeReason  # 縮退理由（full時は null）
+    }
+    Set-TextUtf8NoBom (Join-Path $Root ".pob2jp-state.json") ($state | ConvertTo-Json)
+    Write-Host "Wrote .pob2jp-state.json (version $ver, tier $Tier)"
+}
+
+function Reset-StaleBackups {
+    # PoB がバージョン更新で管理ファイルを新原本へ戻した場合、古い .bak を新原本で取り直す。
+    # 現ファイルが upstream 原本(=manifest sha1 一致)で、かつ .bak が古い時のみ更新（パッチ済は触らない）。
+    param([string]$Root)
+    $manPath = Join-Path $Root "manifest.xml"
+    if (-not (Test-Path $manPath)) { return }
+    $doc = [xml](Get-Content -LiteralPath $manPath -Raw)
+    $refreshed = 0
+    foreach ($f in $doc.PoBVersion.File) {
+        $rel = ($f.GetAttribute("name")) -replace '\{space\}', ' '
+        $abs = Join-Path $Root $rel
+        $bak = "$abs$BackupSuffix"
+        if (-not (Test-Path $abs) -or -not (Test-Path $bak)) { continue }
+        $msha = ($f.GetAttribute("sha1")).ToLower()
+        # 現ファイルが upstream 原本(manifest一致)で、かつ .bak が古い(=原本でない)時だけ取り直す
+        if (Test-MatchesSha1 $abs $msha) {
+            if (-not (Test-MatchesSha1 $bak $msha)) {
+                Copy-Item -LiteralPath $abs -Destination $bak -Force
+                $refreshed++
+            }
+        }
+    }
+    if ($refreshed -gt 0) { Write-Host "Refreshed $refreshed stale backup(s) after PoB update" }
+}
+
+function Get-ManifestVersion {
+    param([string]$Root)
+    $manPath = Join-Path $Root "manifest.xml"
+    if (-not (Test-Path $manPath)) { return $null }
+    try {
+        $doc = [xml](Get-Content -LiteralPath $manPath -Raw)
+        return $doc.SelectSingleNode("/PoBVersion/Version").GetAttribute("number")
+    } catch { return $null }
+}
+
+function Test-JpCurrent {
+    # フル再インストール不要かを判定（高速パス）。マーカー健在 + state.patchedVersion==現manifest +
+    # keep/state 生成済 を全て満たす時のみ true。新ver更新/原本巻戻り/未インストールは false。
+    param([string]$Root)
+    foreach ($rel in @(".pob2jp-state.json", ".pob2jp-keep.txt", "UpdateCheck.lua", "Launch.lua")) {
+        if (-not (Test-Path (Join-Path $Root $rel))) { return $false }
+    }
+    $launch = Get-Content -LiteralPath (Join-Path $Root "Launch.lua") -Raw -Encoding UTF8
+    if ($launch -notmatch "poejpSafeTranslate") { return $false }   # 翻訳フック巻戻り検知
+    $uc = Get-Content -LiteralPath (Join-Path $Root "UpdateCheck.lua") -Raw -Encoding UTF8
+    if ($uc -notmatch "pob2jp: load keep-list") { return $false }   # ループ抑止パッチ巻戻り検知
+    $ver = Get-ManifestVersion $Root
+    if (-not $ver) { return $false }
+    try {
+        # 自作stateはBOM無しだが、手編集等でBOMが付くと PS5.1 ConvertFrom-Json が落ちるため先頭BOMを除去
+        $json = (Get-Content -LiteralPath (Join-Path $Root ".pob2jp-state.json") -Raw -Encoding UTF8) -replace "^$([char]0xFEFF)", ''
+        $st = $json | ConvertFrom-Json
+        return ($st.patchedVersion -eq $ver)   # バージョン更新があれば false → フル再適用
+    } catch { return $false }
+}
+
+function Test-AnchorHealth {
+    # 必須アンカー（Launch RenderInit ＋ UpdateCheck A/B/C）を書込前に dry-run 解決。
+    # 戻り: @{ LaunchOk; UpdateCheckOk; Methods }。Main/Common は任意（判定外・報告のみ）。
+    param([string]$Root)
+    $res = @{ LaunchOk = $true; UpdateCheckOk = $true; Methods = @{} }
+    $launchPath = Join-Path $Root "Launch.lua"
+    if (Test-Path $launchPath) {
+        $lt = Get-Content -LiteralPath $launchPath -Raw -Encoding UTF8
+        if ($lt -notmatch "poejpSafeTranslate") {
+            $r = Resolve-Anchor -Text $lt -Literals @("`tRenderInit(`"DPI_AWARE`")", "RenderInit(`"DPI_AWARE`")") -Regex 'RenderInit\s*\(\s*"DPI_AWARE"\s*\)' -Name "Launch.RenderInit"
+            $res.LaunchOk = $r.Found; $res.Methods["Launch.RenderInit"] = $r.Method
+        } else { $res.Methods["Launch.RenderInit"] = "already" }
+    } else { $res.LaunchOk = $false }
+    $ucPath = Join-Path $Root "UpdateCheck.lua"
+    if (Test-Path $ucPath) {
+        $ut = Get-Content -LiteralPath $ucPath -Raw -Encoding UTF8
+        if ($ut -notmatch "pob2jp: load keep-list") {
+            foreach ($spec in @($script:UcAnchorA, $script:UcAnchorB, $script:UcAnchorC)) {
+                $r = Resolve-Anchor -Text $ut -Literals $spec.Lit -Regex $spec.Rx -Name $spec.Name
+                $res.Methods[$spec.Name] = $r.Method
+                if (-not $r.Found) { $res.UpdateCheckOk = $false }
+            }
+        } else { $res.Methods["UpdateCheck"] = "already" }
+    } else { $res.UpdateCheckOk = $false }
+    return $res
+}
+
+# ===== end update-loop fix =====
+
 $Root = Find-PoBRoot $PoBRoot
 Write-Host "PoB2 root: $Root"
+
+# 日本語化アップデート自動取得（配布先にも更新を届ける）。best-effort・オフライン時は静かにスキップ。
+# 更新でVERSIONが上がったら $Force を立て、高速パスを通さず新CSV/スクリプトを確実に反映する。
+if (-not $NoUpdate -and -not $NoHooks) {
+    $verFile = Join-Path $PackageRoot "VERSION"
+    $verBefore = ""
+    if (Test-Path $verFile) { $verBefore = (Get-Content -LiteralPath $verFile -Raw).Trim() }
+    $updScript = Join-Path $PSScriptRoot "Update-PoB2-JP.ps1"
+    if (Test-Path $updScript) { try { & $updScript } catch {} }
+    $verAfter = ""
+    if (Test-Path $verFile) { $verAfter = (Get-Content -LiteralPath $verFile -Raw).Trim() }
+    if ($verAfter -ne $verBefore) { $Force = $true; Write-Host "PoB2-JP: 更新を反映するため再適用します。" }
+}
+
+# 高速パス: 既に最新バージョンへJP適用済みなら、重いコピー/パッチ/keep再生成をスキップして即終了。
+# .exe は本スクリプト終了後に PoB を起動するため、通常起動はこの経路で一瞬で完了する。
+# 注: この経路では Reset-StaleBackups も意図的にスキップする（同ver中はbak取り直し不要。
+#     新ver更新があれば Test-JpCurrent が false を返しフル経路へ落ちて取り直す）。
+if (-not $Force -and -not $NoHooks -and (Test-JpCurrent $Root)) {
+    Write-Host ("PoB2-JP already current (v{0}); skipping full install. Use -Force to reinstall." -f (Get-ManifestVersion $Root))
+    return
+}
+
+Reset-StaleBackups $Root
 
 Copy-DirectoryClean (Join-Path $Payload "Data\Translate\ja-JP") (Join-Path $Root "Data\Translate\ja-JP")
 Copy-FileWithBackup (Join-Path $Payload "Data\Translate.json") (Join-Path $Root "Data\Translate.json")
 Copy-FileWithBackup (Join-Path $Payload "Data\Settings.conf") (Join-Path $Root "Data\Settings.conf")
 
+# ===== Phase 2: pre-flight アンカー健全性 → 縮退判断 =====
+# 必須アンカー（Launch RenderInit ＋ UpdateCheck A/B/C）が解決不能なら、ループ抑止できない改変を
+# 残さないため、フック/ランタイム差替を当てず data-only（CSVのみ・原本復帰）へ縮退する。
+$tier = "full"
+$degradeReason = $null
+if (-not $NoHooks) {
+    $health = Test-AnchorHealth $Root
+    if (-not ($health.UpdateCheckOk -and $health.LaunchOk)) {
+        $missing = ($health.Methods.GetEnumerator() | Where-Object { $_.Value -eq 'none' } | ForEach-Object { $_.Key }) -join ','
+        $tier = "data-only"; $degradeReason = "anchor-missing:$missing"
+        $NoHooks = $true; $NoRuntime = $true
+        Write-Host "PoB2-JP: required anchors unresolved ($missing); degrading to data-only (CSV only, hooks/runtime reverted to vanilla)."
+        Write-JpLog "TIER data-only reason=$degradeReason"
+    }
+}
+
 if ($NoRuntime) {
     Restore-RuntimeBackups $Root
+    if ($tier -eq "data-only") { Remove-AddedRuntime $Root }   # 縮退時は追加DLLも除去し vanilla 完全復帰
 } else {
     Copy-DirectoryClean (Join-Path $Payload "Modules\PoeJP") (Join-Path $Root "Modules\PoeJP")
-    Patch-LaunchLua (Join-Path $Root "Launch.lua")
-    Patch-MainLua (Join-Path $Root "Modules\Main.lua")
-    Patch-CommonLua (Join-Path $Root "Modules\Common.lua")
+    Patch-LaunchLua (Join-Path $Root "Launch.lua") | Out-Null
+    Patch-MainLua (Join-Path $Root "Modules\Main.lua") | Out-Null
+    Patch-CommonLua (Join-Path $Root "Modules\Common.lua") | Out-Null
     Install-Runtime $Root
 }
 
@@ -436,7 +783,38 @@ if ($NoHooks) {
     Restore-HookBackups $Root
 } elseif ($NoRuntime) {
     Copy-DirectoryClean (Join-Path $Payload "Modules\PoeJP") (Join-Path $Root "Modules\PoeJP")
-    Patch-LaunchLua (Join-Path $Root "Launch.lua")
+    Patch-LaunchLua (Join-Path $Root "Launch.lua") | Out-Null
 }
 
-Write-Host "PoB2-JP install complete"
+# pob2jp: 更新ループ抑止（フック適用時のみ）。UpdateCheck.lua をパッチし、改変ファイルを動的に keep化。
+# UpdateCheck パッチが失敗（施行時アンカー解決不能/post-verify失敗）したら、ループ抑止できない状態を
+# 残さないため、フック/ランタイムを原本へ戻し data-only へロールバックする。
+if (-not $NoHooks) {
+    $ucResult = Patch-UpdateCheckLua (Join-Path $Root "UpdateCheck.lua")
+    if ($ucResult -eq $false) {
+        $tier = "data-only"; $degradeReason = "updatecheck-apply-failed"
+        Restore-HookBackups $Root
+        Restore-RuntimeBackups $Root
+        Remove-AddedRuntime $Root
+        Write-Host "PoB2-JP: UpdateCheck patch failed; reverted hooks/runtime to data-only (loop-safe)."
+        Write-JpLog "TIER data-only reason=updatecheck-apply-failed"
+        Write-State $Root $tier $degradeReason
+    } else {
+        # フック翻訳が実際に当たったか確認（pre-flight通過後でも未知既存フック等で黙ってskipされ得る）。
+        # 当たっていなければ loop-safe な full のまま「翻訳が出ない」可能性を degradeReason に明記。
+        $launchHas = (Get-Content -LiteralPath (Join-Path $Root "Launch.lua") -Raw -Encoding UTF8) -match "poejpSafeTranslate"
+        if (-not $launchHas) {
+            $degradeReason = "launch-hook-not-applied(translation-off,loop-safe)"
+            Write-Host "PoB2-JP: warning - translator hook not applied (loop-safe); translation may not display."
+            Write-JpLog "WARN launch-hook-not-applied"
+        }
+        Write-KeepList $Root
+        Write-State $Root $tier $degradeReason
+        Write-JpLog "TIER full ver=$(Get-ManifestVersion $Root)"
+    }
+} else {
+    # data-only: keep は書かない（差分ゼロ）。状態のみ記録。
+    Write-State $Root $tier $degradeReason
+}
+
+Write-Host "PoB2-JP install complete (tier: $tier)"

@@ -17,7 +17,7 @@ Cobra Lash,コブララッシュ
 Cremation,焼却
 Cyclone,サイクロン
 Vaal Cyclone,ヴァールサイクロン
-Dash,Dash
+Dash,ダッシュ
 Desecrate,デセクレート
 Detonate Dead,デトネートデッド
 Vaal Detonate Dead,ヴァールデトネートデッド
@@ -60,7 +60,7 @@ Rain of Arrows,レインオブアロー
 Vaal Rain of Arrows,ヴァールレインオブアロー
 Reave,リーヴ
 Vaal Reave,ヴァールリーヴ
-Riposte,Riposte
+Riposte,リップースト
 Scourge Arrow,スカージアロー
 Shattering Steel,シャタリングスティール
 Seismic Trap,サイズミックトラップ
@@ -85,8 +85,8 @@ Vaal Arc,ヴァールアーク
 Armageddon Brand,アルマゲドンブランド
 Assassin's Mark,アサシンの呪印
 Ball Lightning,ボールライトニング
-Bane,Bane
-Blight,Blight
+Bane,ベイン
+Blight,ブライト
 Vaal Blight,ヴァールブライト
 Bodyswap,ボディスワップ
 Bone Offering,ボーンオファリング
@@ -142,7 +142,7 @@ Orb of Storms,オーブオブストーム
 Power Siphon,パワーサイフォン
 Vaal Power Siphon,ヴァールパワーサイフォン
 Purifying Flame,ピュリファイングフレイム
-Shockwave,Shockwave
+Shockwave,ショックウェーブ
 Purity of Elements,ピュリティオブエレメンツ
 Purity of Lightning,ピュリティオブライトニング
 Vaal Impurity of Lightning,ヴァールインピュリティオブライトニング
@@ -172,11 +172,11 @@ Summon Skeletons,スケルトン召喚
 Vaal Summon Skeletons,ヴァールスケルトン召喚
 Summon Skitterbots,スキッターボット召喚
 Tempest Shield,テンペストシールド
-Vortex,Vortex
+Vortex,ヴォーテックス設定
 Wave of Conviction,ウェーブオブコンヴィクション
 Winter Orb,ウィンターオーブ
 Wither,ウィザー
-Wrath,Wrath
+Wrath,ラス
 Ancestral Protector,アンセストラルプロテクター
 Ancestral Warchief,アンセストラルウォーチーフ
 Vaal Ancestral Warchief,ヴァールアンセストラルウォーチーフ
@@ -189,7 +189,7 @@ Chain Hook,チェーンフック
 Cleave,クリーヴ
 Consecrated Path,コンセクレイテッドパス
 Decoy Totem,デコイトーテム
-Determination,Determination
+Determination,ディターミネーション
 Devouring Totem,デヴァワリングトーテム
 Dominating Blow,ドミネイティングブロウ
 Dread Banner,ドレッドバナー
@@ -219,7 +219,7 @@ Punishment,パニッシュメント
 Purity of Fire,ピュリティオブファイヤー
 Vaal Impurity of Fire,ヴァールインピュリティオブファイヤー
 Rallying Cry,ラリイングクライ
-Reckoning,Reckoning
+Reckoning,レコニング
 Rejuvenation Totem,リジュヴェネーショントーテム
 Searing Bond,シーリングボンド
 Shield Charge,シールドチャージ
@@ -241,125 +241,125 @@ Immolate,火炙り
 Detonate Mines,マイン起爆
 Portal,ポータル
 Vaal Breach,ヴァールブリーチ
-Greater Volley,Greater Volley
+Greater Volley,グレーター・ボレー
 Blood Offering,ブラッドオファリング
 Death Aura,デスオーラ
 Elemental Penetration,元素貫通
 Envy,エンビー
 Gluttony of Elements,元素の飽食
-Summon Phantasm,Summon Phantasm
+Summon Phantasm,ファントム召喚
 Tornado,トルネード
-Added Cold Damage,Added Cold Damage
-Additional Accuracy,Additional Accuracy
+Added Cold Damage,追加コールドダメージ
+Additional Accuracy,追加命中率
 Blind,盲目
-Block Chance Reduction,Block Chance Reduction
-Cast On Critical Strike,Cast On Critical Strike
+Block Chance Reduction,ブロック率減少
+Cast On Critical Strike,クリティカルストライク時にキャスト
 Cast on Death,死亡時キャスト
-Chain,Chain
-Chance to Flee,Chance to Flee
-Charged Traps,Charged Traps
-Close Combat,Close Combat
-Cluster Traps,Cluster Traps
+Chain,チェイン
+Chance to Flee,逃走確率
+Charged Traps,チャージトラップ
+Close Combat,近距離戦闘
+Cluster Traps,クラスター・トラップ
 Cold Penetration,冷気耐性貫通
-Deadly Ailments,Deadly Ailments
-Enhance,Enhance
-Faster Attacks,Faster Attacks
-Faster Projectiles,Faster Projectiles
+Deadly Ailments,デッドリー・エイメンツ
+Enhance,エンハンス
+Faster Attacks,高速攻撃
+Faster Projectiles,高速投射物
 Fork,分岐
-Greater Multiple Projectiles,Greater Multiple Projectiles
+Greater Multiple Projectiles,グレーター・マルチプル・プロジェクタイル
 Hypothermia,ハイポサーミア
 Impale,串刺し
-Ice Bite,Ice Bite
-Lesser Multiple Projectiles,Lesser Multiple Projectiles
-Lesser Poison,Lesser Poison
+Ice Bite,アイス・バイト
+Lesser Multiple Projectiles,レッサー・マルチプル・プロジェクタイル
+Lesser Poison,レッサー・ポイズン
 Mana Leech,マナリーチ
 Mirage Archer,ミラージュアーチャー
-Multiple Traps,Multiple Traps
-Nightblade,Nightblade
+Multiple Traps,マルチプル・トラップ
+Nightblade,ナイトブレード
 Pierce,貫通
-Poison,Poison
-Swift Affliction,Swift Affliction
-Slower Projectiles,Slower Projectiles
-Swift Assembly,Swift Assembly
+Poison,ポイズン
+Swift Affliction,スイフト・アフィクション
+Slower Projectiles,スローワー・プロジェクタイル
+Swift Assembly,スイフト・アセンブリ
 Trap,トラップ
-Advanced Traps,Advanced Traps
+Advanced Traps,アドバンスド・トラップ
 Trap and Mine Damage,トラップ・マインダメージ
-Vicious Projectiles,Vicious Projectiles
-Vile Toxins,Vile Toxins
-Void Manipulation,Void Manipulation
-Volley,Volley
-Added Chaos Damage,Added Chaos Damage
-Added Lightning Damage,Added Lightning Damage
+Vicious Projectiles,ヴィシャス・プロジェクタイル
+Vile Toxins,ヴァイル・トキシン
+Void Manipulation,ボイド・マニピュレーション
+Volley,ボレー
+Added Chaos Damage,追加混沌ダメージ
+Added Lightning Damage,追加ライトニングダメージ
 Arcane Surge,アーケインサージ
 Blasphemy,ブラスファミー
-Bonechill,Bonechill
+Bonechill,ボーンチル
 Cast when Stunned,被スタン時キャスト
 Cast while Channelling,チャネリング中キャスト
-Combustion,Combustion
-Charged Mines,Charged Mines
-Concentrated Effect,Concentrated Effect
+Combustion,燃焼
+Charged Mines,チャージマイン
+Concentrated Effect,濃縮効果
 Controlled Destruction,破壊制御
-Decay,Decay
-Efficacy,Efficacy
+Decay,ディケイ
+Efficacy,有効性
 Elemental Focus,元素ダメージ集中
-Elemental Proliferation,Elemental Proliferation
-Energy Leech,Energy Leech
-Enlighten,Enlighten
-Faster Casting,Faster Casting
+Elemental Proliferation,エレメンタル拡散
+Energy Leech,エナジーリーチ
+Enlighten,エンライトン
+Faster Casting,高速詠唱
 Feeding Frenzy,狂乱の餌付け
-High-Impact Mine,High-Impact Mine
-Ignite Proliferation,Ignite Proliferation
-Increased Area of Effect,Increased Area of Effect
-Increased Critical Damage,Increased Critical Damage
-Increased Critical Strikes,Increased Critical Strikes
-Infernal Legion,Infernal Legion
-Infused Channelling,Infused Channelling
+High-Impact Mine,ハイインパクトマイン
+Ignite Proliferation,イグナイト拡散
+Increased Area of Effect,範囲拡大
+Increased Critical Damage,クリティカルダメージ増加
+Increased Critical Strikes,クリティカルストライク増加
+Infernal Legion,インファーナル・リージョン
+Infused Channelling,インフューズドチャネリング
 Innervate,電気刺激
-Intensify,Intensify
+Intensify,インテンシファイ
 Item Rarity,アイテムレアリティ
 Lightning Penetration,雷耐性貫通
-Meat Shield,Meat Shield
-Minefield,Minefield
+Meat Shield,肉の壁
+Minefield,マインフィールド
 Minion Damage,ミニオンダメージ
 Minion Life,ミニオンライフ
-Minion Speed,Minion Speed
+Minion Speed,ミニオンスピード
 Elemental Army,元素の軍勢
-Physical to Lightning,Physical to Lightning
-Power Charge On Critical,Power Charge On Critical
-Blastchain Mine,Blastchain Mine
+Physical to Lightning,物理から雷へ
+Power Charge On Critical,クリティカル時パワーチャージ
+Blastchain Mine,ブラストチェーンマイン
 Spell Cascade,スペルカスケード
 Spell Echo,スペルエコー
-Unbound Ailments,Unbound Ailments
-Added Fire Damage,Added Fire Damage
-Ancestral Call,Ancestral Call
+Unbound Ailments,アンバウンド・エイメント
+Added Fire Damage,火ダメージ追加
+Ancestral Call,祖霊の呼び声
 Bloodlust,ブラッドラスト
-Brutality,Brutality
-Burning Damage,Burning Damage
+Brutality,ブルータリティ
+Burning Damage,燃焼ダメージ
 Cast on Melee Kill,近接キル時キャスト
 Cast when Damage Taken,被ダメージ時キャスト
-Chance to Bleed,Chance to Bleed
-Cold to Fire,Cold to Fire
-Damage on Full Life,Damage on Full Life
-Elemental Damage with Attacks,Elemental Damage with Attacks
-Empower,Empower
-Endurance Charge on Melee Stun,Endurance Charge on Melee Stun
+Chance to Bleed,出血確率
+Cold to Fire,冷気から火へ
+Damage on Full Life,満タンライフ時ダメージ
+Elemental Damage with Attacks,攻撃時エレメンタルダメージ
+Empower,エンパワー
+Endurance Charge on Melee Stun,近接スタン時エンデュランスチャージ
 Fire Penetration,火耐性貫通
-Fortify,Fortify
-Generosity,Generosity
+Fortify,フォーティファイ
+Generosity,ジェネロシティ
 Increased Duration,持続時間増加
 Item Quantity,アイテム数量
 Knockback,ノックバック
-Less Duration,Less Duration
+Less Duration,持続時間短縮
 Life Gain on Hit,ヒット時ライフ獲得
 Life Leech,ライフリーチ
 Maim,重傷
-Melee Physical Damage,Melee Physical Damage
-Melee Splash,Melee Splash
-Multistrike,Multistrike
-Multiple Totems,Multiple Totems
-Pulverise,Pulverise
+Melee Physical Damage,近接物理ダメージ
+Melee Splash,近接範囲攻撃
+Multistrike,マルチストライク
+Multiple Totems,複数トーテム
+Pulverise,パルベライズ
 Rage,Rage
-Inspiration,Inspiration
+Inspiration,インスピレーション
 Ruthless,ルースレス
 Spell Totem,スペルトーテム
 Ambush,アンブッシュ
@@ -368,56 +368,56 @@ War Banner,ウォーバナー
 Withering Step,ウィザリングステップ
 Withering Touch,ヒット時衰弱
 Unleash,アンリーシュ
-Stun,Stun
-Chance to Poison,Chance to Poison
+Stun,スタン
+Chance to Poison,毒確率
 Artillery Ballista,アーティラリーバリスタ
 Ensnaring Arrow,エンスネアリングアロー
 Galvanic Arrow,ガルヴァニックアロー
 Shrapnel Ballista,シュラプネルバリスタ
-Awakened Added Cold Damage,Awakened Added Cold Damage
-Arrow Nova,Arrow Nova
-Awakened Arrow Nova,Awakened Arrow Nova
-Awakened Cast On Critical Strike,Awakened Cast On Critical Strike
-Awakened Chain,Awakened Chain
-Awakened Cold Penetration,Awakened Cold Penetration
-Awakened Deadly Ailments,Awakened Deadly Ailments
-Awakened Fork,Awakened Fork
-Awakened Greater Multiple Projectiles,Awakened Greater Multiple Projectiles
-Awakened Swift Affliction,Awakened Swift Affliction
-Awakened Vicious Projectiles,Awakened Vicious Projectiles
-Awakened Void Manipulation,Awakened Void Manipulation
-Awakened Added Chaos Damage,Awakened Added Chaos Damage
-Awakened Added Lightning Damage,Awakened Added Lightning Damage
-Awakened Blasphemy,Awakened Blasphemy
-Awakened Cast While Channelling,Awakened Cast While Channelling
-Awakened Controlled Destruction,Awakened Controlled Destruction
-Awakened Curse On Hit,Awakened Curse On Hit
-Awakened Elemental Focus,Awakened Elemental Focus
-Awakened Increased Area Of Effect,Awakened Increased Area Of Effect
-Awakened Lightning Penetration,Awakened Lightning Penetration
-Awakened Minion Damage,Awakened Minion Damage
-Awakened Spell Cascade,Awakened Spell Cascade
-Awakened Spell Echo,Awakened Spell Echo
-Awakened Unbound Ailments,Awakened Unbound Ailments
-Awakened Added Fire Damage,Awakened Added Fire Damage
-Awakened Ancestral Call,Awakened Ancestral Call
-Awakened Brutality,Awakened Brutality
-Awakened Burning Damage,Awakened Burning Damage
-Awakened Elemental Damage With Attacks,Awakened Elemental Damage With Attacks
-Awakened Fire Penetration,Awakened Fire Penetration
-Awakened Generosity,Awakened Generosity
-Awakened Melee Physical Damage,Awakened Melee Physical Damage
-Awakened Melee Splash,Awakened Melee Splash
-Awakened Multistrike,Awakened Multistrike
-Ballista Totem,Ballista Totem
+Awakened Added Cold Damage,覚醒・冷気ダメージ追加
+Arrow Nova,アローノヴァ
+Awakened Arrow Nova,覚醒・アローノヴァ
+Awakened Cast On Critical Strike,覚醒・クリティカル時発動
+Awakened Chain,覚醒・チェイン
+Awakened Cold Penetration,覚醒・冷気貫通
+Awakened Deadly Ailments,覚醒・致死性デバフ
+Awakened Fork,覚醒・フォーク
+Awakened Greater Multiple Projectiles,覚醒・グレートマルチプルプロジェクタイル
+Awakened Swift Affliction,覚醒・迅速な苦痛
+Awakened Vicious Projectiles,覚醒・悪質弾
+Awakened Void Manipulation,覚醒・ヴォイド操作
+Awakened Added Chaos Damage,覚醒・混沌ダメージ追加
+Awakened Added Lightning Damage,覚醒・雷ダメージ追加
+Awakened Blasphemy,覚醒・ブラスフェミー
+Awakened Cast While Channelling,覚醒キャスト・ウィル・チャネリング
+Awakened Controlled Destruction,覚醒コントロール・ディストラクション
+Awakened Curse On Hit,覚醒ヒット時呪い
+Awakened Elemental Focus,覚醒エレメンタル・フォーカス
+Awakened Increased Area Of Effect,覚醒効果範囲拡大
+Awakened Lightning Penetration,覚醒ライトニング・ペネトレーション
+Awakened Minion Damage,覚醒ミニオンダメージ
+Awakened Spell Cascade,覚醒スペル・カスケード
+Awakened Spell Echo,覚醒スペル・エコー
+Awakened Unbound Ailments,覚醒アンバウンド・エイルメント
+Awakened Added Fire Damage,覚醒火炎ダメージ追加
+Awakened Ancestral Call,覚醒祖霊の呼び声
+Awakened Brutality,覚醒ブルータリティ
+Awakened Burning Damage,覚醒燃焼ダメージ
+Awakened Elemental Damage With Attacks,覚醒攻撃時エレメンタルダメージ
+Awakened Fire Penetration,覚醒炎ペネトレーション
+Awakened Generosity,覚醒ジェネロシティ
+Awakened Melee Physical Damage,覚醒近接物理ダメージ
+Awakened Melee Splash,覚醒近接散弾
+Awakened Multistrike,覚醒マルチストライク
+Ballista Totem,バリスタトーテム
 Blade Blast,ブレードブラスト
 Arcane Cloak,アーケインクローク
 Kinetic Bolt,キネティックボルト
 Spellslinger,スペルスリンガー
-Second Wind,Second Wind
+Second Wind,セカンドウィンド
 Archmage,アーチメイジ
-Awakened Increased Area of Effect,Awakened Increased Area of Effect
-Awakened Elemental Damage with Attacks,Awakened Elemental Damage with Attacks
+Awakened Increased Area of Effect,覚醒効果範囲拡大
+Awakened Elemental Damage with Attacks,覚醒攻撃時エレメンタルダメージ
 Sniper's Mark,スナイパーの呪印
 Splitting Steel,スプリッティングスティール
 Creeping Frost,クリーピングフロスト
@@ -438,13 +438,13 @@ General's Cry,ジェネラルズクライ
 Intimidating Cry,インティミデーティングクライ
 Seismic Cry,サイズミッククライ
 Snipe,スナイプ
-Hextouch,Hextouch
-Awakened Hextouch,Awakened Hextouch
-Predator,Predator
+Hextouch,ヘクタッチ
+Awakened Hextouch,覚醒ヘクタッチ
+Predator,プレデター
 Impending Doom,インペンディングドゥーム
 Pinpoint,針の目の
-Swiftbrand,Swiftbrand
-Fist of War,Fist of War
+Swiftbrand,スウィフトブランド
+Fist of War,フィスト・オブ・ウォー
 Ancestral Blademaster,アンセストラルブレードマスター
 Backstab,バックスタッブ
 Blinding Aura,盲目オーラ
@@ -480,12 +480,12 @@ Lightning Channel,ライトニングチャネル
 Touch of God,タッチオブゴッド
 New Blade Vortex,新ブレードヴォーテックス
 Rending Steel,レンディングスティール
-Split Projectiles,Split Projectiles
-Return Projectiles,Return Projectiles
+Split Projectiles,スプリット・プロジェクタイル
+Return Projectiles,リターン・プロジェクタイル
 Vaal Soul Harvesting,ヴァールソウルハーヴェスティング
-Lesser Reduced Mana Cost,Lesser Reduced Mana Cost
-Awakened Unleash,Awakened Unleash
-Urgent Orders,Urgent Orders
+Lesser Reduced Mana Cost,軽減マナコスト
+Awakened Unleash,覚醒アンリーシュ
+Urgent Orders,緊急命令
 Trinity,トリニティ
 Absolution,アブソリューション
 Battlemage's Cry,バトルメイジズクライ
@@ -505,14 +505,14 @@ Spectral Helix,スペクトラルヘリックス
 Storm Rain,ストームレイン
 Summon Reaper,リーパー召喚
 Voltaxic Burst,ボルタキシックバースト
-Arrogance,Arrogance
-Critical Strike Affliction,Critical Strike Affliction
-Bloodthirst,Bloodthirst
-Cruelty,Cruelty
+Arrogance,アロガンス
+Critical Strike Affliction,クリティカルストライク・アフィクション
+Bloodthirst,ブラッドサースト
+Cruelty,クルーエルティ
 Lifetap,ライフタップ
 Earthbreaker,大地を破壊するもの
-Focused Ballista,Focused Ballista
-Behead,Behead
+Focused Ballista,フォーカス・バリスタ
+Behead,斬首
 Poisonous Concoction,ポイゾナスコンコクション
 Temporal Rift,テンポラルリフト
 Soul Link,ソウルリンク
@@ -541,12 +541,12 @@ Point Blank,ポイントブランク
 Iron Grip,アイアングリップ
 Iron Will,アイアンウィル
 Onslaught,猛攻
-Awakened Empower,Awakened Empower
-Awakened Enlighten,Awakened Enlighten
-Awakened Enhance,Awakened Enhance
-Divine Blessing,Divine Blessing
-Mark On Hit,Mark On Hit
-Eternal Blessing,Eternal Blessing
+Awakened Empower,覚醒エンパワー
+Awakened Enlighten,覚醒エンライトン
+Awakened Enhance,覚醒エンハンス
+Divine Blessing,ディバイン・ブレッシング
+Mark On Hit,ヒット時マーク
+Eternal Blessing,エターナル・ブレッシング
 Overcharge,過剰感電
 Cursed Ground,呪い領域
 Hex Bloom,呪術の華
@@ -564,26 +564,26 @@ Playtest Attack,プレイテストアタック
 Playtest Spell,プレイテストスペル
 Playtest Slam,プレイテストスラム
 Quickstep,クイックステップ
-Returning Projectiles,Returning Projectiles
+Returning Projectiles,リターニング・プロジェクタイル
 Momentum,モーメンタム
-Manaforged Arrows,Manaforged Arrows
-Prismatic Burst,Prismatic Burst
-Trauma,Trauma
+Manaforged Arrows,マナフォーgedアロー
+Prismatic Burst,プリズマティック バースト
+Trauma,トラウマ設定
 Spellblade,スペルブレード
 Devour,デバウアー
 Fresh Meat,新鮮な肉
-Flamewood,Flamewood
-Corrupting Cry,Corrupting Cry
-Guardian's Blessing,Guardian's Blessing
+Flamewood,フレイムウッド
+Corrupting Cry,コラプティングクライ
+Guardian's Blessing,ガーディアンズ・ブレッシング
 Sacrifice,サクリファイス
-Frigid Bond,Frigid Bond
-Locus Mine,Locus Mine
-Sadism,Sadism
-Controlled Blaze,Controlled Blaze
+Frigid Bond,フリジッド・ボンド
+Locus Mine,ローカス・マイン
+Sadism,サディズム
+Controlled Blaze,コントロールト・ブレイズ
 Volatility,ボラティリティ
 Automation,自動化
 Call to Arms,コールトゥアームズ
-Sacred Wisps,Sacred Wisps
+Sacred Wisps,聖なるウィスプ
 Spectre: {0},スペクター: {0}
 Enervating Nova,エナヴェイティングノヴァ
 His Vile Intrusion,ヒズヴァイルイントリュージョン
@@ -621,11 +621,11 @@ His Dark Horizon,ヒズダークホライゾン
 Killing Palm,キリングパーム
 Shattering Palm,シャタリングパーム
 Volcano,ボルケーノ
-Summon Wolf,Summon Wolf
+Summon Wolf,ウルフを召喚
 Spiral Volley,スパイラルボレー
 Lightning Bolt,ライトニングボルト
 Rampage,ランページ
-Lightning Storm,Lightning Storm
+Lightning Storm,ライトニング・ストーム
 Furious Slam,フューリアススラム
 Coming Soon,近日公開
 Lingering Illusion,リンガーリングイリュージョン
@@ -913,7 +913,7 @@ Pierce II,貫通 II
 Pierce III,貫通 III
 Multishot I,マルチショット I
 Multishot II,マルチショット II
-Nova Projectiles,Nova Projectiles
+Nova Projectiles,ノヴァ・プロジェクタイル
 Wind Wave,ウィンドウェーブ
 Poison I,毒 I
 Poison II,毒 II
@@ -993,7 +993,7 @@ Precision II,プレシジョン II
 Freeze,凍結
 Energy Barrier,エナジーバリア
 Frost Nexus,フロストネクサス
-Shock Conduction,Shock Conduction
+Shock Conduction,ショック・コンダクション
 Magnified Area I,効果範囲拡大 I
 Magnified Area II,効果範囲拡大 II
 Concentrated Area,効果範囲集中
@@ -1008,7 +1008,7 @@ Frozen Vortex,フローズンヴォーテックス
 Shock Siphon,感電エナジーシールド吸収
 Frostfire,フロストファイヤー
 Stormfire,ストームファイヤー
-Inevitable Critical,Inevitable Critical
+Inevitable Critical,イネビタブル・クリティカル
 Elemental Discharge,エレメンタルディチャージ
 Mana Flare,マナフレア
 Minion Instability,ミニオンインスタビリティ
@@ -1221,7 +1221,7 @@ Strong Hearted,強心
 Refraction I,屈折装甲 I
 Refraction II,屈折装甲 II
 Refraction III,屈折装甲 III
-Greatwood I,Greatwood I
+Greatwood I,グレートウッド I
 Greatwood II,大樹 II
 Untouchable,アンタッチャブル
 Unabating,堅守
@@ -1269,7 +1269,7 @@ Encroaching Ground,侵蝕する領域
 Living Lightning,リビングライトニング
 Living Lightning II,リビングライトニング II
 Frozen Spite,フローズンスパイト
-Piety's Mercy,Piety's Mercy
+Piety's Mercy,パイエティの慈悲
 Flame Pillar,火柱
 Streamlined Rounds,効率化弾薬
 Perfected Endurance,パーフェクトエンデュランス
@@ -1336,10 +1336,10 @@ Divine Retribution,ディヴァインリトリビューション
 Vengeful Cry,ヴェンジフルクライ
 Autoexertion,奮起自動化
 Order: To me!,命令：来い！
-More Duration,More Duration
-Overexertion,Overexertion
-Expert Retaliation,Expert Retaliation
-Focused Channelling,Focused Channelling
+More Duration,持続時間延長
+Overexertion,過剰な努力
+Expert Retaliation,熟練の報復
+Focused Channelling,集中チャネリング
 Wall of Force,ウォールオブフォース
 Conflagration,コンフラグレーション
 Kinetic Rain,キネティックレイン
@@ -1362,8 +1362,8 @@ Dance in the White,ダンスインザホワイト
 Falling Crystals,ファオーリングクリスタル
 The Great Avalanche,グレートアバランチ
 Preserving Stillness,プリザービングスティルネス
-Windburst,Windburst
-Kinetic Instability,Kinetic Instability
+Windburst,ウィンドバースト
+Kinetic Instability,キネティック不安定性
 Coursing Current,雷の奔流
 Molten Crash,モルテンクラッシュ
 Shattering Spite,シャタリングスパイト
@@ -1475,55 +1475,55 @@ Holy Hammers,ホーリーハンマー
 Shield of Light,シールドオブライト
 Holy Strike,ホーリーストライク
 Divine Blast,ディバインブラスト
-Multiple Projectiles,Multiple Projectiles
-Greater Spell Cascade,Greater Spell Cascade
-Eclipse,Eclipse
-Invert the Rules,Invert the Rules
-Cast on Ward Break,Cast on Ward Break
+Multiple Projectiles,複数プロジェクタイル
+Greater Spell Cascade,グレータースペルカスケード
+Eclipse,エクリプス
+Invert the Rules,ルール反転
+Cast on Ward Break,ワード破壊時発動
 Ward,ウォード
-Vaal Sacrifice,Vaal Sacrifice
-Greater Spell Echo,Greater Spell Echo
-Vaal Temptation,Vaal Temptation
-Machinations,Machinations
-Pyre,Pyre
-Bonespire,Bonespire
-Foulgrasp,Foulgrasp
-Hiveborn,Hiveborn
-Scornful Herald,Scornful Herald
-Cull the Weak,Cull the Weak
-Greater Ancestral Call,Greater Ancestral Call
-Fissure,Fissure
-Hextoad,Hextoad
-Hexpass,Hexpass
-Greater Fork,Greater Fork
-Greater Chain,Greater Chain
-Lethal Dose,Lethal Dose
-Companionship,Companionship
-Divine Sentinel,Divine Sentinel
+Vaal Sacrifice,ヴァールサクリファイス
+Greater Spell Echo,グレータースペルエコー
+Vaal Temptation,ヴァールテンプテーション
+Machinations,マキネーション
+Pyre,業火
+Bonespire,ボーンスパイヤー
+Foulgrasp,ファウルグラップ
+Hiveborn,ハイヴボーン
+Scornful Herald,軽蔑のヘラルド
+Cull the Weak,カルザウィーク
+Greater Ancestral Call,グレーターアンセストラルコール
+Fissure,フィッシャー
+Hextoad,ヘックストード
+Hexpass,ヘックスパス
+Greater Fork,グレーターフォーク
+Greater Chain,グレーターチェイン
+Lethal Dose,致命的な用量
+Companionship,コンパニオンシップ
+Divine Sentinel,ディヴァインセンチネル
 Annihilation,壊滅
-Edify,Edify
-Invention,Invention
-Greater Kinetic Instability,Greater Kinetic Instability
-Cooldown Recovery,Cooldown Recovery
-Voidstorm,Voidstorm
-Void Shockwave,Void Shockwave
-Eldritch Blasphemy,Eldritch Blasphemy
-Gluttony,Gluttony
-Overheat,Overheat
-Greater Multistrike,Greater Multistrike
-Congregation,Congregation
-Frostmage,Frostmage
-Greater Devour,Greater Devour
-Magnetism,Magnetism
-Greater Unleash,Greater Unleash
-Pacifism,Pacifism
-Bloodsoaked Banner,Bloodsoaked Banner
-Minion Pact,Minion Pact
-Harrowing Throng,Harrowing Throng
-Unholy Trinity,Unholy Trinity
-Overloaded Intensity,Overloaded Intensity
-Transfusion,Transfusion
-Excommunicate,Excommunicate
-Exemplar,Exemplar
-Blessed Call,Blessed Call
-Hallow,Hallow
+Edify,エディファイ
+Invention,インベンション
+Greater Kinetic Instability,グレーターキネティック不安定性
+Cooldown Recovery,クールダウン回復
+Voidstorm,ヴォイドストーム
+Void Shockwave,ヴォイドショックウェーブ
+Eldritch Blasphemy,エルドリッチ冒涜
+Gluttony,強欲
+Overheat,オーバーヒート
+Greater Multistrike,グレーターマルチストライク
+Congregation,コングリゲーション
+Frostmage,フロストメイジ
+Greater Devour,グレーターデヴァウアー
+Magnetism,マグネティズム
+Greater Unleash,グレーターアンリーシュ
+Pacifism,パシフィズム
+Bloodsoaked Banner,血塗れのバナー
+Minion Pact,ミニオンの盟約
+Harrowing Throng,ハロウイングスロング
+Unholy Trinity,アンホーリートリニティ
+Overloaded Intensity,オーバーロードされたインテンシティ
+Transfusion,トランスフュージョン
+Excommunicate,エクスコミュニケート
+Exemplar,エグゼンプラー
+Blessed Call,祝福された呼び声
+Hallow,ハロウ

@@ -1,208 +1,208 @@
 ﻿Value,価値
-Stat,Stat
+Stat,ステータス
 Skill,スキル
-Source,Source
-Source Name,Source Name
+Source,ソース
+Source Name,ソース名
 Item,アイテム
 Global,グローバル
 Total,合計
-Buff,Buff
-Inc/red,Inc/red
-More/less,More/less
-Converted Damage,Converted Damage
-{0}% to Fire,{0}% to Fire
-{0}% to Cold,{0}% to Cold
-{0}% to Lightning,{0}% to Lightning
-{0}% to Chaos,{0}% to Chaos
-Physical Damage Gain As Fire,Physical Damage Gain As Fire
-Physical Damage Gain As Cold,Physical Damage Gain As Cold
-Physical Damage Gain As Lightning,Physical Damage Gain As Lightning
-Physical Damage Gain As Chaos,Physical Damage Gain As Chaos
-Base,Base
-Type,Type
-Mitigation,Mitigation
+Buff,バフ
+Inc/red,増加/減少
+More/less,上昇/低下
+Converted Damage,変換ダメージ
+{0}% to Fire,炎への{0}%
+{0}% to Cold,冷気への{0}%
+{0}% to Lightning,雷への{0}%
+{0}% to Chaos,混沌への{0}%
+Physical Damage Gain As Fire,物理ダメージを炎として得る
+Physical Damage Gain As Cold,物理ダメージを冷気として得る
+Physical Damage Gain As Lightning,物理ダメージを雷として得る
+Physical Damage Gain As Chaos,物理ダメージを混沌として得る
+Base,ベース
+Type,タイプ
+Mitigation,軽減
 Final,決勝
-Resist,Resist
+Resist,耐性
 Elemental,元素属性
-Total from Tree:,Total from Tree:
-Total from Item:,Total from Item:
-Total from Base:,Total from Base:
-Total from Skill:,Total from Skill:
-Total from Dexterity:,Total from Dexterity:
-Total from Intelligence:,Total from Intelligence:
-Total from Strength:,Total from Strength:
-{0} base,{0} base
+Total from Tree:,ツリーからの合計:
+Total from Item:,アイテムからの合計:
+Total from Base:,ベースからの合計:
+Total from Skill:,スキルからの合計:
+Total from Dexterity:,器用さからの合計:
+Total from Intelligence:,知性からの合計:
+Total from Strength:,筋力からの合計:
+{0} base,{0} ベース
 From,差出人
 Player,プレイヤー
-Total damage:,Total damage:
-Damage from Crits:,Damage from Crits:
-Damage from Non-crits:,Damage from Non-crits:
-Reduction from Armour: {0}%,Reduction from Armour: {0}%
+Total damage:,合計ダメージ:
+Damage from Crits:,クリによるダメージ:
+Damage from Non-crits:,非クリによるダメージ:
+Reduction from Armour: {0}%,アーマーによる軽減: {0}%
 Physical:,物理:
 Lightning:,雷:
 Cold:,冷気:
 Fire:,火:
 Chaos:,混沌:
-Base damage:,Base damage:
-Portion of total damage: {0}%,Portion of total damage: {0}%
-Hit damage:,Hit damage:
-Skill types,Skill types
-= {0} per second,= {0} per second
-{0}% increased,{0}% increased
-{0}% reduced,{0}% reduced
-{0}% more,{0}% more
-{0}% less,{0}% less
-Recharge rate:,Recharge rate:
-Max: {0}%,Max: {0}%
-Total: {0}%,Total: {0}%
-Average enemy accuracy: {0},Average enemy accuracy: {0}
-Approximate evade chance: {0}%,Approximate evade chance: {0}%
-Elemental Resist,Elemental Resist
-Fire Resist Max,Fire Resist Max
-Fire Resist,Fire Resist
-Cold Resist Max,Cold Resist Max
-Cold Resist,Cold Resist
-Lightning Resist Max,Lightning Resist Max
-Lightning Resist,Lightning Resist
-Chaos Resist Max,Chaos Resist Max
-Chaos Resist,Chaos Resist
-Physical Damage Reduction,Physical Damage Reduction
-{0}% as Physical,{0}% as Physical
-{0}% as Fire,{0}% as Fire
-{0}% as Cold,{0}% as Cold
-{0}% as Lightning,{0}% as Lightning
-{0}% as Chaos,{0}% as Chaos
+Base damage:,基礎ダメージ:
+Portion of total damage: {0}%,合計ダメージの割合: {0}%
+Hit damage:,ヒットダメージ:
+Skill types,スキルタイプ
+= {0} per second,{0} 毎秒
+{0}% increased,増加 {0}%
+{0}% reduced,減少 {0}%
+{0}% more,上昇 {0}%
+{0}% less,{0}% 少ない
+Recharge rate:,リチャージ速度:
+Max: {0}%,最大: {0}%
+Total: {0}%,合計: {0}%
+Average enemy accuracy: {0},平均敵命中力: {0}
+Approximate evade chance: {0}%,推定回避率: {0}%
+Elemental Resist,元素耐性
+Fire Resist Max,最大火耐性
+Fire Resist,火耐性
+Cold Resist Max,最大冷気耐性
+Cold Resist,冷気耐性
+Lightning Resist Max,最大雷耐性
+Lightning Resist,雷耐性
+Chaos Resist Max,最大混沌耐性
+Chaos Resist,混沌耐性
+Physical Damage Reduction,物理ダメージ軽減
+{0}% as Physical,{0}% 物理として
+{0}% as Fire,{0}% 火として
+{0}% as Cold,{0}% 冷気として
+{0}% as Lightning,{0}% 雷として
+{0}% as Chaos,{0}% 混沌として
 Resistance,耐性
 Average Damage,平均ダメージ
 Attack Rate,攻撃速度
 Cast Rate,詠唱速度
-Hit Rate,Hit Rate
-Trap Throwing Time,Trap Throwing Time
-Trap Cooldown,Trap Cooldown
-Totem Placement Time,Totem Placement Time
-Hit Chance,Hit Chance
-DoT DPS,DoT DPS
-Bleed DPS,Bleed DPS
-Ignite DPS,Ignite DPS
-Total Damage per Ignite,Total Damage per Ignite
-Total DPS inc. Ignite,Total DPS inc. Ignite
-Average Dmg. inc. Ignite,Average Dmg. inc. Ignite
-Poison DPS,Poison DPS
-Total Damage per Poison,Total Damage per Poison
-Total DPS inc. Poison,Total DPS inc. Poison
-Average Dmg. inc. Poison,Average Dmg. inc. Poison
-Decay DPS,Decay DPS
-AoE Radius,AoE Radius
-Strength Required,Strength Required
-Dexterity Required,Dexterity Required
-Intelligence Required,Intelligence Required
-Total Life,Total Life
-%Inc Life from Tree,%Inc Life from Tree
-Unreserved Life,Unreserved Life
-Life Leech/On Hit Rate,Life Leech/On Hit Rate
-Life Leech/Gain per Hit,Life Leech/Gain per Hit
-Total Mana,Total Mana
-%Inc Mana from Tree,%Inc Mana from Tree
-Unreserved Mana,Unreserved Mana
-Mana Regen,Mana Regen
-Mana Leech/On Hit Rate,Mana Leech/On Hit Rate
-Mana Leech/Gain per Hit,Mana Leech/Gain per Hit
-%Inc ES from Tree,%Inc ES from Tree
-Energy Shield Regen,Energy Shield Regen
-Energy Shield Regen:,Energy Shield Regen:
+Hit Rate,ヒット頻度
+Trap Throwing Time,トラップ投擲時間
+Trap Cooldown,トラップクールダウン
+Totem Placement Time,トーテム設置時間
+Hit Chance,命中率
+DoT DPS,持続ダメージDPS
+Bleed DPS,出血DPS
+Ignite DPS,点火DPS
+Total Damage per Ignite,点火ごとの合計ダメージ
+Total DPS inc. Ignite,点火含む合計DPS
+Average Dmg. inc. Ignite,点火含む平均ダメージ
+Poison DPS,毒DPS
+Total Damage per Poison,毒ごとの合計ダメージ
+Total DPS inc. Poison,毒含む合計DPS
+Average Dmg. inc. Poison,毒含む平均ダメージ
+Decay DPS,崩壊DPS
+AoE Radius,AoE半径
+Strength Required,必要筋力
+Dexterity Required,必要器用さ
+Intelligence Required,必要知性
+Total Life,総ライフ
+%Inc Life from Tree,ツリーからのライフ増加率
+Unreserved Life,未リザーブライフ
+Life Leech/On Hit Rate,ライフリーチ/ヒット時頻度
+Life Leech/Gain per Hit,ライフリーチ/ヒットごとの獲得
+Total Mana,総マナ
+%Inc Mana from Tree,ツリーからのマナ増加率
+Unreserved Mana,未リザーブマナ
+Mana Regen,マナ自動回復
+Mana Leech/On Hit Rate,マナリーチ/ヒット時頻度
+Mana Leech/Gain per Hit,マナリーチ/ヒットごとの獲得
+%Inc ES from Tree,ツリーからのエナジーシールド増加率
+Energy Shield Regen,エナジーシールド自動回復
+Energy Shield Regen:,エナジーシールド自動回復:
 Energy Shield Recharge,エナジーシールドリチャージ
-ES Leech/On Hit Rate,ES Leech/On Hit Rate
-ES Leech/Gain per Hit,ES Leech/Gain per Hit
-Evasion rating,Evasion rating
-%Inc Evasion from Tree,%Inc Evasion from Tree
-%Inc Armour from Tree,%Inc Armour from Tree
-Phys. Damage Reduction,Phys. Damage Reduction
-Movement Speed Modifier,Movement Speed Modifier
+ES Leech/On Hit Rate,エナジーシールドリーチ/ヒット時頻度
+ES Leech/Gain per Hit,エナジーシールドリーチ/ヒットごとの獲得
+Evasion rating,回避値
+%Inc Evasion from Tree,ツリーからの回避増加率
+%Inc Armour from Tree,ツリーからのアーマー増加率
+Phys. Damage Reduction,物理ダメージ軽減
+Movement Speed Modifier,移動速度補正
 Block Chance,ブロック確率
-Spell Block Chance,Spell Block Chance
-Attack Dodge Chance,Attack Dodge Chance
-Spell Dodge Chance,Spell Dodge Chance
-Fire Res. Over Max,Fire Res. Over Max
-Cold Res. Over Max,Cold Res. Over Max
-Lightning Res. Over Max,Lightning Res. Over Max
-Chaos Res. Over Max,Chaos Res. Over Max
-Speed,Speed
-{0} (base throwing speed),{0} (base throwing speed)
-{0} (increased/reduced throwing speed),{0} (increased/reduced throwing speed)
-{0} (more/less throwing speed),{0} (more/less throwing speed)
-{0} (action speed modifier),{0} (action speed modifier)
-{0} (base),{0} (base)
-/ {0} (increased/reduced cooldown recovery),/ {0} (increased/reduced cooldown recovery)
-{0} (base placement speed),{0} (base placement speed)
-{0} (increased/reduced placement speed),{0} (increased/reduced placement speed)
-{0} (more/less placement speed),{0} (more/less placement speed)
- (base life for a level {0} monster), (base life for a level {0} monster)
-x {0} (life multiplier for this totem type),x {0} (life multiplier for this totem type)
-x {0} (totem life modifier),x {0} (totem life modifier)
-- %d (- mana cost),- %d (- mana cost)
-x {0} (portion of instances created by main hand),x {0} (portion of instances created by main hand)
-x {0} (portion of instances created by off hand),x {0} (portion of instances created by off hand)
-{0} + {0} (base),{0} + {0} (base)
-= {0}% (crit chance),= {0}% (crit chance)
-{0}% (additional extra damage),{0}% (additional extra damage)
-x {0} (increased/reduced extra crit damage taken by enemy),x {0} (increased/reduced extra crit damage taken by enemy)
-= {0}% (extra crit damage),= {0}% (extra crit damage)
-{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier),{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier)
-{0} to {1} x {2} (added damage multiplied by damage effectiveness),{0} to {1} x {2} (added damage multiplied by damage effectiveness)
-{0} x {1} - {2} (damage from non-crits),{0} x {1} - {2} (damage from non-crits)
-+ {0} x {1} (damage from crits),+ {0} x {1} (damage from crits)
-{0} x {1} - {2} (chance from non-crits),{0} x {1} - {2} (chance from non-crits)
-+ {0} x {1} (chance from crits),+ {0} x {1} (chance from crits)
-{0} (source damage),{0} (source damage)
-{0} (source damage from non-crits),{0} (source damage from non-crits)
-{0} (source damage from crits),{0} (source damage from crits)
-x {0} (bleed deals {1}% per second),x {0} (bleed deals {1}% per second)
-{0} (total damage per second),{0} (total damage per second)
-{0} (damage rate modifier),{0} (damage rate modifier)
-/ {0} (damage rate modifier),/ {0} (damage rate modifier)
-Ignite mode: {0} (can be changed in the Configuration tab),Ignite mode: {0} (can be changed in the Configuration tab)
-Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab),Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab)
-{0} (ignite chance),{0} (ignite chance)
-+ {0} x {1} (portion of damage from crits),+ {0} x {1} (portion of damage from crits)
-{0} base Fire Resist Max,{0} base Fire Resist Max
-{0} base Cold Resist Max,{0} base Cold Resist Max
-{0} base Lightning Resist Max,{0} base Lightning Resist Max
-{0} base Chaos Resist Max,{0} base Chaos Resist Max
-{0} base Elemental Resist,{0} base Elemental Resist
-{0} base Fire Resist,{0} base Fire Resist
-{0} base Cold Resist,{0} base Cold Resist
-{0} base Lightning Resist,{0} base Lightning Resist
-{0} base Chaos Resist,{0} base Chaos Resist
-{0} per {1} Str,{0} per {1} Str
-{0}% per {1} Str,{0}% per {1} Str
-{0} per {1} Dex,{0} per {1} Dex
-{0} per {1} Int,{0} per {1} Int
-{0} per {1} Mana,{0} per {1} Mana
-{0} + {1} per Level,{0} + {1} per Level
+Spell Block Chance,スペルブロック率
+Attack Dodge Chance,攻撃回避率
+Spell Dodge Chance,スペル回避率
+Fire Res. Over Max,火炎耐性上限超過
+Cold Res. Over Max,冷気耐性上限超過
+Lightning Res. Over Max,雷撃耐性上限超過
+Chaos Res. Over Max,混沌耐性上限超過
+Speed,速度
+{0} (base throwing speed),{0} (基礎投擲速度)
+{0} (increased/reduced throwing speed),{0} (投擲速度増減)
+{0} (more/less throwing speed),{0} (投擲速度上昇/低下)
+{0} (action speed modifier),{0} (アクション速度補正)
+{0} (base),{0} (基礎)
+/ {0} (increased/reduced cooldown recovery),/ {0} (クールダウン回復増減)
+{0} (base placement speed),{0} (基礎設置速度)
+{0} (increased/reduced placement speed),{0} (設置速度増減)
+{0} (more/less placement speed),{0} (設置速度上昇/低下)
+ (base life for a level {0} monster), (ランク {0} モンスターの基礎ライフ)
+x {0} (life multiplier for this totem type),x {0} (このトーテムのライフ倍率)
+x {0} (totem life modifier),x {0} (トーテムライフ補正)
+- %d (- mana cost),- %d (- マナコスト)
+x {0} (portion of instances created by main hand),x {0} (メインハンドによるインスタンス生成割合)
+x {0} (portion of instances created by off hand),x {0} (オフハンドによるインスタンス生成割合)
+{0} + {0} (base),{0} + {0} (基礎)
+= {0}% (crit chance),= {0}% (クリ率)
+{0}% (additional extra damage),{0}% (追加追加ダメージ)
+x {0} (increased/reduced extra crit damage taken by enemy),x {0} (敵が受ける追加クリティカルダメージ増減)
+= {0}% (extra crit damage),= {0}% (追加クリティカルダメージ)
+{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier),{0} から {1} x {2} (ベースダメージは {3} からの倍率で増加) 
+{0} to {1} x {2} (added damage multiplied by damage effectiveness),{0} から {1} x {2} (追加ダメージにダメージ効果を乗算)
+{0} x {1} - {2} (damage from non-crits),{0} x {1} - {2} (非クリによるダメージ)
++ {0} x {1} (damage from crits),+ {0} x {1} (クリによるダメージ)
+{0} x {1} - {2} (chance from non-crits),{0} x {1} - {2} (非クリによる確率)
++ {0} x {1} (chance from crits),+ {0} x {1} (クリによる確率)
+{0} (source damage),{0} (ソースダメージ)
+{0} (source damage from non-crits),{0} (非クリによるソースダメージ)
+{0} (source damage from crits),{0} (クリによるソースダメージ)
+x {0} (bleed deals {1}% per second),x {0} (出血は毎秒 {1}% のダメージ)
+{0} (total damage per second),{0} (合計ダメージ毎秒)
+{0} (damage rate modifier),{0} (ダメージ速度補正)
+/ {0} (damage rate modifier),/ {0} (ダメージ速度補正)
+Ignite mode: {0} (can be changed in the Configuration tab),発火モード: {0} (設定タブで変更可能)
+Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab),敵の物理ヒットダメージ: {0} (設定タブで上書き可能)
+{0} (ignite chance),{0} (発火確率)
++ {0} x {1} (portion of damage from crits),+ {0} x {1} (クリによるダメージ割合)
+{0} base Fire Resist Max,{0} 基礎火炎耐性上限
+{0} base Cold Resist Max,{0} 基礎冷気耐性上限
+{0} base Lightning Resist Max,{0} 基礎雷撃耐性上限
+{0} base Chaos Resist Max,{0} 基礎混沌耐性上限
+{0} base Elemental Resist,{0} 基礎元素耐性
+{0} base Fire Resist,{0} 基礎火炎耐性
+{0} base Cold Resist,{0} 基礎冷気耐性
+{0} base Lightning Resist,{0} 基礎雷撃耐性
+{0} base Chaos Resist,{0} 基礎混沌耐性
+{0} per {1} Str,{0} / {1} 力
+{0}% per {1} Str,{0}% / {1} 力
+{0} per {1} Dex,{0} / {1} 技
+{0} per {1} Int,{0} / {1} 知
+{0} per {1} Mana,{1} マナあたり {0}
+{0} + {1} per Level,{0} + レベルあたり {1}
 Name,名称
 Reservation,リザーブ
-Mana Regeneration:,Mana Regeneration:
-Life Regen Percent,Life Regen Percent
-Mana Regen Percent,Mana Regen Percent
-Armour And Evasion,Armour And Evasion
-{0}% increased Armour And Evasion,{0}% increased Armour And Evasion
+Mana Regeneration:,マナ自動回復:
+Life Regen Percent,ライフ自動回復率
+Mana Regen Percent,マナ自動回復率
+Armour And Evasion,アーマーと回避
+{0}% increased Armour And Evasion,{0}% 増加したアーマーと回避
 {0}% increased Evasion,回避力が{0}%増加する
-Conversion,Conversion
-Life to Energy Shield,Life to Energy Shield
-{0}{1}% per second),{0}{1}% per second)
-Chance on Non-crit: {0}%,Chance on Non-crit: {0}%
-Chance on Crit: {0}%,Chance on Crit: {0}%
-Combined chance:,Combined chance:
-"For freeze to apply, target must have no more than {0} life.","For freeze to apply, target must have no more than {0} life."
-"For shock to apply, target must have no more than {0} life.","For shock to apply, target must have no more than {0} life."
-{0} Power Charges,{0} Power Charges
-{0} Endurance Charges,{0} Endurance Charges
-{0} Frenzy Charges,{0} Frenzy Charges
-{0} Inspiration Charges,{0} Inspiration Charges
-Tailwind,Tailwind
-Exclusive to,Exclusive to
-Enemy resistance: {0}%,Enemy resistance: {0}%
-Cannot pierce,Cannot pierce
-Cannot fork,Cannot fork
-Cannot chain,Cannot chain
-Eff. Maximum Hit Taken:,Eff. Maximum Hit Taken:
+Conversion,変換
+Life to Energy Shield,ライフをエナジーシールドに
+{0}{1}% per second),{0}{1}% 毎秒)
+Chance on Non-crit: {0}%,非クリ時確率: {0}%
+Chance on Crit: {0}%,クリ時確率: {0}%
+Combined chance:,合算確率:
+"For freeze to apply, target must have no more than {0} life.",凍結を適用するには、対象のライフが {0} 以下である必要があります。
+"For shock to apply, target must have no more than {0} life.",感電を適用するには、対象のライフが {0} 以下である必要があります。
+{0} Power Charges,{0} パワーチャージ
+{0} Endurance Charges,{0} エンデュランスチャージ
+{0} Frenzy Charges,{0} フレンジーチャージ
+{0} Inspiration Charges,{0} インスピレーションチャージ
+Tailwind,追い風
+Exclusive to,専用
+Enemy resistance: {0}%,敵耐性: {0}%
+Cannot pierce,貫通できない
+Cannot fork,フォークできない
+Cannot chain,チェインできない
+Eff. Maximum Hit Taken:,実効最大被ヒット:

@@ -1,110 +1,110 @@
-﻿(You can only take one of the three Witch Ascendancy passives),(You can only take one of the three Witch Ascendancy passives)
-"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)","(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)"
-(Recently refers to the past 4 seconds),(Recently refers to the past 4 seconds)
-(You can only take one of the three Templar Ascendancy passives),(You can only take one of the three Templar Ascendancy passives)
-"(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)","(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)"
-"(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)","(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)"
-(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats),(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats)
-(You can only take one of the three Ranger Ascendancy passives),(You can only take one of the three Ranger Ascendancy passives)
-(You can only take one of the three Marauder Ascendancy passives),(You can only take one of the three Marauder Ascendancy passives)
-(Maximum Rage is 50),(Maximum Rage is 50)
-(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)
-(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance)
-"(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)","(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
-(You can only take one of the three Shadow Ascendancy passives),(You can only take one of the three Shadow Ascendancy passives)
-(Intimidated enemies take 10% increased Attack Damage),(Intimidated enemies take 10% increased Attack Damage)
-"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)","(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)"
-"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)","(Onslaught grants 20% increased Attack, Cast, and Movement Speed)"
-(You can only take one of the three Duelist Ascendancy passives),(You can only take one of the three Duelist Ascendancy passives)
-(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed),(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)
-(Choose one of the three attached options),(Choose one of the three attached options)
-"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)","(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)"
-(Blinded enemies have their Chance to Hit halved),(Blinded enemies have their Chance to Hit halved)
-"(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)","(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)"
-"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)","(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)"
-"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)","(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)"
-Enemies have -12% to Total Physical Damage Reduction against your Hits,Enemies have -12% to Total Physical Damage Reduction against your Hits
-Enemies have -5% to Total Physical Damage Reduction against your Hits,Enemies have -5% to Total Physical Damage Reduction against your Hits
-Enemies have -10% to Total Physical Damage Reduction against your Hits,Enemies have -10% to Total Physical Damage Reduction against your Hits
+﻿(You can only take one of the three Witch Ascendancy passives),(3つのウィッチのアセンダンシーパッシブのうち1つのみ取得可能)
+"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)",(ショックはヒットの雷ダメージ量に応じて、最大50%まで受けるダメージを増加させる。2秒間持続)
+(Recently refers to the past 4 seconds),(最近とは過去4秒間を指す)
+(You can only take one of the three Templar Ascendancy passives),(3つのテンプラーのアセンダンシーパッシブのうち1つのみ取得可能)
+"(Arcane Surge grants 10% more Spell Damage, 10% increased Cast Speed, and 0.5% of maximum Mana Regenerated per second, for 4 seconds)",(秘術の急流は、4秒間、呪文ダメージを10%増加させ、詠唱速度を10%増加させ、最大マナの0.5%を毎秒再生する)
+"(Poison deals Chaos Damage over time, based on the base Physical and Chaos Damage of the Skill. Multiple instances of Poison stack)",(毒は、スキルの物理ダメージと混沌ダメージのベース値に基づいて継続ダメージを与える。毒は複数スタックする)
+(Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats),(耐性を無視するとは、ダメージがいかなる耐性ステータスによっても一切変更されないことを意味する)
+(You can only take one of the three Ranger Ascendancy passives),(3つのレンジャーのアセンダンシーパッシブのうち1つのみ取得可能)
+(You can only take one of the three Marauder Ascendancy passives),(3つのマローダーのアセンダンシーパッシブのうち1つのみ取得可能)
+(Maximum Rage is 50),(最大Rageは50)
+(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(最近Rageを獲得していない、またはヒットされていない場合、0.5秒ごとに1 Rage失う)
+(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),(聖域上の味方は最大ライフの一定割合を毎秒再生する。聖域上の敵へのヒットはクリティカル率が増加する)
+"(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(属性異常とは、発火、灼熱、冷気、凍結、脆化、ショック、および弱体化のこと)
+(You can only take one of the three Shadow Ascendancy passives),(3つのシャドウのアセンダンシーパッシブのうち1つのみ取得可能)
+(Intimidated enemies take 10% increased Attack Damage),(恐怖状態の敵は受ける攻撃ダメージが10%増加する)
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",(アドレナリンは、ダメージを100%増加させ、攻撃・詠唱・移動速度を25%増加させ、物理ダメージ軽減を10%追加する)
+"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)",(オンスロートは、攻撃・詠唱・移動速度を20%増加させる)
+(You can only take one of the three Duelist Ascendancy passives),(3つのデュエリストのアセンダンシーパッシブのうち1つのみ取得可能)
+(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed),(とどめの一撃とは、ヒット後にライフが10%以下の敵が死亡すること)
+(Choose one of the three attached options),(添付された3つのオプションのうち1つを選択)
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is higher while moving)",(出血は、スキルの物理ダメージのベース値に基づいて継続ダメージを与える。移動中はダメージが増加する)
+(Blinded enemies have their Chance to Hit halved),(盲目状態の敵はヒット確率が半減する)
+"(Withered applies 6% increased Chaos Damage Taken, and can be inflicted up to 15 times)",(弱体化は、受ける混沌ダメージを6%増加させ、最大15回まで付与可能)
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting. Duration is based on the Cold Damage of the Hit)",(凍結は敵の行動速度をゼロにし、行動不能にする。持続時間はヒットの冷気ダメージに基づく)
+"(Enemies you Taunt can only target you, and deal 10% less damage to anyone else. Taunt lasts for 3 seconds)",(あなたが挑発した敵はあなたのみをターゲットし、それ以外の対象へのダメージが10%低下する。挑発は3秒間持続)
+Enemies have -12% to Total Physical Damage Reduction against your Hits,敵のヒットに対する合計物理ダメージ軽減を-12%する
+Enemies have -5% to Total Physical Damage Reduction against your Hits,敵のヒットに対する合計物理ダメージ軽減を-5%する
+Enemies have -10% to Total Physical Damage Reduction against your Hits,敵のヒットに対する合計物理ダメージ軽減を-10%する
 3% more Damage per Summoned Totem,召喚したトーテム1体ごとにダメージが3%上昇する
-Enemies you Impale have -5% to Total Physical Damage Reduction against Impale Hits,Enemies you Impale have -5% to Total Physical Damage Reduction against Impale Hits
-Enemies you Impale have -10% to Total Physical Damage Reduction against Impale Hits,Enemies you Impale have -10% to Total Physical Damage Reduction against Impale Hits
-Auras from your Skills grant 3% increased Attack and Cast,Auras from your Skills grant 3% increased Attack and Cast
+Enemies you Impale have -5% to Total Physical Damage Reduction against Impale Hits,あなたが刺突した敵の、刺突ヒットに対する合計物理ダメージ軽減を-5%する
+Enemies you Impale have -10% to Total Physical Damage Reduction against Impale Hits,あなたが刺突した敵の、刺突ヒットに対する合計物理ダメージ軽減を-10%する
+Auras from your Skills grant 3% increased Attack and Cast,あなたのスキルによるオーラは、攻撃と詠唱を3%増加させる
 You and nearby Allies have +20% to Elemental Resistances,プレイヤーおよび近くの味方の元素耐性が+20%される
-Enemies have -15% to Total Physical Damage Reduction against your Hits,Enemies have -15% to Total Physical Damage Reduction against your Hits
+Enemies have -15% to Total Physical Damage Reduction against your Hits,敵のヒットに対する合計物理ダメージ軽減を-15%する
 30% increased Critical Strike Chance against Shocked Enemies,感電状態の敵に対するクリティカル率が30%増加する
-(Fortify grants 20% less Damage Taken from Hits),(Fortify grants 20% less Damage Taken from Hits)
-"(Defences are Armour, Evasion Rating and Energy Shield)","(Defences are Armour, Evasion Rating and Energy Shield)"
-"(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)","(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)"
-"(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)","(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
-(Physical Damage Reduction cannot be negative),(Physical Damage Reduction cannot be negative)
-"(Projectile Attacks gain Damage as they travel farther, dealing up to 30% more Attack Damage with Hits to targets)","(Projectile Attacks gain Damage as they travel farther, dealing up to 30% more Attack Damage with Hits to targets)"
-"(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)","(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)"
-(Warstaves are considered Staves),(Warstaves are considered Staves)
-"(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)","(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)"
-(Rune Daggers are considered Daggers),(Rune Daggers are considered Daggers)
-(The Stun Threshold determines how much Damage can Stun something),(The Stun Threshold determines how much Damage can Stun something)
-(Maximum Resistances cannot be raised above 90%),(Maximum Resistances cannot be raised above 90%)
-(Unholy Might grants 30% of Physical Damage as extra Chaos Damage),(Unholy Might grants 30% of Physical Damage as extra Chaos Damage)
-(They will deal the same total damage over a shorter duration),(They will deal the same total damage over a shorter duration)
-(Knockback pushes Enemies away when Hit),(Knockback pushes Enemies away when Hit)
-"(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)","(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
-(No chance to avoid damage can be higher than 75%),(No chance to avoid damage can be higher than 75%)
-"(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)","(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)"
-"(Debuffs you are Unaffected by can still be placed on you, but will not actually apply their effect)","(Debuffs you are Unaffected by can still be placed on you, but will not actually apply their effect)"
-(Chill reduces Enemy Action Speed by 10% for 2 seconds),(Chill reduces Enemy Action Speed by 10% for 2 seconds)
-"(The effects of the ground still apply to you, allies or enemies after leaving its area)","(The effects of the ground still apply to you, allies or enemies after leaving its area)"
-(Enemies that are Covered in Ash have 20% less Movement Speed and 20% increased Fire Damage Taken),(Enemies that are Covered in Ash have 20% less Movement Speed and 20% increased Fire Damage Taken)
-(Auras can only grant bonuses to things they affect),(Auras can only grant bonuses to things they affect)
-(Unnerved enemies take 10% increased Spell Damage),(Unnerved enemies take 10% increased Spell Damage)
-(Killing an Enemy is not Spawning a corpse),(Killing an Enemy is not Spawning a corpse)
-(Shock increases Damage taken by 15%),(Shock increases Damage taken by 15%)
-(Chill reduces Enemy Action Speed by 10%),(Chill reduces Enemy Action Speed by 10%)
-"(While you have Phasing, your movement is not blocked by Enemies)","(While you have Phasing, your movement is not blocked by Enemies)"
-(Hindered enemies have reduced movement speed),(Hindered enemies have reduced movement speed)
-(A Hit that removes at least 15% of Maximum Life is a Savage Hit),(A Hit that removes at least 15% of Maximum Life is a Savage Hit)
-(Blitz Charges have a base Duration of 5 seconds),(Blitz Charges have a base Duration of 5 seconds)
-"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)","(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)"
-(Overkill Damage is any Damage from a Hit in excess of the Enemy's remaining Life),(Overkill Damage is any Damage from a Hit in excess of the Enemy's remaining Life)
-(You are on Low Life if you have 35% of your Maximum Life or less),(You are on Low Life if you have 35% of your Maximum Life or less)
-"(Elusive initially grants 15% chance to Dodge Spell or Attack Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)","(Elusive initially grants 15% chance to Dodge Spell or Attack Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)"
-(Increases and Reductions to Maximum Energy Shield,(Increases and Reductions to Maximum Energy Shield
-also apply to Spell Damage at 30% of their value),also apply to Spell Damage at 30% of their value)
-(Increases and Reductions to Maximum Mana also apply to Damage at 30% of their value),(Increases and Reductions to Maximum Mana also apply to Damage at 30% of their value)
-(Enemies with Malediction deal 10% reduced damage and take 10% increased damage),(Enemies with Malediction deal 10% reduced damage and take 10% increased damage)
-"(Freeze lowers Enemy Action Speed to zero, preventing them from acting)","(Freeze lowers Enemy Action Speed to zero, preventing them from acting)"
-(Maimed enemies have 30% reduced Movement Speed),(Maimed enemies have 30% reduced Movement Speed)
-(Attacks that Trigger when you are Hit are Counterattacks),(Attacks that Trigger when you are Hit are Counterattacks)
-"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)","(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)"
-(Permanent Auras are Auras with no Duration),(Permanent Auras are Auras with no Duration)
-"(Up to 10 Vines can grasp you, inflicting 8% less Movement Speed per Vine. Broken by moving)","(Up to 10 Vines can grasp you, inflicting 8% less Movement Speed per Vine. Broken by moving)"
-"(Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)","(Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)"
-"(Hits have up to +15% Critical Strike Chance against Brittle Enemies, based on the Cold Damage of the Hit which inflicted Brittle, for 4 seconds)","(Hits have up to +15% Critical Strike Chance against Brittle Enemies, based on the Cold Damage of the Hit which inflicted Brittle, for 4 seconds)"
-"(Sapped Enemies deal up to 20% less Damage, based on the Lightning Damage of the Hit, for 4 seconds)","(Sapped Enemies deal up to 20% less Damage, based on the Lightning Damage of the Hit, for 4 seconds)"
-"(You are Unencumbered while you have no Gloves, no Main Hand Item, and no Off Hand Item Equipped)","(You are Unencumbered while you have no Gloves, no Main Hand Item, and no Off Hand Item Equipped)"
-"(Attributes are Strength, Dexterity, and Intelligence)","(Attributes are Strength, Dexterity, and Intelligence)"
-(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(Cold Exposure applies -10% to Cold Resistance for 4 seconds)
-(Fire Exposure applies -10% to Fire Resistance for 4 seconds),(Fire Exposure applies -10% to Fire Resistance for 4 seconds)
-(Lightning Exposure applies -10% to Lightning Resistance for 4 seconds),(Lightning Exposure applies -10% to Lightning Resistance for 4 seconds)
-(Throwing Mines takes 10% more time for each additional Mine thrown),(Throwing Mines takes 10% more time for each additional Mine thrown)
-(Increases and Reductions to Maximum Life also apply to Attack Damage at 30% of their value),(Increases and Reductions to Maximum Life also apply to Attack Damage at 30% of their value)
-(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand),(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand)
-"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)","(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)"
-(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage),(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage)
-"(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)","(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)"
-"(Armour is treated as double value, only for calculating damage mitigation)","(Armour is treated as double value, only for calculating damage mitigation)"
-"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)","(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)"
-(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand),(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand)
-(Effects cannot be slowed below 25% of their normal expiry rate),(Effects cannot be slowed below 25% of their normal expiry rate)
-(You are in Blood Stance by default),(You are in Blood Stance by default)
-"(Alchemist's Genius increases Flask Charges gained by 20% and effect of Flasks by 10%, for 4 seconds)","(Alchemist's Genius increases Flask Charges gained by 20% and effect of Flasks by 10%, for 4 seconds)"
-"(Normal Monsters have 1 Power, Magic Monsters 2, Rare Monsters 10, Unique Monsters 20, and Players 5)","(Normal Monsters have 1 Power, Magic Monsters 2, Rare Monsters 10, Unique Monsters 20, and Players 5)"
-"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)","(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)"
-"(Cold Ailments are Chilled, Frozen and Brittle)","(Cold Ailments are Chilled, Frozen and Brittle)"
-(Lightning Ailments are Shocked and Sapped),(Lightning Ailments are Shocked and Sapped)
-(This only affects the inherent loss of Rage when you haven't been Hit or gained Rage Recently),(This only affects the inherent loss of Rage when you haven't been Hit or gained Rage Recently)
-(Hexes can gain Doom up to a maximum of 30. The effect of a Hex is increased by the amount of Doom it has),(Hexes can gain Doom up to a maximum of 30. The effect of a Hex is increased by the amount of Doom it has)
-Totem mastery,Totem mastery
+(Fortify grants 20% less Damage Taken from Hits),(防御壁はヒットから受けるダメージを20%軽減する)
+"(Defences are Armour, Evasion Rating and Energy Shield)",(防御とは、アーマー、回避値、およびエナジーシールドのこと)
+"(Ailments that deal Damage are Bleeding, Ignited, and Poisoned)",(ダメージを与える異常効果とは、出血、発火、および毒のこと)
+"(Leeched Life is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)",(吸収ライフは時間経過で回復する。複数の吸収が同時に発生する場合があるが、最大レートまで)
+(Physical Damage Reduction cannot be negative),(物理ダメージ軽減はマイナスにならない)
+"(Projectile Attacks gain Damage as they travel farther, dealing up to 30% more Attack Damage with Hits to targets)",(投射物攻撃は、遠くまで飛ぶほどダメージが増加し、ヒット対象への攻撃ダメージを最大30%増加させる)
+"(Ignite deals Fire Damage over time, based on the base Fire Damage of the Skill, for 4 seconds)",(発火は、スキルの炎ダメージのベース値に基づいて4秒間、継続ダメージを与える)
+(Warstaves are considered Staves),(ウォースタッフはスタッフとみなされる)
+"(Affects Melee Strikes, including the Default Attack. Does not apply to Areas of Effect)",(近接攻撃、デフォルト攻撃を含む。範囲効果には適用されない)
+(Rune Daggers are considered Daggers),(ルーンダガーはダガーとみなされる)
+(The Stun Threshold determines how much Damage can Stun something),(スタン閾値は、どれだけのダメージで対象をスタンさせられるかを決定する)
+(Maximum Resistances cannot be raised above 90%),(最大耐性は90%以上に上げることはできない)
+(Unholy Might grants 30% of Physical Damage as extra Chaos Damage),(アンホーリー・マイトは、物理ダメージの30%を追加の混沌ダメージとして与える)
+(They will deal the same total damage over a shorter duration),(それらはより短い持続時間で同じ合計ダメージを与えます)
+(Knockback pushes Enemies away when Hit),(ノックバックはヒット時に敵を押しやります)
+"(Leeched Energy Shield is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)",(吸収されたエナジーシールドは時間経過で回復します。複数の吸収が同時に発生する可能性があり、最大レートまでとなります)
+(No chance to avoid damage can be higher than 75%),(回避不能なダメージ確率は75%を超えることはありません)
+"(Leeched Mana is recovered over time. Multiple Leeches can occur simultaneously, up to a maximum rate)",(吸収されたマナは時間経過で回復します。複数の吸収が同時に発生する可能性があり、最大レートまでとなります)
+"(Debuffs you are Unaffected by can still be placed on you, but will not actually apply their effect)",(影響を受けないデバフは自身に付与されることがありますが、効果は実際には適用されません)
+(Chill reduces Enemy Action Speed by 10% for 2 seconds),(クールダウンは敵のアクションスピードを2秒間10%低下させます)
+"(The effects of the ground still apply to you, allies or enemies after leaving its area)",(地面の効果は、その範囲から離れた後も、自身、味方、または敵に適用されます)
+(Enemies that are Covered in Ash have 20% less Movement Speed and 20% increased Fire Damage Taken),(灰に覆われた敵は移動速度が20%低下し、受ける炎ダメージが20%増加します)
+(Auras can only grant bonuses to things they affect),(オーラは、影響を与えるものにのみボーナスを付与できます)
+(Unnerved enemies take 10% increased Spell Damage),(弱体化された敵は呪文ダメージを10%増加させます)
+(Killing an Enemy is not Spawning a corpse),(敵を倒しても死体が生成されないわけではありません)
+(Shock increases Damage taken by 15%),(ショックは受けるダメージを15%増加させます)
+(Chill reduces Enemy Action Speed by 10%),(クールダウンは敵のアクションスピードを10%低下させます)
+"(While you have Phasing, your movement is not blocked by Enemies)",(フェイジング中は、敵によって移動が妨げられることはありません)
+(Hindered enemies have reduced movement speed),(妨害された敵は移動速度が低下します)
+(A Hit that removes at least 15% of Maximum Life is a Savage Hit),(最大ライフの15%以上を削除するヒットは、サベージヒットです)
+(Blitz Charges have a base Duration of 5 seconds),(ブリッツチャージのベース持続時間は5秒です)
+"(Ailments that do not deal Damage are Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(ダメージを与えない状態異常は、焦がし、クールダウン、凍結、脆化、ショック、およびサップ状態になります)
+(Overkill Damage is any Damage from a Hit in excess of the Enemy's remaining Life),(オーバーキルダメージとは、敵の残りライフを超えるヒットからのダメージのことです)
+(You are on Low Life if you have 35% of your Maximum Life or less),(最大ライフの35%以下の場合、低ライフ状態となります)
+"(Elusive initially grants 15% chance to Dodge Spell or Attack Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)",(エリューシブは最初に回避率を15%増加させ、移動速度を30%増加させます。このバフは時間経過とともに効果を低下させ、0%になると自身を削除します。既にエリューシブバフを持っている場合、エリューシブを獲得することはできません)
+(Increases and Reductions to Maximum Energy Shield,(最大エナジーシールドの増加および減少は)
+also apply to Spell Damage at 30% of their value),呪文ダメージにもその値の30%で適用されます)
+(Increases and Reductions to Maximum Mana also apply to Damage at 30% of their value),(最大マナの増加および減少は、ダメージにもその値の30%で適用されます)
+(Enemies with Malediction deal 10% reduced damage and take 10% increased damage),(呪われた敵はダメージを10%低下させ、ダメージを10%増加させます)
+"(Freeze lowers Enemy Action Speed to zero, preventing them from acting)",(凍結は敵のアクションスピードをゼロにし、行動不能にします)
+(Maimed enemies have 30% reduced Movement Speed),(メーム状態の敵は移動速度が30%低下します)
+(Attacks that Trigger when you are Hit are Counterattacks),(ヒットされた際にトリガーされる攻撃はカウンターアタックです)
+"(Ailments are Bleeding, Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, Sapped, and Poisoned)",(状態異常は、出血、発火、焦がし、クールダウン、凍結、脆化、ショック、サップ、および毒です)
+(Permanent Auras are Auras with no Duration),(永続オーラは、持続時間の無いオーラです)
+"(Up to 10 Vines can grasp you, inflicting 8% less Movement Speed per Vine. Broken by moving)",(最大10本のツルが掴みかかり、ツル1本につき移動速度を8%低下させます。移動で破壊されます)
+"(Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)",(焦がされた敵は、ヒットの炎ダメージに基づいて、4秒間、属性耐性が最大30%低下します)
+"(Hits have up to +15% Critical Strike Chance against Brittle Enemies, based on the Cold Damage of the Hit which inflicted Brittle, for 4 seconds)",(脆化させた敵に対して、ヒットの冷気ダメージに基づいて、4秒間、クリティカルストライク確率が最大+15%になります)
+"(Sapped Enemies deal up to 20% less Damage, based on the Lightning Damage of the Hit, for 4 seconds)",(サップされた敵は、ヒットの雷ダメージに基づいて、4秒間、ダメージを最大20%低下させます)
+"(You are Unencumbered while you have no Gloves, no Main Hand Item, and no Off Hand Item Equipped)",(手袋、メインハンドアイテム、オフハンドアイテムを装備していない場合、アンエンカバード状態となります)
+"(Attributes are Strength, Dexterity, and Intelligence)",(アトリビュートは、筋力、器用さ、および知性です)
+(Cold Exposure applies -10% to Cold Resistance for 4 seconds),(冷気への暴露は、4秒間、冷気耐性を-10%適用します)
+(Fire Exposure applies -10% to Fire Resistance for 4 seconds),(炎への暴露は、4秒間、炎耐性を-10%適用します)
+(Lightning Exposure applies -10% to Lightning Resistance for 4 seconds),(雷への暴露は、4秒間、雷耐性を-10%適用します)
+(Throwing Mines takes 10% more time for each additional Mine thrown),(マインを投げるのに、追加で投げられるマイン1つにつき10%多くの時間がかかります)
+(Increases and Reductions to Maximum Life also apply to Attack Damage at 30% of their value),(最大ライフの増加および減少は、攻撃ダメージにもその値の30%で適用されます)
+(Brand Damage is any Damage dealt by Brand Skills or by Skills Triggered by a Brand),(ブランドダメージとは、ブランドスキルまたはブランドによってトリガーされたスキルによって与えられるダメージのことです)
+"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits or 8 seconds)",(インペールされた敵がヒットされた場合、インペールは物理ダメージの10%をその敵に反射します。インペールは5ヒットまたは8秒間持続します)
+(Enemies that are Debilitated have 20% less Movement Speed and deal 10% less damage),(弱体化された敵は移動速度が20%低下し、ダメージを10%低下させます)
+"(Physical Damage Reduction is lower against Overwhelming Hits, but cannot go negative)",(オーバーウェルミングヒットに対して物理ダメージ軽減率は低下しますが、マイナスにはなりません)
+"(Armour is treated as double value, only for calculating damage mitigation)",(アーマーは倍の値として扱われ、ダメージ軽減の計算にのみ使用されます)
+"(Chill reduces Enemy Action Speed by up to 30%, depending on the amount of Cold Damage in the hit, for 2 seconds)",(ヒットの冷気ダメージ量に応じて、敵のアクションスピードを最大30%低下させ、2秒間持続します)
+(Brand Critical Strikes are any Critical Strikes dealt by Brand Skills or by Skills Triggered by a Brand),(ブランドクリティカルストライクとは、ブランドスキルまたはブランドによってトリガーされたスキルによって与えられるクリティカルストライクのことです)
+(Effects cannot be slowed below 25% of their normal expiry rate),(効果の消失率は、通常の消失率の25%より遅くなることはありません)
+(You are in Blood Stance by default),(デフォルトでブラッドスタンス状態になります)
+"(Alchemist's Genius increases Flask Charges gained by 20% and effect of Flasks by 10%, for 4 seconds)",(錬金術師の天才は、フラスコチャージ獲得量を20%増加させ、フラスコの効果を10%増加させ、4秒間持続します)
+"(Normal Monsters have 1 Power, Magic Monsters 2, Rare Monsters 10, Unique Monsters 20, and Players 5)",(ノーマルモンスターは1、マジックモンスターは2、レアモンスターは10、ユニークモンスターは20、プレイヤーは5です)
+"(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)",(灰に覆われると、移動速度が20%低下し、受ける炎ダメージが20%増加し、4秒間持続します)
+"(Cold Ailments are Chilled, Frozen and Brittle)",(冷気状態異常は、クールダウン、凍結、および脆化です)
+(Lightning Ailments are Shocked and Sapped),(雷状態異常は、ショックおよびサップです)
+(This only affects the inherent loss of Rage when you haven't been Hit or gained Rage Recently),(これは、最近ヒットされなかったり、Rageを獲得しなかったりした場合の、Rageの固有の損失にのみ影響します)
+(Hexes can gain Doom up to a maximum of 30. The effect of a Hex is increased by the amount of Doom it has),(呪術は最大30までのドゥームを獲得できます。呪術の効果は、それが持つドゥームの量によって増加します)
+Totem mastery,トーテムのマスタリー
 Disciple of Kitava,ディサイプルオブキタヴァ
 Lone Messenger,ローンメッセンジャー
 Nature's Patience,ネイチャーズペイシェンス
@@ -119,7 +119,7 @@ Dagger and Claw Damage,短剣・鉤爪ダメージ
 Dagger and Claw Damage Mastery,短剣・鉤爪ダメージマスタリー
 Bow Damage Mastery,弓ダメージマスタリー
 Wand Damage Mastery,ワンドダメージマスタリー
-Damage with Two Handed Melee Weapons,Damage with Two Handed Melee Weapons
+Damage with Two Handed Melee Weapons,両手近接武器でのダメージ
 Damage with Two Handed Melee Weapons Mastery,近接両手武器ダメージマスタリー
 Attack Damage while Dual Wielding,二刀流アタックダメージ
 Attack Damage while Dual Wielding Mastery,二刀流アタックダメージマスタリー
@@ -129,12 +129,12 @@ Fire Damage Mastery,火ダメージマスタリー
 Lightning Damage Mastery,雷ダメージマスタリー
 Cold Damage Mastery,冷気ダメージマスタリー
 Minion Damage Mastery,ミニオンダメージマスタリー
-Fire Damage over Time Multiplier,Fire Damage over Time Multiplier
+Fire Damage over Time Multiplier,炎の継続ダメージ倍率
 Fire Damage over Time Multiplier Mastery,火継続ダメージ倍率マスタリー
-Chaos Damage over Time Multiplier,Chaos Damage over Time Multiplier
+Chaos Damage over Time Multiplier,混沌の継続ダメージ倍率
 Chaos Damage over Time Multiplier Mastery,混沌継続ダメージ倍率マスタリー
 Physical Damage over Time Multiplier Mastery,物理継続ダメージ倍率マスタリー
-Cold Damage over Time Multiplier,Cold Damage over Time Multiplier
+Cold Damage over Time Multiplier,冷気の継続ダメージ倍率
 Cold Damage over Time Multiplier Mastery,冷気継続ダメージ倍率マスタリー
 Effect of Non-Damaging Ailments,非ダメージ性状態異常効果
 Effect of Non-Damaging Ailments Mastery,非ダメージ性状態異常効果マスタリー
@@ -159,79 +159,79 @@ Life and Mana recovery from Flasks,フラスコからのライフおよびマナ
 Life and Mana recovery from Flasks Mastery,フラスコによるライフ・マナ回復マスタリー
 Chance to Block Attack Damage,アタックダメージブロック率
 Chance to Block Spell Damage,スペルダメージブロック率
-Chance to Dodge Attacks,Chance to Dodge Attacks
-"(Fanaticism grants Spells you Cast yourself 75% more Cast Speed, 75% reduced mana cost and 75% increased Area of Effect)","(Fanaticism grants Spells you Cast yourself 75% more Cast Speed, 75% reduced mana cost and 75% increased Area of Effect)"
-(Gain Added Spell Damage equal to the Damage of your Main Hand Weapon),(Gain Added Spell Damage equal to the Damage of your Main Hand Weapon)
-(Tailwind increases Action Speed by 8%),(Tailwind increases Action Speed by 8%)
-(Convergence grants 30% more Elemental Damage and lasts 4 seconds),(Convergence grants 30% more Elemental Damage and lasts 4 seconds)
-"(Only Damage from Hits can be Recouped, over 4 seconds following the Hit)","(Only Damage from Hits can be Recouped, over 4 seconds following the Hit)"
-"(Targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, per Rupture affecting them. Up to 3 Ruptures can affect a target, lasting 3 seconds each)","(Targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, per Rupture affecting them. Up to 3 Ruptures can affect a target, lasting 3 seconds each)"
-(Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force),(Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force)
-"(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)","(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)"
-(These are consecutive),(These are consecutive)
-(Each Conflux means all damage causes that Ailment),(Each Conflux means all damage causes that Ailment)
-(Inherent effects from having Rage are:,(Inherent effects from having Rage are:
-1% increased Attack Damage per 1 Rage,1% increased Attack Damage per 1 Rage
-1% increased Attack Speed per 2 Rage,1% increased Attack Speed per 2 Rage
-1% increased Movement Speed per 5 Rage),1% increased Movement Speed per 5 Rage)
-"(Fortify grants 20% less Damage Taken from Hits, for 4 seconds)","(Fortify grants 20% less Damage Taken from Hits, for 4 seconds)"
-(Enemies standing in Smoke Clouds are Blinded),(Enemies standing in Smoke Clouds are Blinded)
-(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second),(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second)
-"(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)","(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)"
-(Crushed lowers Physical Damage Reduction by 15%),(Crushed lowers Physical Damage Reduction by 15%)
-"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)","(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)"
-(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds),(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds)
-"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)"
-(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds),(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)
-"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)","(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)"
-(50% of Damage from Suppressed Hits and Ailments they inflict is prevented),(50% of Damage from Suppressed Hits and Ailments they inflict is prevented)
-"(Elusive initially grants 15% chance to Avoid All Damage from Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)","(Elusive initially grants 15% chance to Avoid All Damage from Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)"
-(Hinder reduces movement speed),(Hinder reduces movement speed)
-(Being Blinded causes 20% less Accuracy Rating and Evasion Rating),(Being Blinded causes 20% less Accuracy Rating and Evasion Rating)
-"(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)"
-(You can only take one of the three Warlock Power passives),(You can only take one of the three Warlock Power passives)
-(Characters inherently gain +12 Life per Level),(Characters inherently gain +12 Life per Level)
-"(Pacify curses all targets in an area, having no effect at first, but causing them to deal no damage once 60% of the curse's duration has expired)","(Pacify curses all targets in an area, having no effect at first, but causing them to deal no damage once 60% of the curse's duration has expired)"
-"(Affliction permanently Afflicts any of your damageable minions in a targeted area, causing them to take physical damage over time, at an accelerating rate. Each such minion causes you to regenerate life at a rate based on the current damage of its Affliction debuff. Afflicted Minions explode if their life is lowered to a fifth of maximum)","(Affliction permanently Afflicts any of your damageable minions in a targeted area, causing them to take physical damage over time, at an accelerating rate. Each such minion causes you to regenerate life at a rate based on the current damage of its Affliction debuff. Afflicted Minions explode if their life is lowered to a fifth of maximum)"
-"(Penance Mark curses a single enemy, causing them to spawn multiple phantasms when hit. The phantasms will be allies of the marked enemy with the same monster level. They cast a projectile spell which deals physical damage, and are immune to curses. You can only have one Mark at a time)","(Penance Mark curses a single enemy, causing them to spawn multiple phantasms when hit. The phantasms will be allies of the marked enemy with the same monster level. They cast a projectile spell which deals physical damage, and are immune to curses. You can only have one Mark at a time)"
-"(Adopt the power of the Viridian Wildwood, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You have higher armour the more bark builds up, but higher chance to evade when less covered in bark)","(Adopt the power of the Viridian Wildwood, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You have higher armour the more bark builds up, but higher chance to evade when less covered in bark)"
-"(Summon two Triggerbots which follow you around and run towards enemies. our Triggered Spells Trigger twice, once from each Triggerbot's location)","(Summon two Triggerbots which follow you around and run towards enemies. our Triggered Spells Trigger twice, once from each Triggerbot's location)"
-"(Summons a Sentinel of Radiance which follows you and attacks enemies in melee, while burning enemies around it and taking a portion of damage from hits for you. You can only have one Sentinel of Radiance)","(Summons a Sentinel of Radiance which follows you and attacks enemies in melee, while burning enemies around it and taking a portion of damage from hits for you. You can only have one Sentinel of Radiance)"
-"(This skill is triggered when you use a Slam or Strike skill, and summons a Mirage Chieftain who will use that Slam or Strike skill once before dissipating)","(This skill is triggered when you use a Slam or Strike skill, and summons a Mirage Chieftain who will use that Slam or Strike skill once before dissipating)"
-"(Summons a Relic of a random element that stays near you. Depending on the element chosen, the relic minion will have an Anger, Hatred, or Wrath aura. These relics explode when they die, dealing elemental damage to enemies around them. If you already have a relic of the chosen element, its duration will be refreshed instead of summoning a new one)","(Summons a Relic of a random element that stays near you. Depending on the element chosen, the relic minion will have an Anger, Hatred, or Wrath aura. These relics explode when they die, dealing elemental damage to enemies around them. If you already have a relic of the chosen element, its duration will be refreshed instead of summoning a new one)"
-"(Primal Aegis calls forth a protective aegis which takes elemental damage from hits for you until depleted. The aegis will be restored to its full value after a short delay if you stop taking elemental damage from hits, or if depleted)","(Primal Aegis calls forth a protective aegis which takes elemental damage from hits for you until depleted. The aegis will be restored to its full value after a short delay if you stop taking elemental damage from hits, or if depleted)"
-"(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)","(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)"
-"(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)","(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)"
-"(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)","(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)"
+Chance to Dodge Attacks,回避率
+"(Fanaticism grants Spells you Cast yourself 75% more Cast Speed, 75% reduced mana cost and 75% increased Area of Effect)",(狂信により、自身がキャストするスペルはキャスト速度75%増加、マナコスト75%減少、および効果範囲100%増加)
+(Gain Added Spell Damage equal to the Damage of your Main Hand Weapon),(メインハンド武器のダメージの分だけスペルダメージを追加)
+(Tailwind increases Action Speed by 8%),(追い風はアクション速度を8%増加させる)
+(Convergence grants 30% more Elemental Damage and lasts 4 seconds),(収束は元素ダメージを30%増加させ、4秒間持続する)
+"(Only Damage from Hits can be Recouped, over 4 seconds following the Hit)",(ヒットからのダメージのみを4秒かけて回収できる)
+"(Targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, per Rupture affecting them. Up to 3 Ruptures can affect a target, lasting 3 seconds each)",(裂傷の影響を受けている場合、対象は出血によるダメージを25%増加して受ける。出血は25%早く終了する。1体の対象は最大3つの裂傷の影響を受けることができ、それぞれ3秒間持続する)
+(Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force),(突風の各インスタンスは4秒間持続する。最大10個まで)
+"(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)",(投射物攻撃のヒットは、移動開始時の対象に対してダメージを20%減少させるが、投射物が遠くまで進むにつれて対象へのダメージは最大60%増加する)
+(These are consecutive),(これらは連続している)
+(Each Conflux means all damage causes that Ailment),(各コンフラックスは、すべてのダメージがあの属性による状態異常を引き起こすことを意味する)
+(Inherent effects from having Rage are:,(Rageを持つことによる固有の効果は以下の通り:
+1% increased Attack Damage per 1 Rage,Rage 1につき攻撃ダメージ1%増加
+1% increased Attack Speed per 2 Rage,Rage 2につき攻撃速度1%増加
+1% increased Movement Speed per 5 Rage),Rage 5につき移動速度1%増加)
+"(Fortify grants 20% less Damage Taken from Hits, for 4 seconds)",(Fortifyはヒットからのダメージを20%減少させ、4秒間持続する)
+(Enemies standing in Smoke Clouds are Blinded),(煙幕の中にいる敵は盲目になる)
+(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second),(聖域上にいる味方は、最大ライフの一定割合を毎秒再生する)
+"(Arcane Surge grants 10% more Spell Damage and 30% increased Mana Regeneration rate, for 4 seconds)",(秘術の奔流はスペルダメージを10%増加させ、マナ再生率を30%増加させる。4秒間持続)
+(Crushed lowers Physical Damage Reduction by 15%),(粉砕は物理防御力を15%低下させる)
+"(Being Blinded causes 20% less Accuracy Rating and Evasion Rating, for 4 seconds)",(盲目状態になると、命中力と回避力が4秒間20%低下する)
+(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 5 seconds),(Fortification 1につきヒットからのダメージを1%減少させる。最大20 Fortification。Fortificationは5秒間持続)
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)",(聖域上の味方は最大ライフの一定割合を毎秒再生し、呪いの効果を50%軽減する)
+(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds),(防御壁ごとに、ヒットから受けるダメージを1%軽減する。最大20の防御壁。防御壁は6秒間持続)
+"(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction. You cannot gain Adrenaline if you already have it)",(アドレナリンはダメージを100%増加させ、攻撃速度、キャスト速度、移動速度を25%増加させ、物理ダメージ軽減を10%追加する。アドレナリンを既に持っている場合は獲得できない)
+(50% of Damage from Suppressed Hits and Ailments they inflict is prevented),(抑制されたヒットとそのヒットが引き起こす状態異常からのダメージの50%を防ぐ)
+"(Elusive initially grants 15% chance to Avoid All Damage from Hits, and 30% increased Movement Speed. The buff reduces its effect over time, removing itself at 0% effect. If you already have an Elusive buff, you cannot gain Elusive)",(幻惑は初期段階で全ヒットダメージを回避する確率を15%増加させ、移動速度を30%増加させる。バフは時間とともに効果を減少させ、効果が0%になったときに解除される。既に幻惑バフを持っている場合は獲得できない)
+(Hinder reduces movement speed),(妨害は移動速度を低下させる)
+(Being Blinded causes 20% less Accuracy Rating and Evasion Rating),(盲目状態になると、命中力と回避力が20%低下する)
+"(Arcane Surge grants 10% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)",(秘術の奔流はキャスト速度を10%増加させ、マナ再生率を30%増加させる。4秒間持続)
+(You can only take one of the three Warlock Power passives),(3つのウォーロックの力のパッシブのうち1つのみを選択できる)
+(Characters inherently gain +12 Life per Level),(キャラクターはレベルごとにライフ+12を固有で得る)
+"(Pacify curses all targets in an area, having no effect at first, but causing them to deal no damage once 60% of the curse's duration has expired)",(沈黙は範囲内のすべての対象に呪いをかける。最初は効果がないが、呪いの持続時間の60%が経過するとダメージを与えなくなる)
+"(Affliction permanently Afflicts any of your damageable minions in a targeted area, causing them to take physical damage over time, at an accelerating rate. Each such minion causes you to regenerate life at a rate based on the current damage of its Affliction debuff. Afflicted Minions explode if their life is lowered to a fifth of maximum)",(呪いは、対象エリア内のダメージを受けうるミニオンすべてに永続的に呪いをかけ、加速するレートで継続的な物理ダメージを与える。呪われたミニオンは、その呪いのデバフの現在のダメージに基づいたレートでライフを再生させる。呪われたミニオンは、ライフが最大ライフの5分の1まで低下すると爆発する)
+"(Penance Mark curses a single enemy, causing them to spawn multiple phantasms when hit. The phantasms will be allies of the marked enemy with the same monster level. They cast a projectile spell which deals physical damage, and are immune to curses. You can only have one Mark at a time)",(苦行の印は単体の敵に呪いをかけ、ヒット時に複数の幻影を生成させる。幻影はマークされた敵の味方となり、同じモンスターレベルを持つ。物理ダメージを与える投射物スペルをキャストし、呪いを無効化する。一度に1つの印しか持てない)
+"(Adopt the power of the Viridian Wildwood, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You have higher armour the more bark builds up, but higher chance to evade when less covered in bark)",(緑の森の力を取り込み、徐々に体に樹皮をまとわせる。敵の攻撃を受けると樹皮が剥がれる。樹皮の蓄積量が多いほどアーマーが高くなるが、樹皮の被覆が少ないほど回避率が高くなる)
+"(Summon two Triggerbots which follow you around and run towards enemies. our Triggered Spells Trigger twice, once from each Triggerbot's location)",(周囲を移動し敵に向かっていく2体のトリガーボットを召喚する。トリガーされたスペルは、各トリガーボットの位置から1回ずつ、合計2回トリガーされる)
+"(Summons a Sentinel of Radiance which follows you and attacks enemies in melee, while burning enemies around it and taking a portion of damage from hits for you. You can only have one Sentinel of Radiance)",(周囲の敵を近接攻撃し、周囲の敵を燃焼させ、ヒットダメージの一部を肩代わりする光輝の番人を召喚する。光輝の番人は1体しか召喚できない)
+"(This skill is triggered when you use a Slam or Strike skill, and summons a Mirage Chieftain who will use that Slam or Strike skill once before dissipating)",(スラムスキルまたはストライクスキルを使用した際にトリガーされ、そのスラムスキルまたはストライクスキルを1回使用してから消散するミラージュ・チーフテンを召喚する)
+"(Summons a Relic of a random element that stays near you. Depending on the element chosen, the relic minion will have an Anger, Hatred, or Wrath aura. These relics explode when they die, dealing elemental damage to enemies around them. If you already have a relic of the chosen element, its duration will be refreshed instead of summoning a new one)",(ランダムな属性のレリックを召喚し、近くにとどまる。選択された属性に応じて、レリックミニオンは怒り、憎悪、または激怒のオーラを持つ。これらのレリックは死亡時に爆発し、周囲の敵に元素ダメージを与える。既に選択された属性のレリックを持っている場合、新しいものを召喚する代わりに持続時間が更新される)
+"(Primal Aegis calls forth a protective aegis which takes elemental damage from hits for you until depleted. The aegis will be restored to its full value after a short delay if you stop taking elemental damage from hits, or if depleted)",(原始の盾は、ヒットからの元素ダメージを肩代わりする保護盾を呼び出す。盾がなくなっても、ヒットからの元素ダメージを受けなくなると、または盾がなくなると、短い遅延の後に満タンまで回復する)
+"(Bone Armour applies a buff to you and each of your minions, which will take some of the damage from enemy hits before being depleted. The buff also grants immunity to bleeding. Shares a cooldown with other Guard skills)",(骨の鎧はあなたとあなたのミニオンすべてにバフを適用し、ヒットからのダメージの一部を肩代わりしてから消費される。このバフは出血への耐性も付与する。他のガードスキルとクールダウンを共有する)
+"(Ravenous consumes a targeted corpse, granting you a buff that causes you to deal more damage to, and take less damage from, enemies of the same Monster Category as the corpse)",(強欲は対象の死体を消費し、死体と同じモンスターカテゴリの敵に対してダメージ増加とダメージ軽減を得るバフを付与する)
+"(Summon two Triggerbots which follow you around and run towards enemies. Your Triggered Spells Trigger twice, once from each Triggerbot's location)",(周囲を移動し敵に向かっていく2体のトリガーボットを召喚する。トリガーされたスペルは、各トリガーボットの位置から1回ずつ、合計2回トリガーされる)
 Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier,状態異常の継続ダメージ倍率がクリティカルダメージ倍率と等しくなる
 Non-Critical Strikes cannot inflict Ailments,クリティカルストライクでない攻撃は状態異常を付与できない
-"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)","(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)"
-(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)
-(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds)
-(Base Maximum Rage is 30),(Base Maximum Rage is 30)
-"(Arcane Surge grants 20% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)","(Arcane Surge grants 20% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)"
-"(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)","(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)"
-(Choose one of the two attached options),(Choose one of the two attached options)
-"(Unbound Avatar requires 100 Unbound Fury to use and causes you to become Unbound for 10 seconds, which has no effects beyond those listed here)","(Unbound Avatar requires 100 Unbound Fury to use and causes you to become Unbound for 10 seconds, which has no effects beyond those listed here)"
-(Summons an immortal chieftain minion of the Kitava tribe to fight alongside you for a duration. This minion grants you a buff which makes a percentage of your leech recover instantly),(Summons an immortal chieftain minion of the Kitava tribe to fight alongside you for a duration. This minion grants you a buff which makes a percentage of your leech recover instantly)
-(Summons an immortal chieftain minion of the Tasalio tribe to fight alongside you for a duration. This minion grants you a buff which prevents your action speed being lowered),(Summons an immortal chieftain minion of the Tasalio tribe to fight alongside you for a duration. This minion grants you a buff which prevents your action speed being lowered)
-"(Summons an immortal chieftain minion of the Valako tribe to fight alongside you for a duration. This minion grants you a buff which recovers life, mana and energy shield when you block)","(Summons an immortal chieftain minion of the Valako tribe to fight alongside you for a duration. This minion grants you a buff which recovers life, mana and energy shield when you block)"
-(Summons an immortal chieftain minion of the Ngamahu tribe to fight alongside you for a duration. This minion grants you a buff which allows totems to take some damage from hits for you),(Summons an immortal chieftain minion of the Ngamahu tribe to fight alongside you for a duration. This minion grants you a buff which allows totems to take some damage from hits for you)
-(Summons an immortal chieftain minion of the Rongokurai tribe to fight alongside you for a duration. This minion grants you a buff which lets a percentage of your armour protect against all damage types),(Summons an immortal chieftain minion of the Rongokurai tribe to fight alongside you for a duration. This minion grants you a buff which lets a percentage of your armour protect against all damage types)
-"(Creates a Lesser Shrine, which will grant a bonus when touched. The Lesser Shrine will disappear after a short duration, or when used)","(Creates a Lesser Shrine, which will grant a bonus when touched. The Lesser Shrine will disappear after a short duration, or when used)"
-"(Summons a spectral wolf companion that attacks nearby enemies and dies after a duration. Each spectral wolf grants you a buff that adds damage to your attacks. If you have the maximum number of them, refreshes the duration and life of an existing one instead)","(Summons a spectral wolf companion that attacks nearby enemies and dies after a duration. Each spectral wolf grants you a buff that adds damage to your attacks. If you have the maximum number of them, refreshes the duration and life of an existing one instead)"
-(Summons an immortal Harbinger minion. The minion will occasionally create an aura on you that increases the Action Speed of you and all allies near you),(Summons an immortal Harbinger minion. The minion will occasionally create an aura on you that increases the Action Speed of you and all allies near you)
-"(Summons an immortal Harbinger minion. The minion has two buff spells it will cast on you: Arcane Surge, granting increased Cast Speed and Mana Regeneration, and a buff that grants Chance to Shock and Lightning Penetration)","(Summons an immortal Harbinger minion. The minion has two buff spells it will cast on you: Arcane Surge, granting increased Cast Speed and Mana Regeneration, and a buff that grants Chance to Shock and Lightning Penetration)"
-"(Summons an immortal Harbinger minion. While you are channelling, the minion will occasionally cast a buff on you that reduces the Damage you take, makes you avoid all Stuns and Elemental Ailments, and prevents Curses affecting you)","(Summons an immortal Harbinger minion. While you are channelling, the minion will occasionally cast a buff on you that reduces the Damage you take, makes you avoid all Stuns and Elemental Ailments, and prevents Curses affecting you)"
-"(Makes you immune to physical damage, and harder for enemies to detect, for a duration)","(Makes you immune to physical damage, and harder for enemies to detect, for a duration)"
-"(While you run, this skill creates a small explosion with each step, dealing fire damage in an area around you)","(While you run, this skill creates a small explosion with each step, dealing fire damage in an area around you)"
-"(Raise two spectral spiders from each nearby corpse that will attack your enemies with Viper Strike. Each raised spider grants you increased Attack Speed and increased Damage with Poison. Enemies will not engage the spiders directly, and they are immune to damage)","(Raise two spectral spiders from each nearby corpse that will attack your enemies with Viper Strike. Each raised spider grants you increased Attack Speed and increased Damage with Poison. Enemies will not engage the spiders directly, and they are immune to damage)"
-(Casts an aura that grants evasion to you and your allies),(Casts an aura that grants evasion to you and your allies)
-(Casts an aura that adds chaos damage to the attacks and spells of you and your allies),(Casts an aura that adds chaos damage to the attacks and spells of you and your allies)
-(Casts an aura that grants additional energy shield and increased energy shield recharge rate to you and your allies),(Casts an aura that grants additional energy shield and increased energy shield recharge rate to you and your allies)
-(Casts an aura that grants armour to you and your allies),(Casts an aura that grants armour to you and your allies)
-"(While active, periodically applies a Spider's Web debuff to nearby Enemies, and Hinders them. Each Spider's Web on an Enemy increases the Damage they take. Hinder reduces their movement speed. You can only have one Aspect active at a time)","(While active, periodically applies a Spider's Web debuff to nearby Enemies, and Hinders them. Each Spider's Web on an Enemy increases the Damage they take. Hinder reduces their movement speed. You can only have one Aspect active at a time)"
-"(While active, grants the Cat's Stealth and Cat's Agility buffs in sequence. Cat's Stealth increases your critical strike chance, makes you harder to see, and gives you a chance to avoid damage for a short duration. Cat's Agility increases your attack and cast speed for a longer secondary duration. You can only have one Aspect active at a time)","(While active, grants the Cat's Stealth and Cat's Agility buffs in sequence. Cat's Stealth increases your critical strike chance, makes you harder to see, and gives you a chance to avoid damage for a short duration. Cat's Agility increases your attack and cast speed for a longer secondary duration. You can only have one Aspect active at a time)"
-"(While active, grants the Avian's Might and Avian's Flight buffs in sequence. Avian's Might grants you and your minions a chance to deal Double Damage with hits for a duration. Avian's Flight grants you and your minions increased Movement Speed for a secondary duration. You can only have one Aspect active at a time)","(While active, grants the Avian's Might and Avian's Flight buffs in sequence. Avian's Might grants you and your minions a chance to deal Double Damage with hits for a duration. Avian's Flight grants you and your minions increased Movement Speed for a secondary duration. You can only have one Aspect active at a time)"
-"(Curses a single enemy, making them more vulnerable to Critical Strikes. Killing the cursed enemy will grant life and mana, and a power charge. You can only have one Mark at a time)","(Curses a single enemy, making them more vulnerable to Critical Strikes. Killing the cursed enemy will grant life and mana, and a power charge. You can only have one Mark at a time)"
-"(Thirst for Blood reserves some of your life to cause bleeding you inflict to be stronger, and grant life regeneration based on the number bleeding enemies nearby)","(Thirst for Blood reserves some of your life to cause bleeding you inflict to be stronger, and grant life regeneration based on the number bleeding enemies nearby)"
+"(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)",(出血は、スキルのベース物理ダメージに基づいた継続的な物理ダメージを与える。移動中はダメージが200%増加する)
+(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(Rage 1につき攻撃ダメージ1%増加。最大Rageは30。過去2秒間にヒットを受けなかったかRageを獲得しなかった場合、毎秒10 Rageを失う)
+(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(過去2秒間にヒットを受けなかったかRageを獲得しなかった場合、毎秒10 Rageを失う)
+(Base Maximum Rage is 30),(ベース最大Rageは30)
+"(Arcane Surge grants 20% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)",(秘術の奔流はキャスト速度を20%増加させ、マナ再生率を30%増加させる。4秒間持続)
+"(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)",(森の力を取り込み、徐々に体に樹皮をまとわせる。敵の攻撃を受けると樹皮が剥がれる。樹皮の蓄積量が多いほど物理攻撃ヒットからのダメージが軽減されるが、樹皮の被覆が少ないほど回避率が高くなる)
+(Choose one of the two attached options),(添付された2つのオプションのうち1つを選択)
+"(Unbound Avatar requires 100 Unbound Fury to use and causes you to become Unbound for 10 seconds, which has no effects beyond those listed here)",(アンバウンドアバターは100のアンバウンドフューリーを消費して使用し、10秒間アンバウンド状態になる。この状態には、ここに記載されている効果以外の効果はない)
+(Summons an immortal chieftain minion of the Kitava tribe to fight alongside you for a duration. This minion grants you a buff which makes a percentage of your leech recover instantly),(キタヴァ族の不滅の族長ミニオンを召喚し、一定期間共に戦う。このミニオンは、リークの一部が即座に回復するバフを付与する)
+(Summons an immortal chieftain minion of the Tasalio tribe to fight alongside you for a duration. This minion grants you a buff which prevents your action speed being lowered),(タサリオ族の不滅の族長ミニオンを召喚し、一定期間共に戦う。このミニオンは、アクション速度が低下しないバフを付与する)
+"(Summons an immortal chieftain minion of the Valako tribe to fight alongside you for a duration. This minion grants you a buff which recovers life, mana and energy shield when you block)",(ワラコ族の不滅の族長ミニオンを召喚し、一定期間共に戦う。このミニオンは、ブロック時にライフ、マナ、エナジーシールドを回復するバフを付与する)
+(Summons an immortal chieftain minion of the Ngamahu tribe to fight alongside you for a duration. This minion grants you a buff which allows totems to take some damage from hits for you),(ンガマフ族の不滅の族長ミニオンを召喚し、一定期間共に戦う。このミニオンは、トーテムがヒットダメージの一部を肩代わりするバフを付与する)
+(Summons an immortal chieftain minion of the Rongokurai tribe to fight alongside you for a duration. This minion grants you a buff which lets a percentage of your armour protect against all damage types),(ロンゴクラライ族の不滅の族長ミニオンを召喚し、一定期間共に戦う。このミニオンは、アーマーの一部がすべてのダメージタイプを防ぐバフを付与する)
+"(Creates a Lesser Shrine, which will grant a bonus when touched. The Lesser Shrine will disappear after a short duration, or when used)",(小規模な祠を作成し、触れるとボーナスを付与する。小規模な祠は、短い持続時間の後、または使用後に消滅する)
+"(Summons a spectral wolf companion that attacks nearby enemies and dies after a duration. Each spectral wolf grants you a buff that adds damage to your attacks. If you have the maximum number of them, refreshes the duration and life of an existing one instead)",(近くの敵を攻撃し、持続時間後に死亡するスペクトラルウルフの仲間を召喚する。各スペクトラルウルフは、攻撃にダメージを追加するバフを付与する。最大数所持している場合、既存のウルフの持続時間とライフを更新する)
+(Summons an immortal Harbinger minion. The minion will occasionally create an aura on you that increases the Action Speed of you and all allies near you),(不死のハービンジャーミニオンを召喚する。ミニオンは時折、あなたと近くの味方全員の行動速度を上昇させるオーラをあなたに作成する)
+"(Summons an immortal Harbinger minion. The minion has two buff spells it will cast on you: Arcane Surge, granting increased Cast Speed and Mana Regeneration, and a buff that grants Chance to Shock and Lightning Penetration)",(不死のハービンジャーミニオンを召喚する。ミニオンはあなたに2つのバフスペルを唱える: 詠唱速度とマナ再生を上昇させるアケインサージ、そして感電確率と雷ダメージ貫通を付与するバフ)
+"(Summons an immortal Harbinger minion. While you are channelling, the minion will occasionally cast a buff on you that reduces the Damage you take, makes you avoid all Stuns and Elemental Ailments, and prevents Curses affecting you)",(不死のハービンジャーミニオンを召喚する。あなたがチャネリング中、ミニオンは時折、受けるダメージを軽減し、すべてのスタンとエレメンタル異常を回避させ、呪いを無効化するバフをあなたに唱える)
+"(Makes you immune to physical damage, and harder for enemies to detect, for a duration)",(一定時間、物理ダメージを無効にし、敵に発見されにくくする)
+"(While you run, this skill creates a small explosion with each step, dealing fire damage in an area around you)",(移動中、このスキルは一歩ごとに小さな爆発を起こし、周囲の範囲に炎ダメージを与える)
+"(Raise two spectral spiders from each nearby corpse that will attack your enemies with Viper Strike. Each raised spider grants you increased Attack Speed and increased Damage with Poison. Enemies will not engage the spiders directly, and they are immune to damage)",(近くの死体一体につき2体のスペクターの蜘蛛を召喚し、ヴァイパースラッシュで敵を攻撃する。召喚された蜘蛛一体につき、攻撃速度と毒ダメージが増加する。敵は蜘蛛に直接攻撃せず、蜘蛛はダメージを無効化する)
+(Casts an aura that grants evasion to you and your allies),(あなたと味方に回避率を付与するオーラを唱える)
+(Casts an aura that adds chaos damage to the attacks and spells of you and your allies),(あなたと味方の攻撃とスペルに混沌ダメージを追加するオーラを唱える)
+(Casts an aura that grants additional energy shield and increased energy shield recharge rate to you and your allies),(あなたと味方にアーマーとエナジーシールドのリチャージ率を付与するオーラを唱える)
+(Casts an aura that grants armour to you and your allies),(あなたと味方にアーマーを付与するオーラを唱える)
+"(While active, periodically applies a Spider's Web debuff to nearby Enemies, and Hinders them. Each Spider's Web on an Enemy increases the Damage they take. Hinder reduces their movement speed. You can only have one Aspect active at a time)",(発動中、近くの敵に時折スパイダーウェブのデバフを適用し、それらを妨害する。敵にかかったスパイダーウェブ一体につき、受けるダメージが増加する。妨害は移動速度を低下させる。アスペクトは一度に一つしかアクティブにできない)
+"(While active, grants the Cat's Stealth and Cat's Agility buffs in sequence. Cat's Stealth increases your critical strike chance, makes you harder to see, and gives you a chance to avoid damage for a short duration. Cat's Agility increases your attack and cast speed for a longer secondary duration. You can only have one Aspect active at a time)",(発動中、キャッツステルスとキャッツアジリティのバフを順番に付与する。キャッツステルスはクリティカルストライク確率を上昇させ、発見されにくくし、短時間ダメージを回避するチャンスを与える。キャッツアジリティはより長い二次持続時間、攻撃と詠唱速度を上昇させる。アスペクトは一度に一つしかアクティブにできない)
+"(While active, grants the Avian's Might and Avian's Flight buffs in sequence. Avian's Might grants you and your minions a chance to deal Double Damage with hits for a duration. Avian's Flight grants you and your minions increased Movement Speed for a secondary duration. You can only have one Aspect active at a time)",(発動中、アビアンのマイトとアビアンのフライトのバフを順番に付与する。アビアンのマイトはあなたとミニオンに、一定時間ヒットでダブルダメージを与えるチャンスを与える。アビアンのフライトはあなたとミニオンに、より長い二次持続時間、移動速度を上昇させる。アスペクトは一度に一つしかアクティブにできない)
+"(Curses a single enemy, making them more vulnerable to Critical Strikes. Killing the cursed enemy will grant life and mana, and a power charge. You can only have one Mark at a time)",(単体の敵に呪いをかけ、クリティカルストライクへの脆弱性を高める。呪われた敵を倒すとライフとマナ、パワーチャージを得る。マークは一度に一つしか持てない)
+"(Thirst for Blood reserves some of your life to cause bleeding you inflict to be stronger, and grant life regeneration based on the number bleeding enemies nearby)",(ライフの一部をリザーブし、与える出血を強化し、近くの出血中の敵の数に基づいてライフ再生を付与する)

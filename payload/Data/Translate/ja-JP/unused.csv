@@ -1,75 +1,75 @@
-﻿Have you used a Fire Skill in the past 10s?,Have you used a Fire Skill in the past 10s?
-Have you used a Cold Skill in the past 10s?,Have you used a Cold Skill in the past 10s?
-Have you used a Light. Skill in the past 10s?,Have you used a Light. Skill in the past 10s?
-Blocked hit from a Unique Recently?,Blocked hit from a Unique Recently?
-ES % Cost:,ES % Cost:
-Avoid Projectiles Ch.:,Avoid Projectiles Ch.:
-Physical Hit/DoT:,Physical Hit/DoT:
-Fire Hit/DoT:,Fire Hit/DoT:
-Cold Hit/DoT:,Cold Hit/DoT:
-Lightning Hit/DoT:,Lightning Hit/DoT:
-Chaos Hit/DoT:,Chaos Hit/DoT:
-Mind over Matter:,Mind over Matter:
-Curse Effect:,Curse Effect:
-x {0} (chance to deal double damage),x {0} (chance to deal double damage)
-x {0} (mana cost multiplier),x {0} (mana cost multiplier)
-"this will lessen the enemy's chance to hit, and thereby increase your evade chance.","this will lessen the enemy's chance to hit, and thereby increase your evade chance."
-This also implies that the enemy is Chilled.,This also implies that the enemy is Chilled.
-this will apply Shock's Damage Taken modifier to the enemy.,this will apply Shock's Damage Taken modifier to the enemy.
-This adds the following modifiers:,This adds the following modifiers:
-10% increased Damage Taken by enemy,10% increased Damage Taken by enemy
-10% increased Attack Damage Taken by enemy,10% increased Attack Damage Taken by enemy
-10% increased Spell Damage Taken by enemy,10% increased Spell Damage Taken by enemy
-20% less enemy Movement Speed,20% less enemy Movement Speed
-20% increased Fire Damage Taken by enemy,20% increased Fire Damage Taken by enemy
-Your enemy will automatically be considered to be Unique if one of the Boss options is selected.,Your enemy will automatically be considered to be Unique if one of the Boss options is selected.
-Shaper/Guardian adds the following modifiers:,Shaper/Guardian adds the following modifiers:
-Shaper/Guardian,Shaper/Guardian
-50% less Duration of Bleed,50% less Duration of Bleed
-50% less Duration of Poison,50% less Duration of Poison
-50% less Duration of Ignite,50% less Duration of Ignite
-used in-game to calculate the stats on the character sheet.,used in-game to calculate the stats on the character sheet.
-Enemy Physical Hit Damage:,Enemy Physical Hit Damage:
-This overrides the default damage amount used to estimate your physical damage reduction from armour.,This overrides the default damage amount used to estimate your physical damage reduction from armour.
-or copy and paste an item from in game (hover over the item and Ctrl+C),or copy and paste an item from in game (hover over the item and Ctrl+C)
-to view or edit the item and add it to your build.,to view or edit the item and add it to your build.
-This will also add it to your build if it's from the unique/template list.,This will also add it to your build if it's from the unique/template list.
-"If there's 2 slots an item can go in, holding Shift will put it in the second.","If there's 2 slots an item can go in, holding Shift will put it in the second."
-"You can Control + Click an item to equip it, or drag it onto the slot.","You can Control + Click an item to equip it, or drag it onto the slot."
-^x7F7F7FSockets: ,^x7F7F7FSockets: 
-^x7F7F7FQuality: ,^x7F7F7FQuality: 
-^x7F7F7FArmour: ,^x7F7F7FArmour: 
-^x7F7F7FEvasion Rating: ,^x7F7F7FEvasion Rating: 
-^x7F7F7FCritical Strike Chance: ,^x7F7F7FCritical Strike Chance: 
-^x7F7F7FAttacks per Second: ,^x7F7F7FAttacks per Second: 
-^x7F7F7FWeapon Range: ,^x7F7F7FWeapon Range: 
-^x7F7F7FChance to Block: ,^x7F7F7FChance to Block: 
-^x7F7F7FPhysical Damage: ,^x7F7F7FPhysical Damage: 
-^x7F7F7FElemental Damage: ,^x7F7F7FElemental Damage: 
-^x7F7F7FElemental DPS: ,^x7F7F7FElemental DPS: 
-^x7F7F7FChaos Damage: ,^x7F7F7FChaos Damage: 
-^x7F7F7FTotal DPS: ,^x7F7F7FTotal DPS: 
-^x7F7F7FLevel:,^x7F7F7FLevel:
-^x7F7F7FMana Multiplier:,^x7F7F7FMana Multiplier:
-^x7F7F7FMana Cost:,^x7F7F7FMana Cost:
-^x7F7F7FCast Time:,^x7F7F7FCast Time:
-^x7F7F7FMana Reserved:,^x7F7F7FMana Reserved:
-^x7F7F7FCooldown Time:,^x7F7F7FCooldown Time:
-^x7F7F7FEffectiveness of Added Damage:,^x7F7F7FEffectiveness of Added Damage:
-^x7F7F7FLimited to: ,^x7F7F7FLimited to: 
-^x7F7F7FRadius: ^7Large,^x7F7F7FRadius: ^7Large
-^x7F7F7FRadius: ^7Medium,^x7F7F7FRadius: ^7Medium
-^x7F7F7FRadius: ^7Small,^x7F7F7FRadius: ^7Small
-^x7F7F7FEnergy Shield: ,^x7F7F7FEnergy Shield: 
-x {0} leech rate modifier,x {0} leech rate modifier
-x 0.20 (poison deals 20% per second),x 0.20 (poison deals 20% per second)
-/ %.2f (burn rate modifier),/ %.2f (burn rate modifier)
-x 0.5 (ignite deals 50% per second),x 0.5 (ignite deals 50% per second)
-Are you against Damage over Time?,Are you against Damage over Time?
-Warcry calculation mode:,Warcry calculation mode:
-Super Chance:,Super Chance:
-"Is Ngamahu, Flame's Advance active?","Is Ngamahu, Flame's Advance active?"
+﻿Have you used a Fire Skill in the past 10s?,過去10秒以内に火のスキルを使用しましたか？
+Have you used a Cold Skill in the past 10s?,過去10秒以内に冷気のスキルを使用しましたか？
+Have you used a Light. Skill in the past 10s?,過去10秒以内に光のスキルを使用しましたか？
+Blocked hit from a Unique Recently?,最近ユニークからのヒットをブロックしましたか？
+ES % Cost:,ES %コスト:
+Avoid Projectiles Ch.:,プロジェクタイル回避率:
+Physical Hit/DoT:,物理ヒット/DoT:
+Fire Hit/DoT:,火ヒット/DoT:
+Cold Hit/DoT:,冷気ヒット/DoT:
+Lightning Hit/DoT:,雷ヒット/DoT:
+Chaos Hit/DoT:,混沌ヒット/DoT:
+Mind over Matter:,マインドオーバーマター:
+Curse Effect:,呪い効果:
+x {0} (chance to deal double damage),x {0} (ダメージを2倍にする確率)
+x {0} (mana cost multiplier),x {0} (マナコスト倍率)
+"this will lessen the enemy's chance to hit, and thereby increase your evade chance.",これにより敵のヒットチャンスが減少し、あなたの回避率が増加します。
+This also implies that the enemy is Chilled.,これにより敵がチル状態であることも示されます。
+this will apply Shock's Damage Taken modifier to the enemy.,これにより敵にショックのダメージを受ける修飾子が適用されます。
+This adds the following modifiers:,これにより次の修飾子が追加されます:
+10% increased Damage Taken by enemy,敵による受けるダメージが10%増加
+10% increased Attack Damage Taken by enemy,敵による受ける攻撃ダメージが10%増加
+10% increased Spell Damage Taken by enemy,敵による受けるスキルダメージが10%増加
+20% less enemy Movement Speed,敵の移動速度が20%減少
+20% increased Fire Damage Taken by enemy,敵による受ける火のダメージが20%増加
+Your enemy will automatically be considered to be Unique if one of the Boss options is selected.,ボスオプションのいずれかが選択されている場合、あなたの敵は自動的にユニークと見なされます。
+Shaper/Guardian adds the following modifiers:,シェイパー/ガーディアンは次の修飾子を追加します:
+Shaper/Guardian,シェイパー/ガーディアン
+50% less Duration of Bleed,出血の持続時間が50%減少
+50% less Duration of Poison,毒の持続時間が50%減少
+50% less Duration of Ignite,点火の持続時間が50%減少
+used in-game to calculate the stats on the character sheet.,ゲーム内でキャラクターシートの統計を計算するために使用されます。
+Enemy Physical Hit Damage:,敵の物理ヒットダメージ:
+This overrides the default damage amount used to estimate your physical damage reduction from armour.,これにより、アーマーからの物理ダメージ軽減を推定するために使用されるデフォルトのダメージ量が上書きされます。
+or copy and paste an item from in game (hover over the item and Ctrl+C),または、ゲーム内のアイテムをコピーして貼り付けます（アイテムにカーソルを合わせてCtrl+C）
+to view or edit the item and add it to your build.,アイテムを表示または編集し、ビルドに追加します。
+This will also add it to your build if it's from the unique/template list.,ユニーク/テンプレートリストからのものであれば、これをビルドに追加します。
+"If there's 2 slots an item can go in, holding Shift will put it in the second.",アイテムを入れられるスロットが2つある場合、Shiftを押しながら入れると2番目のスロットに入ります。
+"You can Control + Click an item to equip it, or drag it onto the slot.",アイテムを装備するには、Control + クリックするか、スロットにドラッグします。
+^x7F7F7FSockets: ,^x7F7F7Fスロット: 
+^x7F7F7FQuality: ,^x7F7F7F品質: 
+^x7F7F7FArmour: ,^x7F7F7F防具: 
+^x7F7F7FEvasion Rating: ,^x7F7F7F回避評価: 
+^x7F7F7FCritical Strike Chance: ,^x7F7F7Fクリティカルストライクチャンス: 
+^x7F7F7FAttacks per Second: ,^x7F7F7F毎秒の攻撃: 
+^x7F7F7FWeapon Range: ,^x7F7F7F武器の射程: 
+^x7F7F7FChance to Block: ,^x7F7F7Fブロックの確率: 
+^x7F7F7FPhysical Damage: ,^x7F7F7F物理ダメージ: 
+^x7F7F7FElemental Damage: ,^x7F7F7F元素ダメージ: 
+^x7F7F7FElemental DPS: ,^x7F7F7F元素DPS: 
+^x7F7F7FChaos Damage: ,^x7F7F7F混沌ダメージ: 
+^x7F7F7FTotal DPS: ,^x7F7F7F合計DPS: 
+^x7F7F7FLevel:,^x7F7F7Fレベル: 
+^x7F7F7FMana Multiplier:,^x7F7F7Fマナ倍率: 
+^x7F7F7FMana Cost:,^x7F7F7Fマナコスト: 
+^x7F7F7FCast Time:,^x7F7F7Fキャスト時間: 
+^x7F7F7FMana Reserved:,^x7F7F7Fリザーブ済みマナ: 
+^x7F7F7FCooldown Time:,^x7F7F7Fクールダウン時間: 
+^x7F7F7FEffectiveness of Added Damage:,^x7F7F7F追加ダメージの効果: 
+^x7F7F7FLimited to: ,^x7F7F7F制限: 
+^x7F7F7FRadius: ^7Large,^x7F7F7F半径: ^7大
+^x7F7F7FRadius: ^7Medium,^x7F7F7F半径: ^7中
+^x7F7F7FRadius: ^7Small,^x7F7F7F半径: ^7小
+^x7F7F7FEnergy Shield: ,^x7F7F7Fエナジーシールド: 
+x {0} leech rate modifier,x {0} リーチレート補正
+x 0.20 (poison deals 20% per second),x 0.20 (毒: 毎秒20%のダメージ)
+/ %.2f (burn rate modifier),/ %.2f (燃焼速度補正)
+x 0.5 (ignite deals 50% per second),x 0.5 (点火: 毎秒50%のダメージ)
+Are you against Damage over Time?,継続ダメージに対抗していますか？
+Warcry calculation mode:,ウォークライ計算モード: 
+Super Chance:,スーパー確率: 
+"Is Ngamahu, Flame's Advance active?",ナンガマフ、炎の前進はアクティブですか？
 Total DPS,合計DPS
-Average Dmg. inc. Poison:,Average Dmg. inc. Poison:
-Capped to 1 poison:,Capped to 1 poison:
-Did you Chill yourself?,Did you Chill yourself?
+Average Dmg. inc. Poison:,平均ダメージ。毒を含む: 
+Capped to 1 poison:,毒: 1に制限
+Did you Chill yourself?,自分をチルさせましたか？

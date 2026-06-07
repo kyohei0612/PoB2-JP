@@ -337,7 +337,7 @@ Frostbite:,フロストバイト:
 Sets the level of Frostbite to apply to the player.,プレイヤーに適用されるフロストバイトのレベルを設定します。
 Poacher's Mark:,ポーチャーの呪印:
 Sets the level of Poacher's Mark to apply to the player.,プレイヤーに適用されるポーチャーの呪印のレベルを設定します。
-Projectile Weakness:,Projectile Weakness:
+Projectile Weakness:,投射物ウィークネス:
 Sets the level of Projectile Weakness to apply to the player.,プレイヤーに適用される Projectile Weakness のレベルを設定します。
 Punishment:,パニッシュメント:
 Sets the level of Punishment to apply to the player.,プレイヤーに適用されるパニッシュメントのレベルを設定します。
@@ -994,9 +994,9 @@ Damage Over Time skill,継続ダメージスキル
 Sirus Meteor,シラスメテオ
 Earlier ones with less walls do less damage. Allocating The Perfect Storm increases Damage by a further 50% (Applied on Uber),前半の壁ほどダメージが低くなります。完璧な嵐を割り当てると、さらにダメージが50%増加します (Uber時適用)
 Cortex Ground Degen,コーテクス領域 継続ダメージ
-Exarch Ball,Exarch Ball
+Exarch Ball,エグザークボール
 "Spawns 8-18 waves of balls depending on which fight and which ball phase, Cannot be Blocked, Dodged, or Suppressed",戦闘内容と弾フェーズに応じて8〜18波の弾を生成します。ブロック・ドッジ・スペル抑制不可。
-Eater Beam,Eater Beam
+Eater Beam,イータービーム
 Allocating Insatiable Appetite causes the beam to always shock for at least 30%,飽くことなき食欲を割り当てると、ビームが最低でも30%の感電を与えます
 Maven Fireball,メイヴェン・ファイアボール
 Allocating Throw the Gauntlet increases Damage by a further 100% (Applied on Uber) and causes the fireball to have 30 Fire penetration (Applied on Uber),挑戦を割り当てると、ダメージがさらに100%増加し (Uber時適用)、ファイアボールに火耐性貫通30が追加されます (Uber時適用)

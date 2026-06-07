@@ -1,60 +1,60 @@
-﻿Enemy Physical Damage reduction:,Enemy Physical Damage reduction:
-'Armoured','Armoured'
-20% (Low tier),20% (Low tier)
-30% (Mid tier),30% (Mid tier)
-40% (High tier),40% (High tier)
-Enemy is Hexproof?,Enemy is Hexproof?
-'Hexproof','Hexproof'
-Less effect of Curses on enemy:,Less effect of Curses on enemy:
-'Hexwarded','Hexwarded'
-25% (Low tier),25% (Low tier)
-40% (Mid tier),40% (Mid tier)
-60% (High tier),60% (High tier)
-Enemy has Elemental / Chaos Resist:,Enemy has Elemental / Chaos Resist:
-'Resistant','Resistant'
-20% / 15% (Low tier),20% / 15% (Low tier)
-30% / 20% (Mid tier),30% / 20% (Mid tier)
-40% / 25% (High tier),40% / 25% (High tier)
-Player has Elemental Equilibrium?,Player has Elemental Equilibrium?
-'of Balance','of Balance'
-Cannot Leech Life / Mana?,Cannot Leech Life / Mana?
-'of Congealment','of Congealment'
-Gains reduced Flask Charges:,Gains reduced Flask Charges:
-'of Drought','of Drought'
-30% (Low tier),30% (Low tier)
-50% (High tier),50% (High tier)
--X% maximum Resistances:,-X% maximum Resistances:
-'of Exposure','of Exposure'
-Mid tier: 5-8%,Mid tier: 5-8%
-High tier: 9-12%,High tier: 9-12%
-Less Area of Effect:,Less Area of Effect:
-'of Impotence','of Impotence'
-15% (Low tier),15% (Low tier)
-20% (Mid tier),20% (Mid tier)
-25% (High tier),25% (High tier)
-Enemy avoid Elemental Ailments:,Enemy avoid Elemental Ailments:
-'of Insulation','of Insulation'
-50% (Mid tier),50% (Mid tier)
-70% (High tier),70% (High tier)
-Enemy avoid Poison and Bleed:,Enemy avoid Poison and Bleed:
-'Impervious','Impervious'
-35% (Mid tier),35% (Mid tier)
-65% (High tier),65% (High tier)
-Unlucky Dodge / Enemy has inc. Accuracy:,Unlucky Dodge / Enemy has inc. Accuracy:
-'of Miring','of Miring'
-Reduced Block Chance / less Armour:,Reduced Block Chance / less Armour:
-'of Rust','of Rust'
-20% / 20% (Low tier),20% / 20% (Low tier)
-30% / 25% (Mid tier),30% / 25% (Mid tier)
-40% / 30% (High tier),40% / 30% (High tier)
-Player has Point Blank?,Player has Point Blank?
-'of Skirmishing','of Skirmishing'
-Less Recovery Rate of Life and Energy Shield:,Less Recovery Rate of Life and Energy Shield:
-'of Smothering','of Smothering'
-"Cannot Regen Life, Mana or ES?","Cannot Regen Life, Mana or ES?"
-'of Stasis','of Stasis'
-Enemy takes red. Extra Crit Damage:,Enemy takes red. Extra Crit Damage:
-'of Toughness','of Toughness'
-Low tier: 25-30%,Low tier: 25-30%
-Mid tier: 31-35%,Mid tier: 31-35%
-High tier: 36-40%,High tier: 36-40%
+﻿Enemy Physical Damage reduction:,敵の物理ダメージ軽減:
+'Armoured','アーマード'
+20% (Low tier),20% (低ティア)
+30% (Mid tier),30% (中ティア)
+40% (High tier),40% (高ティア)
+Enemy is Hexproof?,敵は呪い無効？
+'Hexproof','呪い無効'
+Less effect of Curses on enemy:,敵への呪いの効果減少:
+'Hexwarded','呪い耐性'
+25% (Low tier),25% (低ティア)
+40% (Mid tier),40% (中ティア)
+60% (High tier),60% (高ティア)
+Enemy has Elemental / Chaos Resist:,敵の元素/混沌耐性:
+'Resistant','耐性'
+20% / 15% (Low tier),20% / 15% (低ティア)
+30% / 20% (Mid tier),30% / 20% (中ティア)
+40% / 25% (High tier),40% / 25% (高ティア)
+Player has Elemental Equilibrium?,プレイヤーの元素均衡？
+'of Balance','均衡'
+Cannot Leech Life / Mana?,ライフ/マナのリーチ不可？
+'of Congealment','凝固'
+Gains reduced Flask Charges:,フラスコチャージ減少獲得:
+'of Drought','乾燥'
+30% (Low tier),30% (低ティア)
+50% (High tier),50% (高ティア)
+-X% maximum Resistances:,-X% 最大レジスト:
+'of Exposure','暴露'
+Mid tier: 5-8%,中ティア: 5-8%
+High tier: 9-12%,高ティア: 9-12%
+Less Area of Effect:,エリアオブエフェクト減少:
+'of Impotence','無力'
+15% (Low tier),15% (低ティア)
+20% (Mid tier),20% (中ティア)
+25% (High tier),25% (高ティア)
+Enemy avoid Elemental Ailments:,敵の元素状態異常回避:
+'of Insulation','絶縁体'
+50% (Mid tier),50% (中ティア)
+70% (High tier),70% (高ティア)
+Enemy avoid Poison and Bleed:,敵はポイズンと出血を回避:
+'Impervious','不浸透'
+35% (Mid tier),35% (中 tier)
+65% (High tier),65% (高 tier)
+Unlucky Dodge / Enemy has inc. Accuracy:,不運な回避 / 敵の命中力上昇:
+'of Miring','ミリング'
+Reduced Block Chance / less Armour:,ブロック率低下 / アーマー低下:
+'of Rust','ラスト'
+20% / 20% (Low tier),20% / 20% (低 tier)
+30% / 25% (Mid tier),30% / 25% (中 tier)
+40% / 30% (High tier),40% / 30% (高 tier)
+Player has Point Blank?,プレイヤーはポイントブランク？
+'of Skirmishing','スカーミッシング'
+Less Recovery Rate of Life and Energy Shield:,ライフとエナジーシールドの回復率低下:
+'of Smothering','スマザリング'
+"Cannot Regen Life, Mana or ES?",ライフ、マナ、ESの自動回復不可？
+'of Stasis','ステイシス'
+Enemy takes red. Extra Crit Damage:,敵はクリティカルダメージ低下:
+'of Toughness','タフネス'
+Low tier: 25-30%,低 tier: 25-30%
+Mid tier: 31-35%,中 tier: 31-35%
+High tier: 36-40%,高 tier: 36-40%

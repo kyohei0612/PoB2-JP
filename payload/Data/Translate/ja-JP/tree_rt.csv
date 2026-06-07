@@ -1,10 +1,10 @@
-﻿(Inherent effects from having Rage are:,(Inherent effects from having Rage are:
-1% increased Attack Damage per 1 Rage,1% increased Attack Damage per 1 Rage
-1% increased Attack Speed per 2 Rage,1% increased Attack Speed per 2 Rage
-1% increased Movement Speed per 5 Rage),1% increased Movement Speed per 5 Rage)
-(Virulence is granted by the Herald of Agony Skill),(Virulence is granted by the Herald of Agony Skill)
-(These are consecutive),(These are consecutive)
-(Each Conflux means all damage causes that Ailment),(Each Conflux means all damage causes that Ailment)
-(Tailwind increases Action Speed by 8%),(Tailwind increases Action Speed by 8%)
-(Fortify grants 20% reduced Damage Taken from Hits),(Fortify grants 20% reduced Damage Taken from Hits)
-"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits)","(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits)"
+﻿(Inherent effects from having Rage are:,(Rageを持つことによる固有の効果は以下の通り:
+1% increased Attack Damage per 1 Rage,Rage 1につき攻撃ダメージ1%増加
+1% increased Attack Speed per 2 Rage,Rage 2につき攻撃速度1%増加
+1% increased Movement Speed per 5 Rage),Rage 5につき移動速度1%増加)
+(Virulence is granted by the Herald of Agony Skill),（ウィルスはヘラルドオブアゴニースキルによって付与されます）
+(These are consecutive),(これらは連続している)
+(Each Conflux means all damage causes that Ailment),(各コンフラックスは、すべてのダメージがあの属性による状態異常を引き起こすことを意味する)
+(Tailwind increases Action Speed by 8%),(追い風はアクション速度を8%増加させる)
+(Fortify grants 20% reduced Damage Taken from Hits),（強化はヒットから受けるダメージを20%減少させます）
+"(When an Impaled enemy is hit, the Impale reflects 10% of the physical damage of the Impaling hit to that enemy. Impale lasts for 5 hits)",（インペイルされた敵がヒットすると、インペイルはその敵にインペイリングヒットの物理ダメージの10%を反射します。インペイルは5ヒット持続します）

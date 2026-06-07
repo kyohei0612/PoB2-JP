@@ -1,140 +1,140 @@
-﻿1 Projectile,1 Projectile
-All Projectiles,All Projectiles
-1 Stage,1 Stage
-6 Stages,6 Stages
-Release at 6 Stages,Release at 6 Stages
-0 Blades,0 Blades
-5 Blades,5 Blades
-10 Blades,10 Blades
-1 explosion,1 explosion
-4 explosions,4 explosions
-Corpse Explosion,Corpse Explosion
-Explosion (1 fuse),Explosion (1 fuse)
-Explosion (5 fuses),Explosion (5 fuses)
-Arrow,Arrow
-Melee hit,Melee hit
-Icy blades,Icy blades
-Cone,Cone
-One slash,One slash
-Both slashes,Both slashes
-Projectiles,Projectiles
-Beams,Beams
-Projectile Weakness,Projectile Weakness
-No stages,No stages
-4 stages,4 stages
-8 stages,8 stages
-No Stages,No Stages
-4 Stages,4 Stages
-8 Stages,8 Stages
-Release at 5 Stages,Release at 5 Stages
-Thorn Arrows,Thorn Arrows
-Shrapnel Shot,Shrapnel Shot
+﻿1 Projectile,投射物1個
+All Projectiles,すべての投射物
+1 Stage,1ステージ
+6 Stages,6ステージ
+Release at 6 Stages,6ステージでリリース
+0 Blades,0ブレード
+5 Blades,5ブレード
+10 Blades,10ブレード
+1 explosion,爆発1回
+4 explosions,爆発4回
+Corpse Explosion,死体爆破
+Explosion (1 fuse),爆発 (ヒューズ1個)
+Explosion (5 fuses),爆発 (ヒューズ5個)
+Arrow,矢
+Melee hit,近接ヒット
+Icy blades,氷のブレード
+Cone,コーン
+One slash,1回の斬撃
+Both slashes,両方の斬撃
+Projectiles,投射物
+Beams,ビーム
+Projectile Weakness,投射物ウィークネス
+No stages,ステージなし
+4 stages,4ステージ
+8 stages,8ステージ
+No Stages,ステージなし
+4 Stages,4ステージ
+8 Stages,8ステージ
+Release at 5 Stages,5ステージでリリース
+Thorn Arrows,茨の矢
+Shrapnel Shot,破片ショット
 Shield,エナジーシールド
 Shards,シャード
-Outgoing Projectile,Outgoing Projectile
-Returning Projectile,Returning Projectile
-Fire hit,Fire hit
-Fire explosion,Fire explosion
-Lightning hit,Lightning hit
-Lightning bolt,Lightning bolt
-Cold hit,Cold hit
-Icy wave,Icy wave
-Arctic Breath,Arctic Breath
-Self Explosion,Self Explosion
-Cast on Player,Cast on Player
-Cast on Skeleton,Cast on Skeleton
-Release at 10 Stages,Release at 10 Stages
-Release at 20 Stages,Release at 20 Stages
-Explosion,Explosion
-10 Stages,10 Stages
-"First Form, 1 Projectile","First Form, 1 Projectile"
-"Second Form, 1 Projectile","Second Form, 1 Projectile"
-"First Form, All Projectiles","First Form, All Projectiles"
-"Second Form, All Projectiles","Second Form, All Projectiles"
-Half stages,Half stages
-Maximum stages,Maximum stages
+Outgoing Projectile,発射投射物
+Returning Projectile,戻る投射物
+Fire hit,炎ヒット
+Fire explosion,炎爆発
+Lightning hit,雷ヒット
+Lightning bolt,ライトニングボルト
+Cold hit,冷気ヒット
+Icy wave,氷の波動
+Arctic Breath,アークティックブレス
+Self Explosion,自己爆破
+Cast on Player,プレイヤーにキャスト
+Cast on Skeleton,スケルトンにキャスト
+Release at 10 Stages,10ステージでリリース
+Release at 20 Stages,20ステージでリリース
+Explosion,爆発
+10 Stages,10 ステージ
+"First Form, 1 Projectile",第一形態、投射物 1
+"Second Form, 1 Projectile",第二形態、投射物 1
+"First Form, All Projectiles",第一形態、すべての投射物
+"Second Form, All Projectiles",第二形態、すべての投射物
+Half stages,半ステージ
+Maximum stages,最大ステージ
 Release,解放
-Explosions,Explosions
-Magma Orb,Magma Orb
-Initial hit,Initial hit
+Explosions,爆発
+Magma Orb,マグマオーブ
+Initial hit,最初のヒット
 Ring,指輪
-Idle,Idle
-1 Stack,1 Stack
-5 Stacks,5 Stacks
-10 Stacks,10 Stacks
-15 Stacks,15 Stacks
-Initial impact,Initial impact
-Aftershock,Aftershock
-First Hit,First Hit
-Second Hit,Second Hit
-Third Hit,Third Hit
-Melee Hit,Melee Hit
-Magma Balls,Magma Balls
-Initial effect,Initial effect
-Maximum effect,Maximum effect
-Beams - 1 Stack,Beams - 1 Stack
-Beams - 3 Stacks,Beams - 3 Stacks
-Primary wave,Primary wave
+Idle,アイドル
+1 Stack,1 スタック
+5 Stacks,5 スタック
+10 Stacks,10 スタック
+15 Stacks,15 スタック
+Initial impact,最初の衝撃
+Aftershock,余波
+First Hit,最初のヒット
+Second Hit,2 回目のヒット
+Third Hit,3 回目のヒット
+Melee Hit,近接ヒット
+Magma Balls,マグマボール
+Initial effect,初期効果
+Maximum effect,最大効果
+Beams - 1 Stack,ビーム - 1 スタック
+Beams - 3 Stacks,ビーム - 3 スタック
+Primary wave,プライマリウェーブ
 Shockwaves,衝撃波
-Cascade,Cascade
-Chaos Aura,Chaos Aura
-Magma Ball,Magma Ball
-Flame Wave,Flame Wave
-Storm Orb,Storm Orb
-Lightning Projectile,Lightning Projectile
+Cascade,カスケード
+Chaos Aura,混沌オーラ
+Magma Ball,マグマボール
+Flame Wave,フレイムウェーブ
+Storm Orb,ストームオーブ
+Lightning Projectile,雷の投射物
 Charge,チャージ
-Cold Projectile,Cold Projectile
-Fire Projectile,Fire Projectile
-Roll,Roll
-Physical Projectile,Physical Projectile
-Tail Spike,Tail Spike
-Crusade Slam,Crusade Slam
-Chaos Projectile,Chaos Projectile
-Combo Attack,Combo Attack
-Caustic Cloud,Caustic Cloud
-Mjolner,Mjolner
+Cold Projectile,冷気の投射物
+Fire Projectile,炎の投射物
+Roll,ローリング
+Physical Projectile,物理の投射物
+Tail Spike,テイルスパイク
+Crusade Slam,クルセイドスラム
+Chaos Projectile,混沌の投射物
+Combo Attack,コンボ攻撃
+Caustic Cloud,腐食するクラウド
+Mjolner,ミョルニル
 Blessing,祝福する
-Convert to fire,Convert to fire
-Convert to cold,Convert to cold
-Convert to lightning,Convert to lightning
-Summon Volatile Anomaly,Summon Volatile Anomaly
-Blood Projectile,Blood Projectile
-Consume Corpse,Consume Corpse
-Sandstorm,Sandstorm
-Delayed Blast,Delayed Blast
-Whirling Charge,Whirling Charge
-Ranged Attack,Ranged Attack
-Chaos Ball,Chaos Ball
-Lightning Ball,Lightning Ball
-Fire Roll,Fire Roll
-Blue Flame,Blue Flame
-Chaos Spikes,Chaos Spikes
-Spit,Spit
-Scorching Ray Totem,Scorching Ray Totem
-Mass Frenzy,Mass Frenzy
-Mass Power,Mass Power
-Throw Fire,Throw Fire
-Caustic Bomb,Caustic Bomb
-Fire Bomb,Fire Bomb
-Lesser Multi Fireball,Lesser Multi Fireball
-Lesser Multi Ice Spear,Lesser Multi Ice Spear
+Convert to fire,炎に変換
+Convert to cold,冷気に変換
+Convert to lightning,雷に変換
+Summon Volatile Anomaly,召喚: ヴォラタイルアノマリー
+Blood Projectile,血の投射物
+Consume Corpse,死体を消費
+Sandstorm,サンドストーム
+Delayed Blast,遅延爆発
+Whirling Charge,回転チャージ
+Ranged Attack,遠隔攻撃
+Chaos Ball,混沌のボール
+Lightning Ball,雷のボール
+Fire Roll,炎のローリング
+Blue Flame,ブルーフレイム
+Chaos Spikes,混沌のスパイク
+Spit,吐き出す
+Scorching Ray Totem,スコーチングレイ トーテム
+Mass Frenzy,マスフレンジー
+Mass Power,マスパワー
+Throw Fire,火炎投射
+Caustic Bomb,腐食する爆弾
+Fire Bomb,火炎弾
+Lesser Multi Fireball,レッサー・マルチファイアボール
+Lesser Multi Ice Spear,レッサー・マルチアイスピア
 Lightning Thorns,雷のトゲ
-Multi Fireball,Multi Fireball
-Multi Ice Spear,Multi Ice Spear
+Multi Fireball,マルチファイアボール
+Multi Ice Spear,マルチアイスピア
 Proximity Shield,周辺シールド
-Unrighteous Fire,Unrighteous Fire
-Split Fireball,Split Fireball
-Split Ice Spear,Split Ice Spear
-Chaos Fireball,Chaos Fireball
-Suicide Explosion,Suicide Explosion
-Screech,Screech
-Wave,Wave
-Spine Attack,Spine Attack
-Flame Vortex,Flame Vortex
-Beam,Beam
-Tar Projectile,Tar Projectile
-Double Slash,Double Slash
-Physical Mortar,Physical Mortar
-Curse On Hit,Curse On Hit
-Deathmark,Deathmark
-Ranged Attack Totem,Ranged Attack Totem
+Unrighteous Fire,不敬なる炎
+Split Fireball,スプリットファイアボール
+Split Ice Spear,スプリットアイスピア
+Chaos Fireball,混沌のファイアボール
+Suicide Explosion,自爆
+Screech,シャウト
+Wave,ウェーブ
+Spine Attack,スパインアタック
+Flame Vortex,フレイム・ヴォーテックス設定
+Beam,ビーム
+Tar Projectile,タール投射物
+Double Slash,ダブルスラッシュ
+Physical Mortar,フィジカル・モルタル
+Curse On Hit,ヒット時呪い
+Deathmark,デスマーク
+Ranged Attack Totem,遠隔攻撃トーテム
