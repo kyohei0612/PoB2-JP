@@ -1003,6 +1003,23 @@ local function translateDisplayMultiline(text)
 	return table.concat(lines, "\n")
 end
 
+-- ビルド警告（"You do not meet the X requirement of <名前>" 等、前置詞＋動的名の連結）。
+-- 前置詞を日本語化し、名前部分は再帰翻訳して日本語語順に組み替える。
+local buildWarnPrefixes = {
+	{ "You do not meet the Strength requirement of ", "の筋力要件を満たしていません" },
+	{ "You do not meet the Dexterity requirement of ", "の器用さ要件を満たしていません" },
+	{ "You do not meet the Intelligence requirement of ", "の知性要件を満たしていません" },
+}
+local function translateBuildWarning(text)
+	for _, p in ipairs(buildWarnPrefixes) do
+		if text:sub(1, #p[1]) == p[1] then
+			local rest = text:sub(#p[1] + 1)
+			return M.tDisplay(rest) .. p[2]
+		end
+	end
+	return text
+end
+
 function M.tDisplay(text)
 	if type(text) ~= "string" then
 		return text
@@ -1024,6 +1041,10 @@ function M.tDisplay(text)
 	end
 	if text:find("^", 1, true) then
 		return M.translateColoured(text)
+	end
+	local warn = translateBuildWarning(text)
+	if warn ~= text then
+		return warn
 	end
 	return text
 end
