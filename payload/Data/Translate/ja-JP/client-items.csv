@@ -1,0 +1,4568 @@
+source,translation
+Blacksmith's Whetstone,鍛冶屋の砥石
+Arcanist's Etcher,秘術師の彫刻針
+Scroll of Wisdom,鑑定の巻物
+Chaos Orb,カオスオーブ
+Greater Chaos Orb,カオスオーブ (上級)
+Perfect Chaos Orb,カオスオーブ (完全)
+Armourer's Scrap,鎧鍛冶の端材
+Mirror of Kalandra,カランドラの鏡
+Hinekora's Lock,ヒネコラの髪束
+Orb of Alchemy,錬金術のオーブ
+Orb of Chance,可能性のオーブ
+Orb of Regret,後悔のオーブ
+Orb of Unmaking,解除のオーブ
+Orb of Transmutation,変成のオーブ
+Greater Orb of Transmutation,変成のオーブ (上級)
+Perfect Orb of Transmutation,変成のオーブ (完全)
+Orb of Alteration,改変のオーブ
+Orb of Scouring,洗浄のオーブ
+Exalted Orb,高貴なオーブ
+Greater Exalted Orb,高貴なオーブ (上級)
+Perfect Exalted Orb,高貴なオーブ (完全)
+Regal Orb,王者のオーブ
+Greater Regal Orb,王者のオーブ (上級)
+Perfect Regal Orb,王者のオーブ (完全)
+Orb of Augmentation,増強のオーブ
+Greater Orb of Augmentation,増強のオーブ (上級)
+Perfect Orb of Augmentation,増強のオーブ (完全)
+Portal Scroll,ポータルの巻物
+Glassblower's Bauble,ガラス吹きの飾り玉
+Gemcutter's Prism,宝石細工師のプリズム
+Chromatic Orb,色彩のオーブ
+Orb of Fusing,結合のオーブ
+Lesser Jeweller's Orb,宝飾職人のオーブ (見習い)
+Greater Jeweller's Orb,宝飾職人のオーブ (上級)
+Perfect Jeweller's Orb,宝飾職人のオーブ (完全)
+Artificer's Orb,熟練工のオーブ
+Divine Orb,神のオーブ
+Blessed Orb,祝福のオーブ
+Sacred Orb,聖なるオーブ
+Cartographer's Chisel,地図職人のチセル
+Scroll Fragment,巻物の断片
+Transmutation Shard,変成のシャード
+Alteration Shard,改変のシャード
+Alchemy Shard,錬金術のシャード
+Chance Shard,可能性のシャード
+Albino Rhoa Feather,アルビノロアの羽根
+Golden Vulture Feather,ゴールデンヴァルチャーの羽根
+Rainbow Toucan Feather,レインボートゥーカンの羽根
+Jade Kiwi Feather,ジェイドキーウィの羽根
+Stygian Peacock Feather,スティギアンピーコックの羽根
+Eternal Orb,永遠のオーブ
+Imprint,インプリント
+Vaal Orb,ヴァールオーブ
+Corrupt,コラプト
+Architect's Orb,アーキテクトオーブ
+Crystallised Corruption,コラプトの結晶
+Core Destabiliser,コア不安定化装置
+Ancient Infuser,古代のインフューザー
+Vaal Cultivation Orb,ヴァール培養のオーブ
+Yaomac's Orb of Sacrifice,ヤオマックの生贄のオーブ
+Kopec's Orb of Sacrifice,コペックの生贄のオーブ
+Kamasa's Orb of Sacrifice,カマサの生贄のオーブ
+Yugul's Orb of Sacrifice,ユグルの生贄のオーブ
+Vaal Armourer's Infuser,ヴァール鎧鍛冶のインフューザー
+Vaal Blacksmith's Infuser,ヴァール鍛冶屋のインフューザー
+Vaal Arcanist's Infuser,ヴァールアルカニストのインフューザー
+Vaal Catalysing Infuser,ヴァールカタリストのインフューザー
+Orb of Extraction,抽出のオーブ
+Vaal Siphoner,ヴァールサイフォナー
+Perandus Coin,ペランダスのコイン
+Silver Coin,銀のコイン
+Prophecy,予言
+Bestiary Orb,怪獣のオーブ
+Imprinted Bestiary Orb,刻印された怪獣のオーブ
+Surveyor's Compass,測量技師のコンパス
+Charged Compass,充填されたコンパス
+Prime Regrading Lens,一級再評価のレンズ
+Secondary Regrading Lens,二級再評価のレンズ
+Tempering Orb,焼き戻しのオーブ
+Tailoring Orb,仕立てのオーブ
+Lesser Essence of the Body,肉体のレッサーエッセンス
+Lesser Essence of the Mind,精神のレッサーエッセンス
+Lesser Essence of Enhancement,強化のレッサーエッセンス
+Lesser Essence of Abrasion,擦傷のレッサーエッセンス
+Lesser Essence of Flames,火炎のレッサーエッセンス
+Lesser Essence of Ice,氷のレッサーエッセンス
+Lesser Essence of Electricity,電気のレッサーエッセンス
+Lesser Essence of Ruin,破滅のレッサーエッセンス
+Lesser Essence of Battle,戦闘のレッサーエッセンス
+Lesser Essence of Sorcery,魔法のレッサーエッセンス
+Lesser Essence of Haste,迅速のレッサーエッセンス
+Lesser Essence of the Infinite,無限のレッサーエッセンス
+Essence of the Body,肉体のエッセンス
+Essence of the Mind,精神のエッセンス
+Essence of Enhancement,強化のエッセンス
+Essence of Abrasion,擦傷のエッセンス
+Essence of Flames,火炎のエッセンス
+Essence of Ice,氷晶のエッセンス
+Essence of Electricity,電気のエッセンス
+Essence of Ruin,破滅のエッセンス
+Essence of Battle,戦闘のエッセンス
+Essence of Sorcery,魔法のエッセンス
+Essence of Haste,迅速のエッセンス
+Essence of the Infinite,無限のエッセンス
+Greater Essence of the Body,肉体のグレーターエッセンス
+Greater Essence of the Mind,精神のグレーターエッセンス
+Greater Essence of Enhancement,強化のグレーターエッセンス
+Greater Essence of Abrasion,擦傷のグレーターエッセンス
+Greater Essence of Flames,火炎のグレーターエッセンス
+Greater Essence of Ice,氷のグレーターエッセンス
+Greater Essence of Electricity,電気のグレーターエッセンス
+Greater Essence of Ruin,破滅のグレーターエッセンス
+Greater Essence of Battle,戦闘のグレーターエッセンス
+Greater Essence of Sorcery,魔法のグレーターエッセンス
+Greater Essence of Haste,迅速のグレーターエッセンス
+Greater Essence of the Infinite,無限のグレーターエッセンス
+Perfect Essence of the Body,肉体のパーフェクトエッセンス
+Perfect Essence of the Mind,精神のパーフェクトエッセンス
+Perfect Essence of Enhancement,強化のパーフェクトエッセンス
+Perfect Essence of Abrasion,擦傷のパーフェクトエッセンス
+Perfect Essence of Flames,火炎のパーフェクトエッセンス
+Perfect Essence of Ice,氷のパーフェクトエッセンス
+Perfect Essence of Electricity,電気のパーフェクトエッセンス
+Perfect Essence of Ruin,破滅のパーフェクトエッセンス
+Perfect Essence of Battle,戦闘のパーフェクトエッセンス
+Perfect Essence of Sorcery,魔法のパーフェクトエッセンス
+Perfect Essence of Haste,迅速のパーフェクトエッセンス
+Perfect Essence of the Infinite,無限のパーフェクトエッセンス
+Lesser Essence of Seeking,探求のレッサーエッセンス
+Essence of Seeking,探求のエッセンス
+Greater Essence of Seeking,探求のグレーターエッセンス
+Perfect Essence of Seeking,探求のパーフェクトエッセンス
+Essence of Hysteria,ヒステリーのエッセンス
+Essence of Delirium,錯乱のエッセンス
+Essence of Horror,戦慄のエッセンス
+Essence of Insanity,狂気のエッセンス
+Essence of the Abyss,アビスのエッセンス
+Essence of the Breach,ブリーチのエッセンス
+Lesser Essence of Insulation,断熱のレッサーエッセンス
+Essence of Insulation,断熱のエッセンス
+Greater Essence of Insulation,断熱のグレーターエッセンス
+Perfect Essence of Insulation,断熱のパーフェクトエッセンス
+Lesser Essence of Thawing,解凍のレッサーエッセンス
+Essence of Thawing,解凍のエッセンス
+Greater Essence of Thawing,解凍のグレーターエッセンス
+Perfect Essence of Thawing,解凍のパーフェクトエッセンス
+Lesser Essence of Grounding,接地のレッサーエッセンス
+Essence of Grounding,接地のエッセンス
+Greater Essence of Grounding,接地のグレーターエッセンス
+Perfect Essence of Grounding,接地のパーフェクトエッセンス
+Lesser Essence of Alacrity,敏速のレッサーエッセンス
+Essence of Alacrity,敏速のエッセンス
+Greater Essence of Alacrity,敏速のグレーターエッセンス
+Perfect Essence of Alacrity,敏速のパーフェクトエッセンス
+Lesser Essence of Opulence,絢爛のレッサーエッセンス
+Essence of Opulence,絢爛のエッセンス
+Greater Essence of Opulence,絢爛のグレーターエッセンス
+Perfect Essence of Opulence,絢爛のパーフェクトエッセンス
+Lesser Essence of Command,命令のレッサーエッセンス
+Essence of Command,命令のエッセンス
+Greater Essence of Command,命令のグレーターエッセンス
+Perfect Essence of Command,命令のパーフェクトエッセンス
+Simple Sextant,簡素な六分儀
+Prime Sextant,一級品の六分儀
+Awakened Sextant,覚醒した六分儀
+Elevated Sextant,高位の六分儀
+Apprentice Cartographer's Seal,見習い地図職人の印章
+Journeyman Cartographer's Seal,熟練地図職人の印章
+Master Cartographer's Seal,達人地図職人の印章
+Unshaping Orb,破綻のオーブ
+Breach Splinter,ブリーチスプリンター
+Splinter of Xoph,ゾフスプリンター
+Splinter of Tul,トゥルスプリンター
+Splinter of Esh,エシュスプリンター
+Splinter of Uul-Netol,ウール・ネトルスプリンター
+Splinter of Chayula,チャユラスプリンター
+Blessing of Xoph,ゾフの祝福
+Blessing of Tul,トゥルの祝福
+Blessing of Esh,エシュの祝福
+Blessing of Uul-Netol,ウール・ネトルの祝福
+Blessing of Chayula,チャユラの祝福
+Timeless Karui Splinter,カルイのタイムレススプリンター
+Timeless Maraketh Splinter,マラケスのタイムレススプリンター
+Timeless Eternal Empire Splinter,永遠なる帝国のタイムレススプリンター
+Timeless Templar Splinter,テンプラーのタイムレススプリンター
+Timeless Vaal Splinter,ヴァールのタイムレススプリンター
+Simulacrum Splinter,シミュラクラムスプリンター
+Petition Splinter,請願のスプリンター
+Runic Splinter,ルーニックスプリンター
+Orb of Annulment,消去のオーブ
+Orb of Binding,連結のオーブ
+Orb of Horizons,地平のオーブ
+Harbinger's Orb,ハービンジャーオーブ
+Engineer's Orb,技師のオーブ
+Infused Engineer's Orb,強化された技師のオーブ
+Ancient Orb,古代のオーブ
+Fracturing Orb,フラクチャーオーブ
+Annulment Shard,消去のシャード
+Binding Shard,連結のシャード
+Horizon Shard,地平のシャード
+Harbinger's Shard,ハービンジャーシャード
+Engineer's Shard,技師のシャード
+Ancient Shard,古代のシャード
+Chaos Shard,カオスシャード
+Mirror Shard,鏡のシャード
+Exalted Shard,高貴のシャード
+Regal Shard,王者のシャード
+Fracturing Shard,フラクチャーシャード
+Artificer's Shard,熟練工のシャード
+Simple Rope Net,単純な縄のネット
+Reinforced Rope Net,補強された縄のネット
+Strong Rope Net,頑丈な縄のネット
+Simple Iron Net,単純な鉄製のネット
+Reinforced Iron Net,補強された鉄製のネット
+Strong Iron Net,頑丈な鉄製のネット
+Simple Steel Net,単純な鋼鉄のネット
+Reinforced Steel Net,補強された鋼鉄のネット
+Strong Steel Net,頑丈な鋼鉄のネット
+Thaumaturgical Net,魔術のネット
+Necromancy Net,ネクロマンシーネット
+Vial of Dominance,支配の小瓶
+Vial of Summoning,召喚の小瓶
+Vial of Awakening,覚醒の小瓶
+Vial of the Ritual,儀式の小瓶
+Vial of Fate,運命の小瓶
+Vial of Consequence,結果の小瓶
+Vial of the Ghost,幽霊の小瓶
+Vial of Transcendence,超越の小瓶
+Vial of Sacrifice,生贄の小瓶
+Scorched Fossil,焦げたフォッシル
+Frigid Fossil,極寒のフォッシル
+Metallic Fossil,金属光沢のフォッシル
+Jagged Fossil,ギザギザのフォッシル
+Aberrant Fossil,異常なフォッシル
+Pristine Fossil,綺麗なフォッシル
+Dense Fossil,不透明なフォッシル
+Corroded Fossil,腐食したフォッシル
+Prismatic Fossil,プリズムのフォッシル
+Aetheric Fossil,エーテルのフォッシル
+Serrated Fossil,ノコギリ歯状のフォッシル
+Lucent Fossil,輝くフォッシル
+Shuddering Fossil,震動するフォッシル
+Bound Fossil,縛られたフォッシル
+Perfect Fossil,完全なフォッシル
+Deft Fossil,巧みなフォッシル
+Fundamental Fossil,基本的なフォッシル
+Faceted Fossil,面の刻まれたフォッシル
+Bloodstained Fossil,血塗れのフォッシル
+Hollow Fossil,中空のフォッシル
+Fractured Fossil,粉砕されたフォッシル
+Glyphic Fossil,浮き彫りのフォッシル
+Tangled Fossil,もつれのあるフォッシル
+Sanctified Fossil,聖別されたフォッシル
+Gilded Fossil,金色のフォッシル
+Primitive Alchemical Resonator,素朴な錬金術のレゾネーター
+Potent Alchemical Resonator,効果的な錬金術のレゾネーター
+Powerful Alchemical Resonator,強力な錬金術のレゾネーター
+Prime Alchemical Resonator,極上の錬金術のレゾネーター
+Primitive Chaotic Resonator,素朴な混沌のレゾネーター
+Potent Chaotic Resonator,効果的な混沌のレゾネーター
+Powerful Chaotic Resonator,強力な混沌のレゾネーター
+Prime Chaotic Resonator,極上の混沌のレゾネーター
+Flesh Catalyst,肉体のカタリスト
+Neural Catalyst,神経のカタリスト
+Carapace Catalyst,甲羅のカタリスト
+Uul-Netol's Catalyst,ウール・ネトルのカタリスト
+Xoph's Catalyst,ゾフのカタリスト
+Tul's Catalyst,トゥルのカタリスト
+Esh's Catalyst,エシュのカタリスト
+Chayula's Catalyst,チャユラのカタリスト
+Reaver Catalyst,強奪者のカタリスト
+Sibilant Catalyst,歯擦音のカタリスト
+Skittering Catalyst,軽快のカタリスト
+Adaptive Catalyst,適応のカタリスト
+Necrotic Catalyst,死霊術のカタリスト
+Refined Flesh Catalyst,精製された肉体のカタリスト
+Refined Neural Catalyst,精製された神経のカタリスト
+Refined Carapace Catalyst,精製された甲羅のカタリスト
+Refined Uul-Netol's Catalyst,精製されたウール・ネトルのカタリスト
+Refined Xoph's Catalyst,精製されたゾフのカタリスト
+Refined Tul's Catalyst,精製されたトゥルのカタリスト
+Refined Esh's Catalyst,精製されたエシュのカタリスト
+Refined Chayula's Catalyst,精製されたチャユラのカタリスト
+Refined Reaver Catalyst,精製された強奪者のカタリスト
+Refined Sibilant Catalyst,精製された歯擦音のカタリスト
+Refined Skittering Catalyst,精製された軽快のカタリスト
+Refined Adaptive Catalyst,精製された適応のカタリスト
+Refined Necrotic Catalyst,精製された死霊術のカタリスト
+Time-light Scroll,時と光の巻物
+Fragmentation Scroll,分裂の巻物
+Deregulation Scroll,抑制緩和の巻物
+Electroshock Scroll,電気ショックの巻物
+Haemocombustion Scroll,血液爆破の巻物
+Specularity Scroll,鏡面の巻物
+Facetor's Lens,宝石加工のレンズ
+Ritual Splinter,リチュアルスプリンター
+Ritual Vessel,リチュアルの器
+Lesser Eldritch Ember,エルドリッチエンバー (小 )
+Greater Eldritch Ember,エルドリッチエンバー (大 )
+Grand Eldritch Ember,エルドリッチエンバー (特大 )
+Exceptional Eldritch Ember,エルドリッチエンバー (希少 )
+Lesser Eldritch Ichor,エルドリッチイコル (小 )
+Greater Eldritch Ichor,エルドリッチイコル (大 )
+Grand Eldritch Ichor,エルドリッチイコル (特大 )
+Exceptional Eldritch Ichor,エルドリッチイコル (希少 )
+Orb of Conflict,対立のオーブ
+Uncarved Gemstone,未彫刻の原石
+MTX Wrapper,MTX包装
+Mystery Box,ミステリーボックス
+Dance - Duelist,踊り - デュエリスト
+Dance - Marauder,踊り - マローダー
+Dance - Ranger,踊り - レンジャー
+Dance - Shadow,踊り - シャドウ
+Dance - Templar,踊り - テンプラー
+Dance - Witch,踊り - ウィッチ
+Dance - Scion,踊り - サイオン
+Hidden Item,隠れアイテム
+Wrapped Gift,包装紙に包まれたギフト
+Keyblade,キーブレード
+Golden Blade,ゴールデンブレード
+Fishing Rod,釣り竿
+Golden Hoop,黄金の指輪
+Golden Obi,金の帯
+Golden Flame,黄金の炎
+Golden Wreath,黄金の花冠
+Golden Visage,黄金の顔飾り
+Golden Mantle,黄金の外套
+Golden Caligae,黄金のカリガ
+Golden Bracers,黄金のブレーサー
+Shaper's Orb (Tier 1),シェイパーオーブ (ティア1)
+Shaper's Orb (Tier 2),シェイパーオーブ (ティア2)
+Shaper's Orb (Tier 3),シェイパーオーブ (ティア3)
+Shaper's Orb (Tier 4),シェイパーオーブ (ティア4)
+Shaper's Orb (Tier 5),シェイパーオーブ (ティア5)
+Shaper's Orb (Tier 6),シェイパーオーブ (ティア6)
+Shaper's Orb (Tier 7),シェイパーオーブ (ティア7)
+Shaper's Orb (Tier 8),シェイパーオーブ (ティア8)
+Shaper's Orb (Tier 9),シェイパーオーブ (ティア9)
+Shaper's Orb (Tier 10),シェイパーオーブ (ティア10)
+Elder's Orb,エルダーオーブ
+The Shaper's Key,シェイパーの鍵
+Memory Fragment I,記憶のフラグメントI
+Memory Fragment II,記憶のフラグメントII
+Memory Fragment III,記憶のフラグメントIII
+Memory Fragment IV,記憶のフラグメントIV
+Memory Fragment V,記憶のフラグメントV
+Memory Fragment VI,記憶のフラグメントVI
+Memory Fragment VII,記憶のフラグメントVII
+Memory Fragment VIII,記憶のフラグメントVIII
+Memory Fragment IX,記憶のフラグメントIX
+Memory Fragment X,記憶のフラグメントX
+Memory Fragment XI,記憶のフラグメントXI
+Memory Fragment XII,記憶のフラグメントXII
+Memory Fragment XIII,記憶のフラグメントXIII
+Memory Fragment XIV,記憶のフラグメントXIV
+Memory Fragment XV,記憶のフラグメントXV
+Book of Skill,スキルの書
+Book of Regrets,後悔の書
+Book of Regression,退行の書
+Atlas Book of Skill,アトラススキルの書
+Crystalline Core of Knowledge I,知識の結晶の核 I
+Crystalline Core of Knowledge II,知識の結晶の核 II
+Crystalline Core of Knowledge IV,知識の結晶の核 IV
+Crystalline Core of Knowledge V,知識の結晶の核 V
+Crystalline Core of Knowledge III,知識の結晶の核 III
+Crystalline Core of Knowledge VII,知識の結晶の核 VII
+Crystalline Core of Knowledge VIII,知識の結晶の核 VIII
+Crystalline Core of Knowledge X,知識の結晶の核 X
+Crystalline Core of Knowledge XI,知識の結晶の核 XI
+Crystalline Core of Knowledge XIII,知識の結晶の核 XIII
+Crystalline Core of Knowledge XIV,知識の結晶の核 XIV
+Crystalline Core of Knowledge VI,知識の結晶の核 VI
+Book of Unique Knowledge I,特異な知識の書 I
+Book of Unique Knowledge II,特異な知識の書 II
+Book of Unique Knowledge III,特異な知識の書 III
+Book of Unique Knowledge IV,特異な知識の書 IV
+Book of Unique Knowledge V,特異な知識の書 V
+Otherworldly Book of Knowledge I,異世界の知識の書 I
+Otherworldly Book of Knowledge II,異世界の知識の書 II
+Otherworldly Book of Knowledge III,異世界の知識の書 III
+Otherworldly Book of Knowledge IV,異世界の知識の書 IV
+Ritualistic Book of Knowledge I,リチュアルの知識の書 I
+Ritualistic Book of Knowledge II,リチュアルの知識の書 II
+Ritualistic Book of Knowledge III,リチュアルの知識の書 III
+Ritualistic Book of Knowledge IV,リチュアルの知識の書 IV
+Runic Book of Knowledge I,ルーンの知識の書 I
+Runic Book of Knowledge II,ルーンの知識の書 II
+Runic Book of Knowledge III,ルーンの知識の書 III
+Runic Book of Knowledge IV,ルーンの知識の書 IV
+Deranging Book of Knowledge I,錯乱の知識の書 I
+Deranging Book of Knowledge II,錯乱の知識の書 II
+Deranging Book of Knowledge III,錯乱の知識の書 III
+Deranging Book of Knowledge IV,錯乱の知識の書 IV
+Lightless Book of Knowledge I,光なきものの知識の書 I
+Lightless Book of Knowledge II,光なきものの知識の書 II
+Lightless Book of Knowledge III,光なきものの知識の書 III
+Lightless Book of Knowledge IV,光なきものの知識の書 IV
+Vanquisher's Book of Knowledge I,征服者の知識の書 I
+Vanquisher's Book of Knowledge II,征服者の知識の書 II
+Vanquisher's Book of Knowledge III,征服者の知識の書 III
+Vanquisher's Book of Knowledge IV,征服者の知識の書 IV
+Vanquisher's Book of Knowledge V,征服者の知識の書 V
+Arbiter's Book of Knowledge I,アービターの知識の書 I
+Arbiter's Book of Knowledge II,アービターの知識の書 II
+Arbiter's Book of Knowledge III,アービターの知識の書 III
+Arbiter's Book of Knowledge IV,アービターの知識の書 IV
+Head of the King,王の首
+Breachlord Sac,ブリーチロードの供物
+Vault Key,金庫の鍵
+Blood Crucible,血の坩堝
+Dream Furnace,夢の火炉
+Viscera Cauldron,臓物の大釜
+Master Key,マスターキー
+Stone of Passage,通過の石鍵
+Flashpowder Keg,爆薬の樽
+Ice Nova,アイスノヴァ
+Leap Slam,リープスラム
+Molten Crash,モルテンクラッシュ
+Shattering Spite,シャタリングスパイト
+Shield Charge,シールドチャージ
+Raise Zombie,ゾンビ蘇生
+Detonate Dead,デトネートデッド
+Volatile Dead,ボラタイルデッド
+Flicker Strike,フリッカーストライク
+Spark,スパーク
+Spectre: {0},スペクター: {0}
+Frost Wall,フロストウォール
+Enervating Nova,エナヴェイティングノヴァ
+Temporal Chains,テンポラルチェーン
+Enfeeble,エンフィーブル
+Sniper's Mark,スナイパーの呪印
+Despair,ディスペア
+Lightning Warp,ライトニングワープ
+His Vile Intrusion,ヒズヴァイルイントリュージョン
+Skeletal Sniper,スケルトンスナイパー
+Skeletal Reaver,スケルトンリーバー
+Skeletal Brute,スケルトンブルート
+Skeletal Frost Mage,スケルトンフロストメイジ
+Skeletal Storm Mage,スケルトンストームメイジ
+Skeletal Arsonist,スケルトンアーソニスト
+Skeletal Cleric,スケルトンクレリック
+Azmerian Wolf,アズメリウルフ
+Mist Raven,ミストレイヴン
+Spiraling Conspiracy,スパイラリングコンスピラシー
+Armour Breaker,アーマーブレイカー
+Rain of Arrows,レインオブアロー
+Firestorm,ファイヤーストーム
+Falling Thunder,フォーリングサンダー
+Power Siphon,パワーサイフォン
+Lightning Arrow,ライトニングアロー
+Arc,アーク
+Discipline,ディシプリン
+Shockwave Totem,ショックウェーブトーテム
+Arctic Armour,アークティックアーマー
+Virtuous Barrier,ヴァーチュアスバリア
+Flammability,フラマビリティ
+Hypothermia,ハイポサーミア
+Conductivity,コンダクティビティ
+Incinerate,インシネレート
+Purity of Fire,ピュリティオブファイヤー
+Purity of Ice,ピュリティオブアイス
+Purity of Lightning,ピュリティオブライトニング
+Impurity,インピュリティ
+Flameblast,フレイムブラスト
+Barrage,バラージ
+Ball Lightning,ボールライトニング
+Bone Offering,ボーンオファリング
+Herald of Ash,ヘラルドオブアッシュ
+Herald of Ice,ヘラルドオブアイス
+Herald of Thunder,ヘラルドオブサンダー
+Blasphemy,ブラスファミー
+Infernal Cry,インファーナルクライ
+Seismic Cry,サイズミッククライ
+Rolling Magma,ローリングマグマ
+Frost Bomb,フロストボム
+Orb of Storms,オーブオブストーム
+Earthquake,アースクエイク
+Contagion,コンテージョン
+Wither,ウィザー
+Essence Drain,エッセンスドレイン
+Sunder,サンダー
+Frostbolt,フロストボルト
+Dark Pact,ダークパクト
+Abyssal Pact,アビサルパクト
+Vulnerability,ヴァルネラビリティ
+Soulrend,ソウルレンド
+Close Combat I,近距離戦闘 I
+Close Combat II,近距離戦闘 II
+Plague Bearer,プレイグベアラー
+Siege Ballista,シージバリスタ
+Earthshatter,アースシャッター
+Sigil of Power,シギルオブパワー
+Rite of Restoration,ライトオブレストレーション
+Flame Wall,フレイムウォール
+Hexblast,ヘックスブラスト
+Exsanguinate,イグザングイネイト
+Reap,リープ
+Boneshatter,ボーンシャッター
+Eye of Winter,アイオブウィンター
+Tornado,トルネード
+Lightning Conduit,ライトニングコンジット
+Galvanic Field,ガルヴァニックフィールド
+Volcanic Fissure,ヴォルカニックフィッシャー
+Rapid Assault,ラピッドアサルト
+Disengage,ディスエンゲージ
+Blood Hunt,ブラッドハント
+Whirling Slash,ワーリングスラッシュ
+Spearfield,スピアフィールド
+Demon Magus,デーモンメーガス
+Lightning Spear,ライトニングスピア
+Glacial Lance,グレイシャルランス
+Whirling Assault,ワーリングアサルト
+Rolling Slam,ローリングスラム
+Escape Shot,エスケープショット
+Supercharged Slam,スーパーチャージドスラム
+Wind Blast,ウィンドブラスト
+Wave of Frost,ウェーブオブフロスト
+Ice Strike,アイスストライク
+Maul,モール
+Rend,レンド
+Chaos Bolt,カオスボルト
+Coiling Bolts,コイリングボルト
+Firebolt,ファイヤーボルト
+Timeless Jewel,タイムレスジュエル
+Ruby,ルビー
+Emerald,エメラルド
+Sapphire,サファイア
+Diamond,ダイヤモンド
+Time-Lost Ruby,タイムロストルビー
+Time-Lost Emerald,タイムロストエメラルド
+Time-Lost Sapphire,タイムロストサファイア
+Time-Lost Diamond,タイムロストダイヤモンド
+Blank Rune,空白のルーン
+Blank Greater Rune,空白のグレータールーン
+Desert Rune,砂漠のルーン
+Glacial Rune,氷河のルーン
+Storm Rune,嵐のルーン
+Iron Rune,鉄のルーン
+Body Rune,肉体のルーン
+Mind Rune,精神のルーン
+Rebirth Rune,復活のルーン
+Inspiration Rune,鼓舞のルーン
+Stone Rune,石のルーン
+Vision Rune,先見のルーン
+Lesser Desert Rune,砂漠のレッサールーン
+Lesser Glacial Rune,氷河のレッサールーン
+Lesser Storm Rune,嵐のレッサールーン
+Lesser Iron Rune,鉄のレッサールーン
+Lesser Body Rune,肉体のレッサールーン
+Lesser Mind Rune,精神のレッサールーン
+Lesser Rebirth Rune,復活のレッサールーン
+Lesser Inspiration Rune,鼓舞のレッサールーン
+Lesser Stone Rune,石のレッサールーン
+Lesser Vision Rune,先見のレッサールーン
+Greater Desert Rune,砂漠のグレータールーン
+Greater Glacial Rune,氷河のグレータールーン
+Greater Storm Rune,嵐のグレータールーン
+Greater Iron Rune,鉄のグレータールーン
+Greater Body Rune,肉体のグレータールーン
+Greater Mind Rune,精神のグレータールーン
+Greater Rebirth Rune,復活のグレータールーン
+Greater Inspiration Rune,鼓舞のグレータールーン
+Greater Stone Rune,石のグレータールーン
+Greater Vision Rune,先見のグレータールーン
+Perfect Desert Rune,砂漠のパーフェクトルーン
+Perfect Glacial Rune,氷河のパーフェクトルーン
+Perfect Storm Rune,嵐のパーフェクトルーン
+Perfect Iron Rune,鉄のパーフェクトルーン
+Perfect Body Rune,肉体のパーフェクトルーン
+Perfect Mind Rune,精神のパーフェクトルーン
+Perfect Rebirth Rune,復活のパーフェクトルーン
+Perfect Inspiration Rune,鼓舞のパーフェクトルーン
+Perfect Stone Rune,石のパーフェクトルーン
+Perfect Vision Rune,先見のパーフェクトルーン
+Lesser Robust Rune,強固のレッサールーン
+Robust Rune,強固のルーン
+Greater Robust Rune,強固のグレータールーン
+Perfect Robust Rune,強固のパーフェクトルーン
+Lesser Adept Rune,熟達のレッサールーン
+Adept Rune,熟達のルーン
+Greater Adept Rune,熟達のグレータールーン
+Perfect Adept Rune,熟達のパーフェクトルーン
+Lesser Resolve Rune,決意のレッサールーン
+Resolve Rune,決意のルーン
+Greater Resolve Rune,決意のグレータールーン
+Perfect Resolve Rune,決意のパーフェクトルーン
+Lesser Tempered Rune,鍛錬のレッサールーン
+Tempered Rune,鍛錬のルーン
+Greater Tempered Rune,鍛錬のグレータールーン
+Greater Rune of Leadership,統率力のグレータールーン
+Greater Rune of Tithing,十分の一税のグレータールーン
+Greater Rune of Alacrity,積極性のグレータールーン
+Greater Rune of Nobility,高潔なグレータールーン
+Hedgewitch Assandra's Rune of Wisdom,ヘッジウィッチ・アサンドラの知恵のルーン
+Saqawal's Rune of the Sky,サカワルの空のルーン
+Fenumus' Rune of Agony,フィヌムスの苦痛のルーン
+Farrul's Rune of Grace,ファルウルの気品のルーン
+Farrul's Rune of the Chase,ファルウルの追跡のルーン
+Craiceann's Rune of Warding,クレイシアンの守りのルーン
+Saqawal's Rune of Memory,サカワルの記憶のルーン
+Saqawal's Rune of Erosion,サカワルの浸食のルーン
+Farrul's Rune of the Hunt,ファルウルの狩りのルーン
+Craiceann's Rune of Recovery,クレイシアンの回復のルーン
+Courtesan Mannan's Rune of Cruelty,宮廷女官マンナンの残虐のルーン
+Thane Grannell's Rune of Mastery,族長グラネルの熟達のルーン
+Fenumus' Rune of Spinning,フィヌムスの紡績のルーン
+Countess Seske's Rune of Archery,セスケ女伯爵の弓のルーン
+Thane Girt's Rune of Wildness,族長ガートの野生のルーン
+Fenumus' Rune of Draining,フィヌムスの吸収のルーン
+Thane Myrk's Rune of Summer,族長ミュルクの夏のルーン
+Lady Hestra's Rune of Winter,ヘストラ婦人の冬のルーン
+Thane Leld's Rune of Spring,族長レルドの春のルーン
+The Greatwolf's Rune of Claws,大狼の鉤爪のルーン
+The Greatwolf's Rune of Willpower,大狼の意志力のルーン
+Masterwork Rune,傑作のルーン
+Idol of Sirrius,シリウスのアイドル
+Idol of Thruldana,スルルダーナのアイドル
+Idol of Grold,グロルドのアイドル
+Idol of Eeshta,イーシュタのアイドル
+Idol of Egrin,エグリンのアイドル
+Idol of Maxarius,マクサリウスのアイドル
+Idol of Ralakesh,ララケシュのアイドル
+Idol of Greust,グルーストのアイドル
+Idol of Yeena,イーナのアイドル
+Idol of Eramir,エラミアのアイドル
+Idol of Oak,オークのアイドル
+Idol of Alira,アリラのアイドル
+Idol of Kraityn,クライティンのアイドル
+Idol of Silk,シルクのアイドル
+Idol of the Sycophant,へつらう者のアイドル
+Idol of the Martyr,殉教者のアイドル
+Idol of the Pharisee,パリサイ人のアイドル
+Panther Idol,ヒョウのアイドル
+Hawk Idol,タカのアイドル
+Stoat Idol,オコジョのアイドル
+Hayoxi's Soul Core of Heatproofing,ハヨキの耐熱のソウルコア
+Zalatl's Soul Core of Insulation,ザラトルの絶縁のソウルコア
+Topotante's Soul Core of Dampening,トポタンテの軽減のソウルコア
+Atmohua's Soul Core of Retreat,アトモフアの退却のソウルコア
+Quipolatl's Soul Core of Flow,キポラトルの流れのソウルコア
+Tzamoto's Soul Core of Ferocity,ザモトの凶暴性のソウルコア
+Uromoti's Soul Core of Attenuation,ウルモティの希薄化のソウルコア
+Opiloti's Soul Core of Assault,オピロティの強襲のソウルコア
+Guatelitzi's Soul Core of Endurance,グアテリッツィの忍耐のソウルコア
+Xopec's Soul Core of Power,ゾペックの力のソウルコア
+Estazunti's Soul Core of Convalescence,エスタザンティの再起のソウルコア
+Tacati's Soul Core of Affliction,タカティの病苦のソウルコア
+Cholotl's Soul Core of War,チョロトルの戦のソウルコア
+Citaqualotl's Soul Core of Foulness,シタクアロトルの不快のソウルコア
+Xipocado's Soul Core of Dominion,ジポカドの支配のソウルコア
+Jiquani's Soul Core of Automation,ジクアニの自動化のソウルコア
+Jiquani's Soul Core of Malediction,ジクアニの呪詛のソウルコア
+Jiquani's Soul Core of Targeting,ジクアニの照準のソウルコア
+Jiquani's Soul Core of Rallying,ジクアニの決起のソウルコア
+Jiquani's Soul Core of Radiance,ジクアニの光輝のソウルコア
+Jiquani's Soul Core of Severing,ジクアニの切断のソウルコア
+Jiquani's Soul Core of Rippling,ジクアニの波動のソウルコア
+Jiquani's Soul Core of Quaking,ジクアニの震動のソウルコア
+Jiquani's Soul Core of Munitions,ジクアニの弾薬のソウルコア
+Jiquani's Soul Core of Snares,ジクアニの罠のソウルコア
+Jiquani's Soul Core of Abundance,ジクアニの豊富さのソウルコア
+Jiquani's Soul Core of Squalls,ジクアニの突風のソウルコア
+Jiquani's Soul Core of Thundering,ジクアニの雷鳴のソウルコア
+Atziri's Soul Core of Devotion,アッツィリの献身のソウルコア
+Atziri's Soul Core of Vitality,アッツィリの活力のソウルコア
+Atziri's Soul Core of Alacrity,アッツィリの俊敏のソウルコア
+Atziri's Soul Core of Inoculation,アッツィリの接種のソウルコア
+Soul Core of Vizoma,ヴィゾマのソウルコア
+Soul Core of Tacati,タカティのソウルコア
+Soul Core of Opiloti,オピロティのソウルコア
+Soul Core of Jiquani,ジクアニのソウルコア
+Soul Core of Zalatl,ザラトルのソウルコア
+Soul Core of Citaqualotl,シアクラトルのソウルコア
+Soul Core of Puhuarte,プフアーテのソウルコア
+Soul Core of Tzamoto,ザモトのソウルコア
+Soul Core of Xopec,ゾペックのソウルコア
+Soul Core of Azcapa,アズカパのソウルコア
+Soul Core of Topotante,トポタンテのソウルコア
+Soul Core of Quipolatl,クイポラトルのソウルコア
+Soul Core of Ticaba,ティカバのソウルコア
+Soul Core of Atmohua,アトモフアのソウルコア
+Soul Core of Cholotl,チョロトルのソウルコア
+Soul Core of Zantipi,ザンティーピのソウルコア
+Snake Idol,ヘビのアイドル
+Primate Idol,サルのアイドル
+Owl Idol,フクロウのアイドル
+Cat Idol,ネコのアイドル
+Wolf Idol,オオカミのアイドル
+Stag Idol,シカのアイドル
+Boar Idol,イノシシのアイドル
+Bear Idol,クマのアイドル
+Ox Idol,ウシのアイドル
+Rabbit Idol,ウサギのアイドル
+Fox Idol,キツネのアイドル
+Amanamu's Gaze,アマナムの凝視
+Tecrod's Gaze,テクロッドの凝視
+Kurgal's Gaze,クルガルの凝視
+Ulaman's Gaze,ウラマンの凝視
+Guatelitzi's Thesis,グアテリッツィの命題
+Citaqualotl's Thesis,シタクアロトルの命題
+Jiquani's Thesis,ジクアニの命題
+Quipolatl's Thesis,キポラトルの命題
+Emergent Vigour,発現する活力
+Emergent Possibility,発現する可能性
+Emergent Protection,発現する加護
+Emergent Instinct,発現する本能
+Carved Cunning,刻印された狡猾さ
+Carved Majesty,刻印された威厳
+Carved Mischief,刻印された悪戯
+Carved Tenacity,刻印された不屈
+Raven-Touched Shard,レイヴンタッチシャード
+Waystone (Tier 1),ウェイストーン (ティア1)
+Waystone (Tier 2),ウェイストーン (ティア2)
+Waystone (Tier 3),ウェイストーン (ティア3)
+Waystone (Tier 4),ウェイストーン (ティア4)
+Waystone (Tier 5),ウェイストーン (ティア5)
+Waystone (Tier 6),ウェイストーン (ティア6)
+Waystone (Tier 7),ウェイストーン (ティア7)
+Waystone (Tier 8),ウェイストーン (ティア8)
+Waystone (Tier 9),ウェイストーン (ティア9)
+Waystone (Tier 10),ウェイストーン (ティア10)
+Waystone (Tier 11),ウェイストーン (ティア11)
+Waystone (Tier 12),ウェイストーン (ティア12)
+Waystone (Tier 13),ウェイストーン (ティア13)
+Waystone (Tier 14),ウェイストーン (ティア14)
+Waystone (Tier 15),ウェイストーン (ティア15)
+Waystone (Tier 16),ウェイストーン (ティア16)
+Sacrifice at Midnight,正子の生贄
+Sacrifice at Dawn,黎明の生贄
+Sacrifice at Noon,午刻の生贄
+Sacrifice at Dusk,黄昏の生贄
+Mortal Rage,定命の者の怒り
+Mortal Hope,定命の者の望み
+Mortal Ignorance,定命の者の無知
+Mortal Grief,定命の者の苦悩
+Eber's Key,エベルの鍵
+Yriel's Key,ユリエルの鍵
+Inya's Key,イーニャの鍵
+Volkuur's Key,ヴォルカーの鍵
+Fragment of the Phoenix,フェニックスフラグメント
+Fragment of the Minotaur,ミノタウロスフラグメント
+Fragment of the Chimera,キメラフラグメント
+Fragment of the Hydra,ヒドラフラグメント
+Divine Vessel,神の器
+Sacrifice Set,生贄セット
+Mortal Set,定命セット
+Pale Court Set,ペールコートセット
+Key to the Crucible,試練の鍵
+Fragment of Enslavement,隷属のフラグメント
+Fragment of Eradication,撲滅のフラグメント
+Fragment of Constriction,抑圧のフラグメント
+Fragment of Purification,浄化のフラグメント
+Key to Decay,腐敗の鍵
+Fragment of Terror,恐怖のフラグメント
+Fragment of Emptiness,空虚のフラグメント
+Fragment of Shape,具現のフラグメント
+Fragment of Knowledge,知識のフラグメント
+Maddening Object,狂気の中心
+Al-Hezmin's Crest,アルヘズミンの紋章
+Baran's Crest,バランの紋章
+Drox's Crest,ドロクスの紋章
+Veritania's Crest,ヴェリタニアの紋章
+Crest of the Elderslayers,エルダースレイヤーの紋章
+Breachstone,ブリーチストーン
+Xoph's Breachstone,ゾフのブリーチストーン
+Tul's Breachstone,トゥルのブリーチストーン
+Esh's Breachstone,エッシュのブリーチストーン
+Uul-Netol's Breachstone,ウール・ネトルのブリーチストーン
+Chayula's Breachstone,チャユラのブリーチストーン
+Xoph's Charged Breachstone,ゾフの充填ブリーチストーン
+Tul's Charged Breachstone,トゥルの充填ブリーチストーン
+Esh's Charged Breachstone,エシュの充填ブリーチストーン
+Uul-Netol's Charged Breachstone,ウール・ネトルの充填ブリーチストーン
+Chayula's Charged Breachstone,チャユラの充填ブリーチストーン
+Xoph's Enriched Breachstone,ゾフの強化ブリーチストーン
+Tul's Enriched Breachstone,トゥルの強化ブリーチストーン
+Esh's Enriched Breachstone,エシュの強化ブリーチストーン
+Uul-Netol's Enriched Breachstone,ウール・ネトルの強化ブリーチストーン
+Chayula's Enriched Breachstone,チャユラの強化ブリーチストーン
+Xoph's Pure Breachstone,ゾフの純化ブリーチストーン
+Tul's Pure Breachstone,トゥルの純化ブリーチストーン
+Esh's Pure Breachstone,エシュの純化ブリーチストーン
+Uul-Netol's Pure Breachstone,ウール・ネトルの純化ブリーチストーン
+Chayula's Pure Breachstone,チャユラの純化ブリーチストーン
+Xoph's Flawless Breachstone,ゾフの極限ブリーチストーン
+Tul's Flawless Breachstone,トゥルの極限ブリーチストーン
+Esh's Flawless Breachstone,エシュの極限ブリーチストーン
+Uul-Netol's Flawless Breachstone,ウール・ネトルの極限ブリーチストーン
+Chayula's Flawless Breachstone,チャユラの極限ブリーチストーン
+Timeless Karui Emblem,カルイのタイムレスエンブレム
+Timeless Maraketh Emblem,マラケスのタイムレスエンブレム
+Timeless Eternal Emblem,永遠の帝国のタイムレスエンブレム
+Timeless Templar Emblem,テンプラーのタイムレスエンブレム
+Timeless Vaal Emblem,ヴァールのタイムレスエンブレム
+Unrelenting Timeless Karui Emblem,カルイの悠久のタイムレスエンブレム
+Unrelenting Timeless Maraketh Emblem,マラケスの悠久のタイムレスエンブレム
+Unrelenting Timeless Eternal Emblem,エターナルの悠久のタイムレスエンブレム
+Unrelenting Timeless Templar Emblem,テンプラーの悠久のタイムレスエンブレム
+Unrelenting Timeless Vaal Emblem,ヴァールの悠久のタイムレスエンブレム
+Simulacrum,シミュラクラム
+Offering to the Goddess,女神への供物
+Tribute to the Goddess,女神への賛辞
+Gift to the Goddess,女神への贈与
+Dedication to the Goddess,女神への献身
+An Audience with the King,王への謁見
+Ancient Reliquary Key,古代の聖廟の鍵
+Timeworn Reliquary Key,古びた聖廟の鍵
+Vaal Reliquary Key,ヴァールの聖廟の鍵
+Forgotten Reliquary Key,忘れ去られた聖廟の鍵
+Visceral Reliquary Key,内臓の聖廟の鍵
+Shiny Reliquary Key,輝く聖廟の鍵
+Archive Reliquary Key,記録の聖廟の鍵
+Oubliette Reliquary Key,牢獄の聖廟の鍵
+Cosmic Reliquary Key,宇宙の聖廟の鍵
+Decaying Reliquary Key,腐敗の聖廟の鍵
+Voidborn Reliquary Key,ヴォイドボーンの聖廟の鍵
+Twilight Reliquary Key,黄昏の聖廟の鍵
+Xesht's Reliquary Key,ゼシュトの聖廟の鍵
+The Trialmaster's Reliquary Key,トライアルマスターの聖廟の鍵
+Ritualistic Reliquary Key,リチュアルの聖廟の鍵
+Tangmazu's Reliquary Key,タングマズーの聖廟の鍵
+Olroth's Reliquary Key,オルロスの聖廟の鍵
+The Arbiter's Reliquary Key,アービターの聖廟の鍵
+Zarokh's Reliquary Key,ザロクの聖廟の鍵
+Zarokh's Reliquary Key: Against the Darkness,ザロクの聖廟の鍵：闇との対立
+Zarokh's Reliquary Key: Sandstorm Visage,ザロクの聖廟の鍵：砂嵐の容貌
+Zarokh's Reliquary Key: Blessed Bonds,ザロクの聖廟の鍵：祝福されし絆
+Zarokh's Reliquary Key: Sekhema's Resolve,ザロクの聖廟の鍵：セケマの決意
+Zarokh's Reliquary Key: Temporalis,ザロクの聖廟の鍵：テンポラリス
+Azmeri Reliquary Key,アズメリの聖廟の鍵
+Blood-filled Vessel,血の満ちた器
+Mystery Leaguestone,ミステリーリーグストーン
+Whispering Incubator,囁きのインキュベーター
+Fine Incubator,上質なインキュベーター
+Singular Incubator,希少なインキュベーター
+Cartographer's Incubator,地図職人のインキュベーター
+Otherworldly Incubator,異世界のインキュベーター
+Abyssal Incubator,アビスのインキュベーター
+Fragmented Incubator,フラグメント化したインキュベーター
+Skittering Incubator,這い回るインキュベーター
+Infused Incubator,強化されたインキュベーター
+Fossilised Incubator,フォッシルのインキュベーター
+Kalguuran Incubator,カルグールのインキュベーター
+Diviner's Incubator,占い師のインキュベーター
+Primal Incubator,原始のインキュベーター
+Enchanted Incubator,魅せられたインキュベーター
+Geomancer's Incubator,風水師のインキュベーター
+Ornate Incubator,絢爛たるインキュベーター
+Time-Lost Incubator,失われたインキュベーター
+Celestial Armoursmith's Incubator,天上の鎧鍛冶のインキュベーター
+Celestial Blacksmith's Incubator,天上の鍛冶屋のインキュベーター
+Celestial Jeweller's Incubator,天上の宝飾職人のインキュベーター
+Eldritch Incubator,不気味なインキュベーター
+Obscured Incubator,不明瞭なインキュベーター
+Foreboding Incubator,凶兆のインキュベーター
+Thaumaturge's Incubator,魔術師のインキュベーター
+Mysterious Incubator,謎めいたインキュベーター
+Gemcutter's Incubator,宝石職人のインキュベーター
+Feral Incubator,野生のインキュベーター
+Blighted Incubator,荒廃したインキュベーター
+Morphing Incubator,変形するインキュベーター
+Maddening Incubator,狂気のインキュベーター
+"Captured Soul of Puruna, the Challenger",挑戦者、プルナの捕獲された魂
+Captured Soul of Captain Tanner Lightfoot,タナー・ライトフット隊長の捕獲された魂
+Captured Soul of Pirate Treasure,海賊の宝の捕獲された魂
+Captured Soul of Maligaro the Mutilator,切断者、マリガロの捕獲された魂
+Captured Soul of Hybrid Widow,ハイブリッドウィドウの捕獲された魂
+Captured Soul of Queen of the Great Tangle,大きな縺れの女王の捕獲された魂
+Captured Soul of a Redblade Warlord,レッドブレードの将軍の捕獲された魂
+Captured Soul of The Infernal King,地獄の王の捕獲された魂
+"Captured Soul of Jorus, Sky's Edge",天空の端、ジョラスの捕獲された魂
+"Captured Soul of Sebbert, Crescent's Point",三日月の先端、セバートの捕獲された魂
+"Captured Soul of Khor, Sister of Shadows",影の妹、コールの捕獲された魂
+"Captured Soul of Captain Clayborne, The Accursed",呪われしクレーボーン船長の捕獲された魂
+Captured Soul of Megaera,メガイラの捕獲された魂
+"Captured Soul of Erebix, Light's Bane",光の災いエレビックスの捕獲された魂
+"Captured Soul of Varhesh, Shimmering Aberration",煌めく怪物、ヴァーヘッシュの捕獲された魂
+Captured Soul of Terror of the Infinite Drifts,終わりなき漂流の恐怖の捕獲された魂
+"Captured Soul of Tahsin, Warmaker",戦争屋、ターシンの捕獲された魂
+"Captured Soul of Drek, Apex Hunter",頂きの狩人、ドレクの捕獲された魂
+Captured Soul of Stalker of the Endless Dunes,果てなき砂丘の追跡者の捕獲された魂
+"Captured Soul of Gorulis, Will-Thief",意志を盗む者、ゴルリスの捕獲された魂
+Archon Kite Shield Piece,アルコンカイトシールドの欠片
+Legion Sword Piece,リージョンソードの欠片
+Imperial Staff Piece,インペリアルスタッフの欠片
+Cloth Belt Piece,布のベルトの欠片
+Blunt Arrow Quiver Piece,鈍頭の矢筒の欠片
+Callous Mask Piece,無情のマスクの欠片
+Ultimatum Aspect,アルティメイタムアスペクト
+Rusted Breach Scarab,錆びたブリーチスカラベ
+Polished Breach Scarab,光沢のあるブリーチスカラベ
+Gilded Breach Scarab,金色のブリーチスカラベ
+Winged Breach Scarab,羽の生えたブリーチスカラベ
+Rusted Cartography Scarab,錆びた地図製作のスカラベ
+Polished Cartography Scarab,光沢のある地図製作のスカラベ
+Gilded Cartography Scarab,金色の地図製作のスカラベ
+Winged Cartography Scarab,羽の生えた地図製作のスカラベ
+Rusted Reliquary Scarab,錆びた遺物箱のスカラベ
+Polished Reliquary Scarab,光沢のある遺物箱のスカラベ
+Gilded Reliquary Scarab,金色の遺物箱のスカラベ
+Winged Reliquary Scarab,羽の生えた遺物箱のスカラベ
+Rusted Bestiary Scarab,錆びたベスティアリースカラベ
+Polished Bestiary Scarab,光沢のあるベスティアリースカラベ
+Gilded Bestiary Scarab,金色のベスティアリースカラベ
+Winged Bestiary Scarab,羽の生えたベスティアリースカラベ
+Farric Lure,獣のエサ
+Saqawine Lure,鳥のエサ
+Fenumal Lure,蜘蛛のエサ
+Craicic Lure,カニのエサ
+Rusted Shaper Scarab,錆びたシェイパースカラベ
+Polished Shaper Scarab,光沢のあるシェイパースカラベ
+Gilded Shaper Scarab,金色のシェイパースカラベ
+Winged Shaper Scarab,羽の生えたシェイパースカラベ
+Rusted Elder Scarab,錆びたエルダースカラベ
+Polished Elder Scarab,光沢のあるエルダースカラベ
+Gilded Elder Scarab,金色のエルダースカラベ
+Winged Elder Scarab,羽の生えたエルダースカラベ
+Rusted Sulphite Scarab,錆びたサルファイトスカラベ
+Polished Sulphite Scarab,光沢のあるサルファイトスカラベ
+Gilded Sulphite Scarab,金色のサルファイトスカラベ
+Winged Sulphite Scarab,羽の生えたサルファイトスカラベ
+Rusted Divination Scarab,錆びた占いのスカラベ
+Polished Divination Scarab,光沢のある占いのスカラベ
+Gilded Divination Scarab,金色の占いのスカラベ
+Winged Divination Scarab,羽の生えた占いのスカラベ
+Rusted Torment Scarab,錆びたトーメントスカラベ
+Polished Torment Scarab,光沢のあるトーメントスカラベ
+Gilded Torment Scarab,金色のトーメントスカラベ
+Winged Torment Scarab,羽の生えたトーメントスカラベ
+Rusted Ambush Scarab,錆びたアンブッシュスカラベ
+Polished Ambush Scarab,光沢のあるアンブッシュスカラベ
+Gilded Ambush Scarab,金色のアンブッシュスカラベ
+Winged Ambush Scarab,羽の生えたアンブッシュスカラベ
+Rusted Harbinger Scarab,錆びたハービンジャースカラベ
+Polished Harbinger Scarab,光沢のあるハービンジャースカラベ
+Gilded Harbinger Scarab,金色のハービンジャースカラベ
+Winged Harbinger Scarab,羽の生えたハービンジャースカラベ
+Rusted Expedition Scarab,錆びたエクスペディションスカラベ
+Polished Expedition Scarab,光沢のあるエクスペディションスカラベ
+Gilded Expedition Scarab,金色のエクスペディションスカラベ
+Winged Expedition Scarab,羽の生えたエクスペディションスカラベ
+Rusted Legion Scarab,錆びたリージョンスカラベ
+Polished Legion Scarab,光沢のあるリージョンスカラベ
+Gilded Legion Scarab,金色のリージョンスカラベ
+Winged Legion Scarab,羽の生えたリージョンスカラベ
+Rusted Metamorph Scarab,錆びたメタモルフスカラベ
+Polished Metamorph Scarab,光沢のあるメタモルフスカラベ
+Gilded Metamorph Scarab,金色のメタモルフスカラベ
+Winged Metamorph Scarab,羽の生えたメタモルフスカラベ
+Rusted Blight Scarab,錆びたブライトスカラベ
+Polished Blight Scarab,光沢のあるブライトスカラベ
+Gilded Blight Scarab,金色のブライトスカラベ
+Winged Blight Scarab,羽の生えたブライトスカラベ
+Rusted Abyss Scarab,錆びたアビススカラベ
+Polished Abyss Scarab,光沢のあるアビススカラベ
+Gilded Abyss Scarab,金色のアビススカラベ
+Winged Abyss Scarab,羽の生えたアビススカラベ
+Diluted Liquid Ire,希釈された液化した怒り
+Diluted Liquid Guilt,希釈された液化した罪悪感
+Diluted Liquid Greed,希釈された液化した貪欲
+Liquid Paranoia,液化した偏執症
+Liquid Envy,液化した嫉妬
+Liquid Disgust,液化した嫌悪
+Liquid Despair,液化した絶望
+Concentrated Liquid Fear,濃縮された液化した恐怖
+Concentrated Liquid Suffering,濃縮された液化した苦悩
+Concentrated Liquid Isolation,濃縮された液化した孤立感
+Ancient Diluted Liquid Ire,古代の希釈された液化した怒り
+Ancient Diluted Liquid Guilt,古代の希釈された液化した罪悪感
+Ancient Diluted Liquid Greed,古代の希釈された液化した貪欲
+Ancient Liquid Paranoia,古代の液化した偏執症
+Ancient Liquid Envy,古代の液化した嫉妬
+Ancient Liquid Disgust,古代の液化した嫌悪
+Ancient Liquid Despair,古代の液化した絶望
+Ancient Concentrated Liquid Fear,古代の濃縮された液化した恐怖
+Ancient Concentrated Liquid Suffering,古代の濃縮された液化した苦悩
+Ancient Concentrated Liquid Isolation,古代の濃縮された液化した孤立感
+Potent Liquid Melancholy,強力な液化した憂鬱
+Potent Liquid Ferocity,強力な液化した獰猛
+Potent Liquid Contempt,強力な液化した軽蔑
+Ancient Potent Liquid Melancholy,古代の強力な液化した憂鬱
+Ancient Potent Liquid Ferocity,古代の強力な液化した獰猛
+Ancient Potent Liquid Contempt,古代の強力な液化した軽蔑
+Ivory Watchstone,アイボリーウォッチストーン
+Crimson Watchstone,クリムゾンウォッチストーン
+Cobalt Watchstone,コバルトウォッチストーン
+Viridian Watchstone,ビリジアンウォッチストーン
+Golden Watchstone,ゴールデンウォッチストーン
+Ceremonial Voidstone,礼典のヴォイドストーン
+Decayed Voidstone,腐食のヴォイドストーン
+Grasping Voidstone,貪欲のヴォイドストーン
+Omniscient Voidstone,全知のヴォイドストーン
+Crusader's Exalted Orb,クルセイダーの高貴なオーブ
+Redeemer's Exalted Orb,リディーマーの高貴なオーブ
+Hunter's Exalted Orb,ハンターの高貴なオーブ
+Warlord's Exalted Orb,ウォーロードの高貴なオーブ
+Awakener's Orb,覚醒者のオーブ
+Ethereal Blade,イシリアルブレード
+Rogue's Marker,ローグマーカー
+Contract: Bunker,依頼書: バンカー
+Contract: Smuggler's Den,依頼書: 密輸人の巣窟
+Contract: Laboratory,依頼書: 研究所
+Contract: Repository,依頼書: 倉庫
+Contract: Prohibited Library,依頼書: 立ち入り禁止の図書館
+Contract: Tunnels,依頼書: トンネル
+Contract: Underbelly,依頼書: 無法地帯
+Contract: Records Office,依頼書: 記録保管所
+Contract: Mansion,依頼書: 豪邸
+Blueprint: Bunker,計画書: バンカー
+Blueprint: Smuggler's Den,計画書: 密輸人の巣窟
+Blueprint: Laboratory,計画書: 倉庫
+Blueprint: Repository,計画書: 研究所
+Blueprint: Prohibited Library,計画書: 立ち入り禁止の図書館
+Blueprint: Tunnels,計画書: トンネル
+Blueprint: Underbelly,計画書: 無法地帯
+Blueprint: Records Office,計画書: 記録保管所
+Blueprint: Mansion,計画書: 豪邸
+Contract: Trial Run,依頼書: 試走
+Contract: Stolen Lockpicks,依頼書: 盗まれたロックピック
+Contract: Karst's Revenge,依頼書: カーストの復讐
+Contract: Credit Where Credit's Due,依頼書: 認められるべき功績
+Contract: Finding Opal,依頼書: オパールを探せ
+Contract: Opal's Jewels,依頼書: オパールの宝飾品
+Contract: Enoch's Whereabouts,依頼書: イーノックの居場所
+Contract: Enoch's Remains,依頼書: イーノックの遺品
+Contract: Grocery List,依頼書: 商品一覧
+Contract: The Vinderi Bomb,依頼書: ヴィンデーリの爆薬
+Contract: The Nameless Play,依頼書: 名前の無い戯曲
+Contract: The Finest Costumes,依頼書: 素晴らしい衣装
+Contract: The Wedding Dress,依頼書: ウェディングドレス
+Contract: Disengagement,依頼書: 婚約解消
+Contract: Rational Tools,依頼書: 理にかなった装置
+Contract: A Mundane Sample,依頼書: 平凡なサンプル
+Contract: The Book of Jamanra,依頼書: ジャマンラの本
+Forbidden Contract,禁じられた依頼
+Contract: Isla's Prototypes,依頼書: アイラのプロトタイプ
+Contract: Isla's Designs,依頼書: アイラの設計図
+Preventative Contract,妨害の依頼
+Contract: A Matter of Honour,依頼書: 名誉の問題
+Contract: Flying False Colours,依頼書: 偽旗作戦
+Familial Contract,家族からの依頼
+Contract: Slaver's Revenge,依頼書: 奴隷商人の復讐
+Contract: Follow the Paper Trail,依頼書: 証拠書類を追え
+Vigilante Contract,自衛の依頼
+Contract: The Admiral's Records,依頼書: 提督の記録
+Contract: Findings for Fidium,依頼書: 調査結果をフィディウムへ
+Naval Contract,海軍の依頼
+Contract: Hyrri's Gift,依頼書: ハイリの贈り物
+Contract: The Negotiation,依頼書: 交渉
+Contract: The Rescue,依頼書: 救出
+Vengeful Contract,復讐の依頼
+Torn Cloak,傷だらけのマント
+Tattered Cloak,ボロボロのマント
+Hooded Cloak,フード付きのマント
+Whisper-woven Cloak,囁きを編み込んだマント
+Silver Brooch,銀のブローチ
+Golden Brooch,金のブローチ
+Enamel Brooch,エナメルのブローチ
+Foliate Brooch,葉形のブローチ
+Simple Lockpick,単純なロックピック
+Standard Lockpick,標準的なロックピック
+Fine Lockpick,優れたロックピック
+Master Lockpick,マスターロックピック
+Leather Bracers,革の小手
+Studded Bracers,鋲付き革の小手
+Runed Bracers,ルーン文字の小手
+Steel Bracers,鋼鉄の小手
+Crude Sensing Charm,粗雑な感応のお守り
+Fine Sensing Charm,優れた感応のお守り
+Polished Sensing Charm,光沢のある感応のお守り
+Thaumaturgical Sensing Charm,魔術の感応のお守り
+Voltaxic Flashpowder,ボルタキシック爆薬
+Trarthan Flashpowder,タラーサン爆薬
+Azurite Flashpowder,アズライトの爆薬
+Thaumetic Flashpowder,魔術の爆薬
+Crude Ward,粗雑な魔除け
+Lustrous Ward,光沢の魔除け
+Shining Ward,輝きの魔除け
+Thaumaturgical Ward,魔術の魔除け
+Essential Keyring,基礎的なキーリング
+Versatile Keyring,多様なキーリング
+Skeleton Keyring,スケルトンキーリング
+Grandmaster Keyring,グランドマスターキーリング
+Eelskin Sole,鰻皮の靴底
+Foxhide Sole,狐皮の靴底
+Winged Sole,羽付きの靴底
+Silkweave Sole,シルク編みの靴底
+Basic Disguise Kit,基本変装道具
+Theatre Disguise Kit,劇場の変装道具
+Espionage Disguise Kit,スパイの変装道具
+Regicide Disguise Kit,国王殺しの変装道具
+Steel Drill,鋼鉄のドリル
+Flanged Drill,羽根付きのドリル
+Sulphur Blowtorch,サルファーのガスバーナー
+Thaumetic Blowtorch,魔術のガスバーナー
+Rough Sharpening Stone,粗雑な研ぎ石
+Standard Sharpening Stone,標準的な研ぎ石
+Fine Sharpening Stone,優れた研ぎ石
+Obsidian Sharpening Stone,オブシディアンの研ぎ石
+Flanged Arrowhead,羽根付きの矢じり
+Fragmenting Arrowhead,分裂の矢じり
+Hollowpoint Arrowhead,ホローポイントの矢じり
+Precise Arrowhead,精密な矢じり
+Focal Stone,集中の秘石
+Conduit Line,伝導の数珠
+Aggregator Charm,集積のお守り
+Burst Band,爆発の環
+Urn of Farud,ファルードの骨壷
+Box of Tripyxis,三角形の薬箱
+Incense of Keth,ケスのお香
+Crest of Ezomyr,エゾミヤの紋章
+Ez Myrae Tome,ミレイの聖典
+Hand of Arimor,アリモルの腕
+Abberathine Horns,アバラスの角
+Admiral Proclar's Pipe,プロクラール提督のパイプ
+Alchemical Chalice,錬金術の杯
+Ogham Candelabra,オガムの燭台
+Tusked Hominid Skull,牙を持つヒト科の頭蓋骨
+Celestial Stone,天からの石
+Urn of the Original Ashes,始祖の灰が入った骨壷
+Heart Coil,コイルでできた機械の心臓
+Enigmatic Assembly A4,謎の装置の部品 A4
+Enigmatic Assembly B2,謎の装置の部品 B2
+Enigmatic Assembly C5,謎の装置の部品 C5
+Enigmatic Assembly D1,謎の装置の部品 D1
+Mirror of Teklatipitzi,テクラティピティの鏡
+Bust of Emperor Caspiro,皇帝カスピロの胸像
+Golden Hetzapal Idol,ヘツァパルの黄金の像
+Flask of Welakath,ウェラカスのフラスコ
+Forbidden Lamp,禁じられしランプ
+The Goddess of Water,水の女神が描かれた石版
+The Golden Ibis,トキの黄金像
+Impossible Crystal,存在しえないはずのクリスタル
+Living Ice,命をもつ氷
+Seal of Lunaris,ルナリスの印章
+Golden Matatl Idol,マタトルの黄金像
+The Sea Pearl Heirloom,家宝の真珠
+Seal of Solaris,ソラリスの印章
+Golden Napuatzi Idol,ナプアティの黄金像
+Essence Burner,エキス蒸留装置
+Ancient Seal,太古の印章
+Blood of Innocence,イノセンスの血
+Dekhara's Resolve,デカーラの決意
+Orbala's Fifth Adventure,オルバラ5度目の冒険が描かれた石版
+Staff of the First Sin Eater,シンイーター始祖のスタッフ
+Sword of the Inverse Relic,時間が反転した剣の遺物
+Golden Slave Idol,奴隷の黄金像
+Golden Xoplotli Idol,ゾプロトリィの黄金像
+Ceremonial Goblet,儀式用のゴブレット
+Crested Golden Idol,羽飾りのついた黄金像
+Golden Ceremonial Mask,儀式用の黄金マスク
+Golden Prayer Idol,祈りを捧げる者の黄金像
+Golden Grotesque,奇怪な黄金像
+Golden Sacrificial Glyph,生贄を表した黄金の象形文字
+Karst's Lockpicks,カーストのロックピック
+"""The Kiss Goodnight""",「おやすみのキス」
+Poisoned Lockpick,毒を塗られたロックピック
+Census Records,人口調査の記録
+Tibbs' Wealth,ティブスの財宝
+Blackguard Personnel Files,ブラックガードの人事ファイル
+Enoch's Tags,イーノックのタグ
+Alchemical Supplies,錬金術の材料
+Fumarole Tar,火山性タール
+"""The Nameless Play""",「名前の無い戯曲」
+Templar Uniforms,テンプラーの制服
+Merveil's Wedding Dress,マーヴェイルのウェディングドレス
+Tullina's Engagement Ring,トゥリナの婚約指輪
+The Thought Extractor,思考抽出装置
+Viridi's Finger,ヴィリディの指
+The Book of Jamanra,ジャマンラの本
+"Jamanra, the Legendary Warrior",伝説の戦士、ジャマンラ
+Pile of Inexplicable Junk,不可解なガラクタ
+Baffling Blueprints,不可解な設計図
+The Unbreakable,破壊しえない機械
+Solerai's Spear,ソレライの槍
+Nashta's War Journal,ナシュタの戦記
+Confront Nashta,ナシュタに立ち向かえ
+Hapihapi's Charm,ハピハピのお守り
+Slaver's Records,奴隷商人の記録
+The Blood Idol,血のついた像
+Admiral Darnaw's Papers,ダルノー提督の書類
+Fleet Orders,艦隊への命令書
+Admiral Darnaw,ダルノー提督
+"""O' Eternal""",「永遠の帝国よ」
+Negotiate with the Client,依頼人と交渉せよ
+Rescue Hana,ハナを救え
+The Vox Twins,双子のヴォックス兄弟
+Orb of Dominance,優性のオーブ
+The Maven's Beacon,メイヴェンのビーコン
+Flesh Compass,肉体のコンパス
+Luminous Astrolabe,輝くアストロラーベ
+Maven's Invitation: The Formed,メイヴェンの招待状: 形作られし者
+Maven's Invitation: The Twisted,メイヴェンの招待状: 歪みし者
+Maven's Invitation: The Forgotten,メイヴェンの招待状: 忘れ去られし者
+Maven's Invitation: The Hidden,メイヴェンの招待状: 隠されし者
+Maven's Invitation: The Feared,メイヴェンの招待状: 恐れられし者
+Maven's Invitation: The Elderslayers,メイヴェンの招待状: エルダースレイヤー
+Maven's Invitation: The Atlas,メイヴェンの招待状: アトラス
+Maven's Invitation: Haewark Hamlet,メイヴェンの招待状: ヘイウォークの集落
+Maven's Invitation: Tirn's End,メイヴェンの招待状: ティアーンの果て
+Maven's Invitation: Lex Proxima,メイヴェンの招待状: レックス・プロキシマ
+Maven's Invitation: Lex Ejoris,メイヴェンの招待状: レックス・イジョリス
+Maven's Invitation: New Vastir,メイヴェンの招待状: ニューヴァスティア
+Maven's Invitation: Glennach Cairns,メイヴェンの招待状: グレナックの石塚
+Maven's Invitation: Valdo's Rest,メイヴェンの招待状: ヴァルドの安息
+Maven's Invitation: Lira Arthain,メイヴェンの招待状: リラ・アルテイン
+The Maven's Writ,メイヴェンの召喚状
+Crescent Splinter,三日月の破片
+Chromium Haewark Hamlet Watchstone,クロム製ヘイウォークの集落のウォッチストーン
+Chromium Tirn's End Watchstone,クロム製ティアーンの果てのウォッチストーン
+Chromium Lex Proxima Watchstone,クロム製レックス・プロキシマのウォッチストーン
+Chromium Lex Ejoris Watchstone,クロム製レックス・イジョリスのウォッチストーン
+Chromium New Vastir Watchstone,クロム製ニューヴァスティアのウォッチストーン
+Chromium Glennach Cairns Watchstone,クロム製グレナックの石塚のウォッチストーン
+Chromium Valdo's Rest Watchstone,クロム製ヴァルドの安息のウォッチストーン
+Chromium Lira Arthain Watchstone,クロム製リラ・アルテインのウォッチストーン
+Platinum Haewark Hamlet Watchstone,プラチナ製ヘイウォークの集落のウォッチストーン
+Platinum Tirn's End Watchstone,プラチナ製ティアーンの果てのウォッチストーン
+Platinum Lex Proxima Watchstone,プラチナ製レックス・プロキシマのウォッチストーン
+Platinum Lex Ejoris Watchstone,プラチナ製レックス・イジョリスのウォッチストーン
+Platinum New Vastir Watchstone,プラチナ製ニューヴァスティアのウォッチストーン
+Platinum Glennach Cairns Watchstone,プラチナ製グレナックの石塚のウォッチストーン
+Platinum Valdo's Rest Watchstone,プラチナ製ヴァルドの安息のウォッチストーン
+Platinum Lira Arthain Watchstone,プラチナ製リラ・アルテインのウォッチストーン
+Titanium Haewark Hamlet Watchstone,チタン製ヘイウォークの集落のウォッチストーン
+Titanium Tirn's End Watchstone,チタン製ティアーンの果てのウォッチストーン
+Titanium Lex Proxima Watchstone,チタン製レックス・プロキシマのウォッチストーン
+Titanium Lex Ejoris Watchstone,チタン製レックス・イジョリスのウォッチストーン
+Titanium New Vastir Watchstone,チタン製ニューヴァスティアのウォッチストーン
+Titanium Glennach Cairns Watchstone,チタン製グレナックの石塚のウォッチストーン
+Titanium Valdo's Rest Watchstone,チタン製ヴァルドの安息のウォッチストーン
+Titanium Lira Arthain Watchstone,チタン製リラ・アルテインのウォッチストーン
+Chronicle of Atzoatl,アッツォアトルの歴史書
+Inscribed Ultimatum,アルティメイタムの刻印
+Sacred Blossom,聖なる花
+Expedition Logbook,エクスペディションログブック
+Aldur's Saga,アルダーの叙事詩
+Medved's Saga,メドヴェッドの叙事詩
+Vorana's Saga,ヴォラナの叙事詩
+Uhtred's Saga,ウートレッドの叙事詩
+Olroth's Saga,オルロスの叙事詩
+Enkindling Orb,濃縮のオーブ
+Instilling Orb,注入のオーブ
+Exotic Coinage,異国のコイン
+Broken Circle Artifact,断たれた円環のアーティファクト
+Black Scythe Artifact,黒い鎌のアーティファクト
+Order Artifact,教団のアーティファクト
+Sun Artifact,太陽のアーティファクト
+Tainted Chromatic Orb,汚染された色彩のオーブ
+Tainted Orb of Fusing,汚染された結合のオーブ
+Tainted Jeweller's Orb,汚染された宝飾職人のオーブ
+Tainted Chaos Orb,汚染された混沌のオーブ
+Tainted Exalted Orb,汚染された高貴なオーブ
+Tainted Mythic Orb,汚染された神話のオーブ
+Tainted Armourer's Scrap,汚染された鎧鍛冶の端材
+Tainted Blacksmith's Whetstone,汚染された鍛冶屋の砥石
+Tainted Divine Teardrop,汚染された神の涙
+Energy Blade,エナジーブレード
+Eldritch Chaos Orb,エルドリッチの混沌のオーブ
+Eldritch Exalted Orb,エルドリッチの高貴なオーブ
+Eldritch Orb of Annulment,エルドリッチの消去のオーブ
+Writhing Invitation,悶える招待状
+Screaming Invitation,泣き叫ぶ招待状
+Polaric Invitation,対極の招待状
+Incandescent Invitation,白熱する招待状
+Archnemesis Mod,アーチネメシスモッド
+Singular Scouting Report,特異な偵察報告書
+Otherworldly Scouting Report,異世界の偵察報告書
+Comprehensive Scouting Report,広域偵察報告書
+Vaal Scouting Report,ヴァール偵察報告書
+Delirious Scouting Report,デリリウムの偵察報告書
+Operative's Scouting Report,諜報員の偵察報告書
+Blighted Scouting Report,ブライト偵察報告書
+Influenced Scouting Report,インフルエンスの偵察報告書
+Explorer's Scouting Report,探検家の偵察報告書
+Oil Extractor,オイル抽出機
+Urn Relic,壷のレリック
+Amphora Relic,アンフォラのレリック
+Vase Relic,瓶のレリック
+Seal Relic,紋章のレリック
+Coffer Relic,金庫のレリック
+Tapestry Relic,タペストリーのレリック
+Incense Relic,香のレリック
+Sanctified Relic,聖別されたレリック
+Kirac's Memory,キラックの記憶
+Alva's Memory,アルヴァの記憶
+Niko's Memory,ニコの記憶
+Einhar's Memory,アイナーの記憶
+Wild Crystallised Lifeforce,結晶化したワイルドライフフォース
+Vivid Crystallised Lifeforce,結晶化したビビッドライフフォース
+Primal Crystallised Lifeforce,結晶化したプライマルライフフォース
+Sacred Crystallised Lifeforce,結晶化した聖なるライフフォース
+Gold,ゴールド
+Djinn Barya,ジンのバリャ
+Balbala's Barya,バルバラのバリャ
+Test of Strength Barya,力の試練のバリャ
+Test of Will Barya,意志の試験のバリャ
+Test of Cunning Barya,狡猾さの試験のバリャ
+Test of Time Barya,時の試験のバリャ
+Bronze Key,銅の鍵
+Silver Key,銀の鍵
+Gold Key,金の鍵
+Shortsword,ショートソード
+Broadsword,ブロードソード
+Vampiric Blade,吸血の刃
+Scimitar,シミター
+Charred Shortsword,黒焦げのショートソード
+Sickle Sword,シックルソード
+Falchion,ファルシオン
+Treasured Blade,宝剣
+Cutlass,カットラス
+Runic Shortsword,ルーンのショートソード
+Messer,メッサー
+Commander Sword,指揮官の剣
+Dark Blade,闇の刃
+Corroded Longsword,腐食したロングソード
+Iron Greatsword,鉄のグレートソード
+Blessed Claymore,祝福されたクレイモア
+Broad Greatsword,ブロードグレートソード
+Rippled Greatsword,波打つグレートソード
+Arced Longsword,湾曲したロングソード
+Stone Greatsword,石の大剣
+Obsidian Greatsword,黒曜石の大剣
+Keen Greatsword,鋭利な大剣
+Ancient Greatblade,古代のグレートブレイド
+Flanged Greatblade,つば付きのグレートブレイド
+Regalia Longsword,王家のロングソード
+Ultra Greatsword,特大剣
+Dull Hatchet,なまくらな手斧
+Hook Axe,鉤付き斧
+Bearded Axe,ベアードアックス
+Extended Cleaver,長刃のクリーバー
+Bandit Hatchet,山賊の手斧
+Crescent Axe,三日月斧
+Carving Hatchet,彫刻用の手斧
+Sacrificial Axe,生贄の斧
+Boarding Hatchet,強襲用手斧
+Fury Cleaver,怒りのクリーバー
+Battle Axe,戦斧
+Profane Cleaver,冒涜のクリーバー
+Dread Hatchet,恐怖の手斧
+Splitting Greataxe,割り大斧
+Light Halberd,軽量ハルバード
+Executioner Greataxe,処刑人の大斧
+Arched Greataxe,弓型の大斧
+Elegant Glaive,エレガントグレイブ
+Savage Greataxe,蛮族の大斧
+Rending Halberd,裂傷のハルバード
+Jagged Greataxe,ギザギザの大斧
+Reaver Glaive,略奪者のグレイブ
+Ember Greataxe,残り火の大斧
+Ceremonial Halberd,儀式用ハルバード
+Monument Greataxe,巨像の大斧
+Vile Greataxe,邪悪な大斧
+Wooden Club,棍棒
+Smithing Hammer,鍛冶ハンマー
+Slim Mace,細身のメイス
+Spiked Club,トゲ付きの棍棒
+Warpick,ウォーピック
+Plated Mace,プレートメイス
+Brigand Mace,盗賊のメイス
+Construct Hammer,建築用ハンマー
+Morning Star,モーニングスター
+Jade Club,翡翠の棍棒
+Lumen Mace,光のメイス
+Execratus Hammer,呪詛のハンマー
+Torment Club,トーメントクラブ
+Runemastered Torment Club,ルーンマスターのトーメントクラブ
+Kalguuran Forgehammer,カルグールのフォージハンマー
+Felled Greatclub,倒木のグレートクラブ
+Oak Greathammer,オークグレートハンマー
+Forge Maul,鍜治場の大槌
+Studded Greatclub,鋲付きの金棒
+Cultist Greathammer,カルティストグレートハンマー
+Temple Maul,寺院の大槌
+Leaden Greathammer,鉛のグレートハンマー
+Crumbling Maul,朽ちた大槌
+Pointed Maul,尖った大槌
+Totemic Greatclub,トーテムのグレートクラブ
+Greatmace,グレートメイス
+Precise Greathammer,精密なグレートハンマー
+Giant Maul,巨人の大槌
+Hardwood Spear,硬材の槍
+Ironhead Spear,鉄頭のスピア
+Hunting Spear,ハンティングスピア
+Winged Spear,翼刃のスピア
+War Spear,ウォースピア
+Forked Spear,双頭の槍
+Barbed Spear,トゲ付きの槍
+Broad Spear,ブロードスピア
+Crossblade Spear,十文字槍
+Seaglass Spear,シーグラススピア
+Sword Spear,ソードスピア
+Striking Spear,打撃の槍
+Helix Spear,ヘリックススピア
+Crude Claw,粗末な鉤爪
+Pict Claw,ピクトクロー
+Wolfbone Claw,狼骨の鉤爪
+Forked Claw,二股の鉤爪
+Plated Claw,プレートクロー
+Edged Claw,刃付きの鉤爪
+Arced Claw,湾曲した鉤爪
+Hooked Claw,フッククロー
+Razorglass Claw,レイザーグラスクロー
+Sharktooth Claw,鮫歯の鉤爪
+Armoured Claw,アーマードクロー
+Piercing Claw,貫通の鉤爪
+Talon Claw,タロンクロー
+Glass Shank,ガラスの短剣
+Crone Knife,老婆のナイフ
+Simple Dagger,簡素な短剣
+Skinning Knife,剥ぎ取りナイフ
+Moon Dagger,月の短剣
+Engraved Knife,彫刻のナイフ
+Obsidian Dagger,黒曜石の短剣
+Bloodletting Dagger,瀉血の短剣
+Mail Breaker,メイルブレイカー
+Kris Knife,クリスナイフ
+Parrying Dagger,受け流しの短剣
+Arcane Dirk,アーケインディルク
+Cinquedea,チンクエディア
+Wrapped Quarterstaff,巻き布のクォータースタッフ
+Long Quarterstaff,ロングクォータースタッフ
+Gothic Quarterstaff,ゴシッククォータースタッフ
+Crackling Quarterstaff,放電のクォータースタッフ
+Crescent Quarterstaff,三日月のクォータースタッフ
+Steelpoint Quarterstaff,スチールポイントクォータースタッフ
+Slicing Quarterstaff,斬撃のクォータースタッフ
+Barrier Quarterstaff,防壁のクォータースタッフ
+Hefty Quarterstaff,重厚なクォータースタッフ
+Smooth Quarterstaff,滑らかなクォータースタッフ
+Anima Quarterstaff,アニマクォータースタッフ
+Graceful Quarterstaff,優雅なクォータースタッフ
+Wyrm Quarterstaff,ワームクォータースタッフ
+Splintered Flail,割れたフレイル
+Chain Flail,チェインフレイル
+Holy Flail,ホーリーフレイル
+Iron Flail,鉄のフレイル
+Twin Flail,ツインフレイル
+Slender Flail,細身のフレイル
+Stone Flail,石のフレイル
+Ring Flail,リングフレイル
+Guarded Flail,防護のフレイル
+Icicle Flail,氷柱のフレイル
+Tearing Flail,裂傷のフレイル
+Great Flail,グレートフレイル
+Abyssal Flail,深淵のフレイル
+Withered Wand,枯れたワンド
+Bone Wand,骨のワンド
+Attuned Wand,同調のワンド
+Siphoning Wand,吸収のワンド
+Volatile Wand,爆発性のワンド
+Galvanic Wand,電撃のワンド
+Acrid Wand,腐食のワンド
+Offering Wand,供物のワンド
+Frigid Wand,極寒のワンド
+Torture Wand,拷問のワンド
+Critical Wand,致命のワンド
+Primordial Wand,原始のワンド
+Dueling Wand,決闘のワンド
+Twisted Wand,捻じれたワンド
+Runic Fork,ルーニックフォーク
+Runemastered Runic Fork,ルーンマスターのルーニックフォーク
+Ashen Staff,灰のスタッフ
+Gelid Staff,極寒のスタッフ
+Voltaic Staff,電撃のスタッフ
+Spriggan Staff,スプリガンスタッフ
+Pyrophyte Staff,パイロファイトスタッフ
+Chiming Staff,鐘鳴のスタッフ
+Rending Staff,裂断のスタッフ
+Reaping Staff,死神のスタッフ
+Icicle Staff,氷柱のスタッフ
+Roaring Staff,咆哮のスタッフ
+Paralysing Staff,麻痺のスタッフ
+Sanctified Staff,聖別のスタッフ
+Dark Staff,闇のスタッフ
+Ravenous Staff,貪食のスタッフ
+Permafrost Staff,氷結のスタッフ
+Reflecting Staff,反射のスタッフ
+Perching Staff,止まり木のスタッフ
+Crude Bow,粗雑な弓
+Shortbow,ショートボウ
+Warden Bow,監視者の弓
+Recurve Bow,リカーブボウ
+Composite Bow,コンポジットボウ
+Dualstring Bow,デュアルストリングボウ
+Cultist Bow,カルト信者の弓
+Zealot Bow,狂信者の弓
+Artillery Bow,砲兵の弓
+Tribal Bow,部族の弓
+Greatbow,大弓
+Double Limb Bow,ダブルリムボウ
+Heavy Bow,ヘビーボウ
+Makeshift Crossbow,間に合わせのクロスボウ
+Tense Crossbow,張り詰めたクロスボウ
+Sturdy Crossbow,頑丈なクロスボウ
+Varnished Crossbow,ニス塗りのクロスボウ
+Dyad Crossbow,対のクロスボウ
+Alloy Crossbow,合金のクロスボウ
+Bombard Crossbow,爆撃のクロスボウ
+Construct Crossbow,構造化クロスボウ
+Blackfire Crossbow,黒炎のクロスボウ
+Piercing Crossbow,貫通のクロスボウ
+Cumbrous Crossbow,煩雑なクロスボウ
+Dedalian Crossbow,デダリアンクロスボウ
+Esoteric Crossbow,秘伝のクロスボウ
+Rattling Sceptre,ラトリングセプター
+Stoic Sceptre,不動のセプター
+Lupine Sceptre,オオカミのセプター
+Omen Sceptre,お告げのセプター
+Ochre Sceptre,黄土のセプター
+Shrine Sceptre,神殿のセプター
+Devouring Sceptre,貪食のセプター
+Clasped Sceptre,握拳のセプター
+Devotional Sceptre,信仰のセプター
+Wrath Sceptre,憤怒のセプター
+Aromatic Sceptre,芳香のセプター
+Pious Sceptre,敬虔のセプター
+Hallowed Sceptre,神聖なセプター
+Clay Trap,粘土のトラップ
+Clamping Trap,締め付けトラップ
+Shrapnel Trap,榴散弾のトラップ
+Urn Trap,壺のトラップ
+Incense Trap,香炉のトラップ
+Bladed Trap,刃のトラップ
+Dart Trap,投げ矢のトラップ
+Spike Trap,スパイクのトラップ
+Coiled Trap,ばね仕掛けのトラップ
+Lead Trap,鉛のトラップ
+Medallion Trap,メダリオントラップ
+Intricate Trap,複雑なトラップ
+Refined Trap,洗練されたトラップ
+Changeling Talisman,変身のタリスマン
+Nettle Talisman,イラクサのタリスマン
+Cinderbark Talisman,灰皮のタリスマン
+Familial Talisman,眷属のタリスマン
+Frenzied Talisman,狂乱のタリスマン
+Primal Talisman,原始のタリスマン
+Rabid Talisman,狂犬病のタリスマン
+Vicious Talisman,獰猛のタリスマン
+Voltfang Talisman,電牙のタリスマン
+Lumbering Talisman,鈍重のタリスマン
+Roaring Talisman,咆哮のタリスマン
+Wingbeat Talisman,翼撃のタリスマン
+Condemned Talisman,断罪のタリスマン
+Rusted Cuirass,錆びた胴鎧
+Fur Plate,毛皮張りのプレート
+Iron Cuirass,鉄の胴鎧
+Raider Plate,襲撃者のプレート
+Maraketh Cuirass,マラケスの胴鎧
+Steel Plate,鋼鉄のプレート
+Full Plate,フルプレート
+Vaal Cuirass,ヴァールの胴鎧
+Juggernaut Plate,ジャガーノートプレート
+Chieftain Cuirass,族長の胴鎧
+Colosseum Plate,コロシアムプレート
+Champion Cuirass,王者の胴鎧
+Glorious Plate,栄光のプレート
+Conqueror Plate,征服者のプレート
+Abyssal Cuirass,深淵の胴鎧
+Leather Vest,革のベスト
+Quilted Vest,キルティングベスト
+Pathfinder Coat,開拓者のコート
+Shrouded Vest,覆い布のベスト
+Rhoahide Coat,ロア革のコート
+Studded Vest,鋲打ちのベスト
+Scout's Vest,偵察者のベスト
+Serpentscale Coat,サーペントスケイルコート
+Corsair Vest,コルセアのベスト
+Smuggler Coat,密輸業者のコート
+Strider Vest,ストライダーベスト
+Hardleather Coat,ハードレザーコート
+Exquisite Vest,精巧なベスト
+Mail Coat,メイルコート
+Armoured Vest,装甲ベスト
+Tattered Robe,擦り切れたローブ
+Feathered Robe,羽根飾りのローブ
+Hexer's Robe,呪術師のローブ
+Bone Raiment,骨の装束
+Silk Robe,絹のローブ
+Keth Raiment,ケスの装束
+Votive Raiment,奉献の装束
+Altar Robe,祭壇のローブ
+Elementalist Robe,エレメンタリストのローブ
+Mystic Raiment,神秘の装束
+Imperial Robe,帝国のローブ
+Plated Raiment,装甲の装束
+Havoc Raiment,破壊の装束
+Enlightened Robe,覚者のローブ
+Arcane Raiment,神秘の装束
+Chain Mail,チェインメイル
+Rogue Armour,盗賊の鎧
+Vagabond Armour,放浪者の鎧
+Cloaked Mail,クロークメイル
+Explorer Armour,探検家の鎧
+Scale Mail,スケイルメイル
+Knight Armour,騎士の鎧
+Ancestral Mail,先祖のメイル
+Lamellar Mail,ラメラーメイル
+Gladiator Armour,剣闘士の鎧
+Heroic Armour,英雄の鎧
+Tournament Mail,トーナメントメイル
+Slayer Armour,殺戮者の鎧
+Pilgrim Vestments,巡礼者の祭服
+Pelt Mantle,生皮の外套
+Mail Vestments,鎖帷子の祭服
+Shaman Mantle,シャーマンの外套
+Ironclad Vestments,甲鉄の祭服
+Sacrificial Mantle,生贄の外套
+Cleric Vestments,聖職者の祭服
+Tideseer Mantle,潮読みの外套
+Gilded Vestments,金装の祭服
+Venerated Mantle,尊者の外套
+Revered Vestments,畏敬の祭服
+Corvus Mantle,鴉の外套
+Zenith Vestments,天頂の祭服
+Ornate Ringmail,豪華なリングメイル
+Ancient Mail,古代のメイル
+Hermit Garb,隠者の衣
+Waxed Jacket,ワックスジャケット
+Marabout Garb,マラブーの服
+Wayfarer Jacket,旅人のジャケット
+Anchorite Garb,隠修士の衣
+Scalper's Jacket,転売屋のジャケット
+Scoundrel Jacket,ならず者のジャケット
+Ascetic Garb,禁欲者の服
+Clandestine Jacket,隠密のジャケット
+Monastic Garb,修道士の服
+Torment Jacket,苦痛のジャケット
+Devout Garb,信者の服
+Assassin Garb,暗殺者の服
+Rusted Greathelm,錆びたグレートヘルム
+Soldier Greathelm,兵士のグレートヘルム
+Wrapped Greathelm,巻き布のグレートヘルム
+Spired Greathelm,尖塔のグレートヘルム
+Elite Greathelm,精鋭のグレートヘルム
+Warrior Greathelm,戦士のグレートヘルム
+Commander Greathelm,指揮官のグレートヘルム
+Fierce Greathelm,獰猛なグレートヘルム
+Sentinel Greathelm,歩哨のグレートヘルム
+Goliath Greathelm,ゴライアスのグレートヘルム
+Guardian Greathelm,守護者のグレートヘルム
+Shabby Hood,擦り切れたフード
+Felt Cap,フェルトの帽子
+Lace Hood,レースのフード
+Swathed Cap,巻き布の帽子
+Hunter Hood,狩人のフード
+Viper Cap,毒蛇の帽子
+Corsair Cap,コルセアの帽子
+Leatherbound Hood,皮張りのフード
+Velvet Cap,ベルベットの帽子
+Covert Hood,隠密のフード
+Armoured Cap,装甲帽子
+Twig Circlet,小枝のサークレット
+Wicker Tiara,枝編みのティアラ
+Beaded Circlet,ビーズのサークレット
+Chain Tiara,鎖のティアラ
+Feathered Tiara,羽根付きのティアラ
+Gold Circlet,金のサークレット
+Vermeil Circlet,ヴァーミルサークレット
+Jade Tiara,翡翠のティアラ
+Noble Circlet,貴族のサークレット
+Twilight Tiara,黄昏のティアラ
+Magus Tiara,魔導士のティアラ
+Brimmed Helm,つば付き兜
+Guarded Helm,防護兜
+Visored Helm,バイザー付き兜
+Cowled Helm,頭巾付き兜
+Shielded Helm,盾付き兜
+Closed Helm,クローズヘルム
+Decorated Helm,装飾兜
+Gallant Helm,勇士のヘルム
+Ancient Visor,古代のバイザー
+Iron Crown,鉄の冠
+Horned Crown,角の冠
+Cultist Crown,カルト信者の冠
+Martyr Crown,殉教者の冠
+Heavy Crown,重装の冠
+Spiritbone Crown,スピリットボーンの冠
+Lavish Crown,豪華な冠
+Archon Crown,アルコンの冠
+Tenebrous Crown,暗影の冠
+Hewn Mask,粗削りの仮面
+Face Mask,フェースマスク
+Hooded Mask,フード付きの仮面
+Veiled Mask,ベール付きの仮面
+Tribal Mask,部族の仮面
+Solid Mask,頑丈な仮面
+Shaded Mask,遮光の仮面
+Death Mask,デスマスク
+Stocky Mitts,がっしりとしたミット
+Riveted Mitts,リベット付きミット
+Tempered Mitts,焼き入れミット
+Bolstered Mitts,補強ミット
+Moulded Mitts,成形ミット
+Detailed Mitts,精巧なミット
+Titan Mitts,タイタンのミット
+Grand Mitts,大いなるミット
+Suede Bracers,スエードの弓籠手
+Firm Bracers,頑丈な弓籠手
+Bound Bracers,固定式の弓籠手
+Sectioned Bracers,分割式の弓籠手
+Spined Bracers,針付きの弓籠手
+Fine Bracers,上質な弓籠手
+Hardened Bracers,焼き入れの弓籠手
+Engraved Bracers,彫刻の弓籠手
+Torn Gloves,破れた手袋
+Sombre Gloves,陰鬱な手袋
+Stitched Gloves,縫い合わせの手袋
+Jewelled Gloves,宝石をあしらった手袋
+Intricate Gloves,手の込んだ手袋
+Pauascale Gloves,パウアスケール手袋
+Embroidered Gloves,刺繍入りの手袋
+Adorned Gloves,装飾の手袋
+Ringmail Gauntlets,リングメイルガントレット
+Layered Gauntlets,層状のガントレット
+Doubled Gauntlets,二重のガントレット
+Plate Gauntlets,プレートガントレット
+Burnished Gauntlets,研磨されたガントレット
+Ornate Gauntlets,装飾のガントレット
+Ancient Gauntlets,古代のガントレット
+Rope Cuffs,縄のカフス
+Aged Cuffs,年季の入ったカフス
+Goldcast Cuffs,金鋳造のカフス
+Kalguuran Cuffs,カルグールのカフス
+Righteous Cuffs,正義のカフス
+Signet Cuffs,印章のカフス
+Gauze Wraps,薄布のラップ
+Linen Wraps,リネンのラップ
+Spiral Wraps,スパイラルラップ
+Buckled Wraps,バックル付きのラップ
+Furtive Wraps,隠密のラップ
+Utility Wraps,実用的なラップ
+Rough Greaves,粗末なグリーヴ
+Iron Greaves,鉄のグリーヴ
+Bronze Greaves,青銅のグリーヴ
+Trimmed Greaves,縁取りのグリーヴ
+Stone Greaves,石のグリーヴ
+Reefsteel Greaves,リーフスチールグリーヴ
+Monument Greaves,モニュメントグリーヴ
+Totemic Greaves,トーテムのグリーヴ
+Rawhide Boots,生皮のブーツ
+Laced Boots,レースのブーツ
+Embossed Boots,エンボスのブーツ
+Steeltoe Boots,鋼製つま先ブーツ
+Lizardscale Boots,リザードスケールブーツ
+Flared Boots,フレアブーツ
+Leatherplate Boots,レザープレートブーツ
+Embroidered Boots,刺繍入りブーツ
+Straw Sandals,麦わらのサンダル
+Wrapped Sandals,巻き布のサンダル
+Lattice Sandals,格子のサンダル
+Silk Slippers,シルクの履物
+Feathered Sandals,羽根付きのサンダル
+Flax Sandals,亜麻のサンダル
+Studded Sandals,鋲付きのサンダル
+Elaborate Sandals,精巧なサバトン
+Mail Sabatons,メイルサバトン
+Braced Sabatons,補強されたサバトン
+Stacked Sabatons,多層サバトン
+Covered Sabatons,覆い付きのサバトン
+Flexile Sabatons,柔軟なサバトン
+Bold Sabatons,剛胆なサバトン
+Padded Leggings,パッド入りのレギンス
+Secured Leggings,留め具付きのレギンス
+Pelt Leggings,獣皮のレギンス
+Weaver Leggings,織り手のレギンス
+Gilt Leggings,金装のレギンス
+Pious Leggings,敬虔なレギンス
+Ancient Leggings,古代のレギンス
+Frayed Shoes,擦り切れた靴
+Threaded Shoes,スレッドシューズ
+Hunting Shoes,ハンティングシューズ
+Steelpoint Shoes,スチールポイントシューズ
+Velour Shoes,ベロアシューズ
+Bladed Shoes,刃付きシューズ
+Splintered Tower Shield,割れたタワーシールド
+Painted Tower Shield,彩色のタワーシールド
+Braced Tower Shield,補強のタワーシールド
+Barricade Tower Shield,防壁のタワーシールド
+Effigial Tower Shield,立像のタワーシールド
+Rampart Tower Shield,城壁のタワーシールド
+Heraldric Tower Shield,紋章のタワーシールド
+Stone Tower Shield,石のタワーシールド
+Crucible Tower Shield,試練のタワーシールド
+Ancestor Tower Shield,先祖のタワーシールド
+Phalanx Tower Shield,ファランクスのタワーシールド
+Defiant Tower Shield,反抗のタワーシールド
+Blacksteel Tower Shield,黒鉄のタワーシールド
+Hardwood Targe,堅木のタージ
+Pelage Targe,毛皮のタージ
+Studded Targe,鋲付きのタージ
+Crescent Targe,三日月のタージ
+Chiseled Targe,彫り込みのあるタージ
+Feathered Targe,羽根付きのタージ
+Stratified Targe,重層タージ
+Carved Targe,彫刻のタージ
+Mosaic Targe,モザイクタージ
+Aureate Targe,金色のタージ
+Grand Targe,大いなるタージ
+Blazon Crest Shield,家紋のクレストシールド
+Sigil Crest Shield,刻印のクレストシールド
+Emblem Crest Shield,紋章のクレストシールド
+Jingling Crest Shield,鈴音のクレストシールド
+Sectarian Crest Shield,教団のクレストシールド
+Omen Crest Shield,お告げのクレストシールド
+Wayward Crest Shield,気まぐれなクレストシールド
+Seer Crest Shield,先見のクレストシールド
+Stoic Crest Shield,不動のクレストシールド
+Empyreal Crest Shield,天上のクレストシールド
+Deified Crest Shield,神聖なクレストシールド
+Leather Buckler,革のバックラー
+Wooden Buckler,木のバックラー
+Plated Buckler,プレートバックラー
+Iron Buckler,鉄のバックラー
+Ridged Buckler,リッジバックラー
+Spiked Buckler,トゲ付きのバックラー
+Ringed Buckler,リングバックラー
+Edged Buckler,エッジバックラー
+Laminate Buckler,ラミネートバックラー
+Pearl Buckler,真珠のバックラー
+Ornate Buckler,装飾のバックラー
+Array Buckler,整列のフォーカス
+Aegis Buckler,イージスバックラー
+Twig Focus,小枝のフォーカス
+Woven Focus,編み物のフォーカス
+Antler Focus,枝角のフォーカス
+Engraved Focus,彫刻のフォーカス
+Tonal Focus,調性のフォーカス
+Crystal Focus,結晶のフォーカス
+Voodoo Focus,ブードゥーフォーカス
+Plumed Focus,羽飾りのフォーカス
+Runed Focus,ルーンのフォーカス
+Whorl Focus,渦巻のフォーカス
+Elegant Focus,エレガントフォーカス
+Attuned Focus,調和のフォーカス
+Magus Focus,魔導士のフォーカス
+Broadhead Quiver,太矢じりの矢筒
+Fire Quiver,火の矢筒
+Sacral Quiver,神聖な矢筒
+Two-Point Quiver,二股の矢筒
+Blunt Quiver,鈍頭の矢筒
+Toxic Quiver,毒の矢筒
+Serrated Quiver,鋸歯の矢筒
+Primed Quiver,臨戦の矢筒
+Penetrating Quiver,貫通の矢筒
+Volant Quiver,高速の矢筒
+Visceral Quiver,血生臭い矢筒
+Crimson Amulet,深紅のアミュレット
+Azure Amulet,深青のアミュレット
+Amber Amulet,琥珀のアミュレット
+Jade Amulet,翡翠のアミュレット
+Lapis Amulet,瑠璃のアミュレット
+Lunar Amulet,月のアミュレット
+Bloodstone Amulet,血石のアミュレット
+Stellar Amulet,星のアミュレット
+Solar Amulet,太陽のアミュレット
+Gold Amulet,金のアミュレット
+Pearlescent Amulet,真珠のアミュレット
+Veridical Chain,真実の鎖
+Runemastered Veridical Chain,ルーンマスターの真実の鎖
+Lament Amulet,悲嘆のアミュレット
+Portent Amulet,前兆のアミュレット
+Absent Amulet,不在のアミュレット
+Corona Amulet,コロナアミュレット
+Iron Ring,鉄の指輪
+Lazuli Ring,青金石の指輪
+Ruby Ring,ルビーの指輪
+Sapphire Ring,サファイアの指輪
+Topaz Ring,トパーズの指輪
+Amethyst Ring,アメジストの指輪
+Emerald Ring,エメラルドの指輪
+Pearl Ring,真珠の指輪
+Prismatic Ring,プリズムの指輪
+Gold Ring,金の指輪
+Unset Ring,石無しの指輪
+Abyssal Signet,アビスの印章指輪
+Two-Stone Ring,ツーストーンリング
+Biostatic Ring,バイオスタティックリング
+Vitalic Ring,バイタリックリング
+Mnemonic Ring,ニーモニックリング
+Kinetic Ring,キネティックリング
+Oneiric Ring,オネイリックリング
+Grasping Ring,グラスピングリング
+Rawhide Belt,生皮のベルト
+Linen Belt,リネンのベルト
+Wide Belt,幅広のベルト
+Long Belt,長いベルト
+Plate Belt,プレートベルト
+Ornate Belt,華美なベルト
+Mail Belt,メイルベルト
+Double Belt,ダブルベルト
+Heavy Belt,ヘビーベルト
+Runemastered Heavy Belt,ルーンマスターのヘビーベルト
+Utility Belt,実用的なベルト
+Fine Belt,精巧なベルト
+Stalking Belt,忍び寄るベルト
+Invoking Belt,招来のベルト
+Sinew Belt,腱のベルト
+Forking Belt,分岐のベルト
+Lesser Life Flask,小型のライフフラスコ
+Medium Life Flask,普通のライフフラスコ
+Greater Life Flask,特大のライフフラスコ
+Grand Life Flask,超大のライフフラスコ
+Giant Life Flask,巨大なライフフラスコ
+Colossal Life Flask,絶大なライフフラスコ
+Gargantuan Life Flask,膨大なライフフラスコ
+Transcendent Life Flask,超越のライフフラスコ
+Ultimate Life Flask,究極のライフフラスコ
+Lesser Mana Flask,小型のマナフラスコ
+Medium Mana Flask,普通のマナフラスコ
+Greater Mana Flask,特大のマナフラスコ
+Grand Mana Flask,超大のマナフラスコ
+Giant Mana Flask,巨大なマナフラスコ
+Colossal Mana Flask,絶大なマナフラスコ
+Gargantuan Mana Flask,膨大なマナフラスコ
+Transcendent Mana Flask,超越のマナフラスコ
+Ultimate Mana Flask,究極のマナフラスコ
+Thawing Charm,解凍のチャーム
+Staunching Charm,止血のチャーム
+Antidote Charm,解毒のチャーム
+Dousing Charm,消火のチャーム
+Grounding Charm,接地のチャーム
+Stone Charm,石のチャーム
+Silver Charm,銀のチャーム
+Ruby Charm,ルビーチャーム
+Sapphire Charm,サファイアチャーム
+Topaz Charm,トパーズチャーム
+Amethyst Charm,アメジストチャーム
+Golden Charm,黄金のチャーム
+Cleansing Charm,解呪のチャーム
+Ring,指輪
+Dusk Ring,黄昏の指輪
+Gloam Ring,薄明の指輪
+Penumbra Ring,半影の指輪
+Tenebrous Ring,仄暗い指輪
+Dusk Amulet,黄昏のアミュレット
+Gloam Amulet,薄明のアミュレット
+Penumbra Amulet,半影のアミュレット
+Tenebrous Amulet,仄暗いアミュレット
+Twisted Amulet,捻じれたアミュレット
+Distorted Amulet,歪んだアミュレット
+Garment,ガーメント
+Grand Regalia,荘厳なレガリア
+Sacrificial Regalia,生贄のレガリア
+Grasping Mail,グラスピングメイル
+Runeforged Grasping Mail,ルーンフォージのグラスピングメイル
+Runemastered Grasping Mail,ルーンマスターのグラスピングメイル
+Runefather's Grasping Mail,ルーンファーザーのグラスピングメイル
+Grand Visage,大いなる顔飾り
+Grand Manchettes,大いなるマンシェット
+Grand Cuisses,大いなる脛当て
+Golden Greaves,黄金のグリーヴ
+Golden Plate,黄金のプレート
+Golden Shield,黄金の盾
+Breach Ring,ブリーチの指輪
+Refined Breach Ring,洗練されたブリーチリング
+Random One Handed Sword,ランダムな片手剣
+Random Two Handed Sword,ランダムな両手剣
+Random One Handed Axe,ランダムな片手斧
+Random Two Handed Axe,ランダムな両手斧
+Random One Handed Mace,ランダムな片手メイス
+Random Two Handed Mace,ランダムな両手メイス
+Random Spear,ランダムなスピア
+Random Claw,ランダムな鉤爪
+Random Dagger,ランダムな短剣
+Random Quarterstaff,ランダムなクォータースタッフ
+Random Flail,ランダムなフレイル
+Random Wand,ランダムなワンド
+Random Staff,ランダムなスタッフ
+Random Bow,ランダムな弓
+Random Crossbow,ランダムなクロスボウ
+Random Sceptre,ランダムなセプター
+Random Trap,ランダムなトラップ
+Random Talisman,ランダムなタリスマン
+Random Body Armour,ランダムな鎧
+Random Helmet,ランダムな兜
+Random Gloves,ランダムな手袋
+Random Boots,ランダムな靴
+Random Shield,ランダムなシールド
+Random Buckler,ランダムなバックラー
+Random Focus,ランダムなフォーカス
+Random Quiver,ランダムな矢筒
+Random Amulet,ランダムなアミュレット
+Random Ring,ランダムな指輪
+Random Belt,ランダムなベルト
+Random Rune,ランダムなルーン
+Calescent Hammer,灼熱のハンマー
+Flared Mace,大頭メイス
+Battle Pick,バトルピック
+Marching Mace,行軍のメイス
+Runeforged Marching Mace,ルーンフォージの行軍のメイス
+Bandit Mace,山賊のメイス
+Structured Hammer,構造化ハンマー
+Snakewood Greathammer,蛇紋木のグレートハンマー
+Blacksmith Maul,鍛冶師の大槌
+Zealot Greathammer,狂信者のグレートハンマー
+Solemn Maul,厳粛な大槌
+Heavy Greathammer,ヘビーグレートハンマー
+Disintegrating Maul,崩壊の大槌
+Reaching Quarterstaff,長柄のクォータースタッフ
+Barbarous Quarterstaff,粗野なクォータースタッフ
+Arcing Quarterstaff,電弧のクォータースタッフ
+Waxing Quarterstaff,蝋塗りのクォータースタッフ
+Bladed Quarterstaff,刃付きのクォータースタッフ
+Guardian Quarterstaff,守護者のクォータースタッフ
+Snakewood Shortbow,蛇紋木のショートボウ
+Protector Bow,守護の弓
+Rider Bow,ライダーボウ
+Twin Bow,ツインボウ
+Adherent Bow,信奉者の弓
+Militant Bow,好戦的な弓
+Taut Crossbow,強弦のクロスボウ
+Robust Crossbow,剛健のクロスボウ
+Painted Crossbow,彩色のクロスボウ
+Twin Crossbow,ツインクロスボウ
+Cannonade Crossbow,砲撃のクロスボウ
+Bleak Crossbow,陰鬱のクロスボウ
+Steelhead Spear,スチールヘッドスピア
+Coursing Spear,疾走の槍
+Swift Spear,スイフトスピア
+Branched Spear,枝分かれの槍
+Jagged Spear,ギザギザの槍
+Massive Spear,巨大なスピア
+Howling Talisman,遠吠えのタリスマン
+Fury Talisman,怒りのタリスマン
+Cruel Talisman,残虐のタリスマン
+Barbarian Plate,蛮族のプレート
+Rugged Cuirass,無骨な胴鎧
+Sandsworn Cuirass,砂漠の民の胴鎧
+Elegant Plate,エレガントプレート
+Heavy Plate,ヘビープレート
+Stone Cuirass,石の胴鎧
+Patchwork Vest,パッチワークのベスト
+Hunting Coat,狩りのコート
+Riding Coat,ライディングコート
+Layered Vest,レイヤードベスト
+Runner Vest,走り手のベスト
+Lizardscale Coat,リザードスケールコート
+Avian Robe,鳥のローブ
+Cursespeaker's Robe,呪詛師のローブ
+Luxurious Robe,豪華なローブ
+River Raiment,川の装束
+Adherent's Raiment,信奉者の装束
+Ceremonial Robe,儀式のローブ
+Ring Mail,リングメイル
+Scoundrel Armour,ならず者の鎧
+Wanderer Armour,放浪者の鎧
+Mantled Mail,外套付きメイル
+Trailblazer Armour,開拓者の鎧
+Golden Mail,ゴールデンメイル
+Templar Vestments,テンプラーの祭服
+Bearskin Mantle,熊皮の外套
+Chain Vestments,鎖の祭服
+Occultist Mantle,オカルティストの外套
+Plated Vestments,板金の祭服
+Heartcarver Mantle,ハートカーヴァーの外套
+Oiled Jacket,オイルジャケット
+Evangelist Garb,伝道者の衣
+Itinerant Jacket,旅回りのジャケット
+Hatungo Garb,ハトゥンゴの衣
+Hawker's Jacket,行商人のジャケット
+Corroded Greathelm,腐食したグレートヘルム
+Mercenary Greathelm,傭兵のグレートヘルム
+Homeguard Greathelm,ホームガードのグレートヘルム
+Elegant Greathelm,エレガントグレートヘルム
+Noble Greathelm,貴族のグレートヘルム
+Rotted Hood,朽ちたフード
+Wool Cap,ウールの帽子
+Narrow Hood,細身のフード
+Wrapped Cap,巻き布の帽子
+Deerstalker Hood,鹿猟師のフード
+Druidic Circlet,ドルイドのサークレット
+Avian Tiara,鳥のティアラ
+Desert Circlet,砂漠のサークレット
+Sandsworn Tiara,砂漠の民のティアラ
+Jungle Tiara,ジャングルティアラ
+Domed Helm,半球の兜
+Engraved Helm,彫刻の兜
+Soldier Helm,兵士の兜
+Cabalist Helm,秘教の冠
+Cassis Helm,カシスヘルム
+Mailed Crown,鎖帷子の冠
+Forest Crown,森の冠
+Zealot Crown,狂信者の冠
+Hallowed Crown,神聖な冠
+Inquisitor Crown,審問官の冠
+Oak Mask,オークの仮面
+Bandit Mask,山賊の仮面
+Skulking Mask,隠密の仮面
+Pariah Mask,追放者の仮面
+Avian Mask,鳥の仮面
+Plated Mitts,プレートミット
+Elegant Mitts,エレガントミット
+Ancient Mitts,古代のミット
+Feathered Mitts,羽根付きのミット
+Hunting Bracers,狩りの弓籠手
+Swift Bracers,俊敏な籠手
+Refined Bracers,洗練された弓籠手
+Spiked Bracers,スパイク付きの弓籠手
+Ominous Gloves,不気味な手袋
+Embellished Gloves,装飾付き手袋
+Baroque Gloves,バロックの手袋
+Gold Gloves,金の手袋
+Ironmail Gauntlets,アイアンメイルガントレット
+Captain Gauntlets,部隊長のガントレット
+Zealot Gauntlets,狂信者のガントレット
+Braided Cuffs,編み込みのカフス
+Heirloom Cuffs,家宝のカフス
+Ornate Cuffs,華美なカフス
+Bandage Wraps,バンテージラップ
+Cambric Wraps,キャンブリックのラップ
+Adorned Wraps,装飾のあるラップ
+Plated Greaves,プレートグリーヴ
+Lionheart Greaves,ライオンハートグリーヴ
+Elegant Greaves,エレガントグリーヴ
+Carved Greaves,彫刻のあるグリーヴ
+Bound Boots,縁取りのブーツ
+Sleek Boots,滑らかなブーツ
+Studded Boots,鋲付きのブーツ
+Serpentscale Boots,サーペントスケールブーツ
+Laced Sandals,レースのサンダル
+Bangled Sandals,バングルサンダル
+Elegant Slippers,エレガントスリッパ
+Dunerunner Sandals,デューンランナーサンダル
+Soldiering Sabatons,軍人のサバトン
+Goldwork Sabatons,金細工のサバトン
+Bastion Sabatons,要塞のサバトン
+Adherent Leggings,密着したレギンス
+Bound Leggings,縁取りのレギンス
+Shamanistic Leggings,シャーマンのレギンス
+Wayfarer Shoes,旅人の靴
+Silverbuckled Shoes,銀のバックルのシューズ
+Treerunner Shoes,ツリーランナーシューズ
+Aged Tower Shield,使い古されたタワーシールド
+Metalworked Tower Shield,金属細工のタワーシールド
+Cultist Tower Shield,邪教徒のタワーシールド
+Bulwark Tower Shield,砦のタワーシールド
+Noble Tower Shield,貴族のタワーシールド
+Goldworked Tower Shield,金細工のタワーシールド
+Ironwood Targe,鉄木のタージ
+Fur-lined Targe,毛皮張りのタージ
+Mercenary Targe,傭兵のタージ
+Polished Targe,磨かれたタージ
+Stone Targe,石のタージ
+Avian Targe,鳥のタージ
+Painted Crest Shield,彩色されたクレストシールド
+Engraved Crest Shield,彫刻のクレストシールド
+Descry Crest Shield,デスクライ・クレストシールド
+Dekharan Crest Shield,デカーラ・クレストシールド
+Quartered Crest Shield,四分割のクレストシールド
+Glowering Crest Shield,威圧的なクレストシールド
+Oak Buckler,オークのバックラー
+Painted Buckler,彩色されたバックラー
+Coiled Buckler,螺旋のバックラー
+Spikeward Buckler,スパイクワードバックラー
+Jingling Buckler,鈴音のバックラー
+Bladeguard Buckler,ブレードガードバックラー
+Wreath Focus,花冠のフォーカス
+Staghorn Focus,鹿角のフォーカス
+Jingling Focus,鈴音のフォーカス
+Arrayed Focus,整列のフォーカス
+Cultist Focus,カルト信者のフォーカス
+Hallowed Focus,神聖なフォーカス
+Soldier Cuirass,兵士の胴鎧
+Ornate Plate,華美なプレート
+Utzaal Cuirass,ウトザールの胴鎧
+Warlord Cuirass,ウォーロードの胴鎧
+Swiftstalker Coat,スイフトストーカーコート
+Slipstrike Vest,スリップストライクベスト
+Wyrmscale Coat,ワームスケイルコート
+Corsair Coat,海賊のコート
+Vile Robe,悪辣のローブ
+Flowing Raiment,緩やかな装束
+Sacramental Robe,聖餐のローブ
+Feathered Raiment,羽付きの装束
+Dastard Armour,卑怯者の鎧
+Shrouded Mail,シュラウドメイル
+Death Mail,デスメイル
+Thane Mail,族長のメイル
+Wolfskin Mantle,狼皮の外套
+Conjurer Mantle,祈祷師の外套
+Death Mantle,死の外套
+Seastorm Mantle,シーストームの外套
+Sleek Jacket,艶のあるジャケット
+Rambler Jacket,散策者のジャケット
+Falconer's Jacket,鷹匠のジャケット
+Austere Garb,禁欲の衣
+Primal Markings,原始の刻印
+Warmonger Greathelm,戦争屋のグレートヘルム
+Masked Greathelm,仮面のグレートヘルム
+Paragon Greathelm,パラゴンのグレートヘルム
+Imperial Greathelm,帝国のグレートヘルム
+Woven Cap,織り帽子
+Desert Cap,砂漠の帽子
+Trapper Hood,罠師のフード
+Freebooter Cap,海賊の帽子
+Skycrown Tiara,スカイクラウンティアラ
+Sorcerous Tiara,術師のティアラ
+Kamasan Tiara,カマサのティアラ
+Ancestral Tiara,先祖のティアラ
+Warded Helm,保護兜
+Cryptic Helm,謎めいた兜
+Champion Helm,王者の兜
+Gladiatorial Helm,剣闘士の兜
+Druidic Crown,ドルイドの冠
+Saintly Crown,聖人の冠
+Divine Crown,神の冠
+Cryptic Crown,謎の冠
+Brigand Mask,盗賊の仮面
+Faridun Mask,ファリドゥンの仮面
+Soaring Mask,飛翔の仮面
+Grinning Mask,嘲笑の仮面
+Knightly Mitts,騎士のミット
+Ornate Mitts,華美なミット
+Vaal Mitts,ヴァールのミット
+Massive Mitts,巨大なミット
+Stalking Bracers,追跡者の弓籠手
+Grand Bracers,荘厳な弓籠手
+Barbed Bracers,トゲ付きの弓籠手
+Polished Bracers,磨かれた弓籠手
+Grim Gloves,不気味な手袋
+Opulent Gloves,絢爛な手袋
+Vaal Gloves,ヴァールの手袋
+Sirenscale Gloves,サイレーンスケイルの手袋
+Steelmail Gauntlets,スチールメイルガントレット
+Commander Gauntlets,コマンダーガントレット
+Cultist Gauntlets,カルト信者のガントレット
+Blacksteel Gauntlets,ブラックスティールガントレット
+Bound Cuffs,縛られたカフス
+Ancient Cuffs,古代のカフス
+Gleaming Cuffs,輝くカフス
+Adherent Cuffs,密着のカフス
+Tethering Bands,束縛の腕輪
+War Wraps,ウォーラップ
+Elegant Wraps,エレガントラップ
+Vaal Wraps,ヴァールのラップ
+Secured Wraps,固定されたラップ
+Fists of Stone,石の拳
+Runeforged Fists of Stone,ルーンフォージの石の拳
+Bulwark Greaves,砦のグリーヴ
+Ornate Greaves,華美なグリーヴ
+Vaal Greaves,ヴァールのグリーヴ
+Tasalian Greaves,タサリオのグリーヴ
+Cinched Boots,締め具のブーツ
+Cavalry Boots,騎兵隊のブーツ
+Dragonscale Boots,竜鱗のブーツ
+Drakeskin Boots,ドレイクスキンブーツ
+Bound Sandals,縛られたサンダル
+Luxurious Slippers,豪華な履物
+Sandsworn Sandals,砂漠の民のサンダル
+Sekhema Sandals,セケマのサンダル
+Veteran Sabatons,老兵のサバトン
+Noble Sabatons,貴族のサバトン
+Fortress Sabatons,要塞のサバトン
+Blacksteel Sabatons,ブラックスティールサバトン
+Faithful Leggings,忠義者のレギンス
+Apostle Leggings,使徒のレギンス
+Warlock Leggings,ウォーロックレギンス
+Cryptic Leggings,謎のレギンス
+Wanderer Shoes,放浪者の靴
+Charmed Shoes,チャームドシューズ
+Quickslip Shoes,クイックスリップシューズ
+Daggerfoot Shoes,ダガーフットシューズ
+Royal Tower Shield,王家のタワーシールド
+Fortress Tower Shield,要塞のタワーシールド
+Vaal Tower Shield,ヴァールのタワーシールド
+Tawhoan Tower Shield,タウホアのタワーシールド
+Glacial Fortress,氷河の要塞
+Mammoth Targe,マンモスのタージ
+Baroque Targe,バロックのタージ
+Soaring Targe,飛翔のタージ
+Golden Targe,黄金のタージ
+Venerable Defender,尊き守護者
+Intricate Crest Shield,精緻なクレストシールド
+Sekheman Crest Shield,セケマのクレストシールド
+Vaal Crest Shield,ヴァールのクレストシールド
+Blacksteel Crest Shield,ブラックスティールクレストシールド
+Gutspike Buckler,ガットスパイクバックラー
+Ancient Buckler,古代のバックラー
+Desert Buckler,砂漠のバックラー
+Druidic Focus,ドルイドのフォーカス
+Leyline Focus,レイラインフォーカス
+Sacred Focus,聖なるフォーカス
+Tasalian Focus,タサリオのフォーカス
+Runeforged Rusted Cuirass,ルーンフォージの錆びた胴鎧
+Runeforged Fur Plate,ルーンフォージの毛皮張りのプレート
+Runeforged Iron Cuirass,ルーンフォージの鉄の胴鎧
+Runeforged Raider Plate,ルーンフォージの襲撃者のプレート
+Runeforged Maraketh Cuirass,ルーンフォージのマラケスの胴鎧
+Runeforged Steel Plate,ルーンフォージの鋼鉄のプレート
+Runeforged Full Plate,ルーンフォージのフルプレート
+Runeforged Vaal Cuirass,ルーンフォージのヴァールの胴鎧
+Runeforged Juggernaut Plate,ルーンフォージのジャガーノートプレート
+Runeforged Chieftain Cuirass,ルーンフォージの族長の胴鎧
+Runeforged Colosseum Plate,ルーンフォージのコロシアムプレート
+Runeforged Champion Cuirass,ルーンフォージの王者の胴鎧
+Runeforged Glorious Plate,ルーンフォージの栄光のプレート
+Runeforged Conqueror Plate,ルーンフォージの征服者のプレート
+Runeforged Abyssal Cuirass,ルーンフォージの深淵の胴鎧
+Runeforged Leather Vest,ルーンフォージの革のベスト
+Runeforged Quilted Vest,ルーンフォージのキルティングベスト
+Runeforged Pathfinder Coat,ルーンフォージの開拓者のコート
+Runeforged Shrouded Vest,ルーンフォージの覆い布のベスト
+Runeforged Rhoahide Coat,ルーンフォージのロア革のコート
+Runeforged Studded Vest,ルーンフォージの鋲打ちのベスト
+Runeforged Scout's Vest,ルーンフォージの偵察者のベスト
+Runeforged Serpentscale Coat,ルーンフォージのサーペントスケイルコート
+Runeforged Corsair Vest,ルーンフォージのコルセアのベスト
+Runeforged Smuggler Coat,ルーンフォージの密輸業者のコート
+Runeforged Strider Vest,ルーンフォージのストライダーベスト
+Runeforged Hardleather Coat,ルーンフォージのハードレザーコート
+Runeforged Exquisite Vest,ルーンフォージの精巧なベスト
+Runeforged Mail Coat,ルーンフォージのメイルコート
+Runeforged Armoured Vest,ルーンフォージの装甲ベスト
+Runeforged Tattered Robe,ルーンフォージの擦り切れたローブ
+Runeforged Feathered Robe,ルーンフォージの羽根飾りのローブ
+Runeforged Hexer's Robe,ルーンフォージの呪術師のローブ
+Runeforged Bone Raiment,ルーンフォージの骨の装束
+Runeforged Silk Robe,ルーンフォージの絹のローブ
+Runeforged Keth Raiment,ルーンフォージのケスの装束
+Runeforged Votive Raiment,ルーンフォージの奉献の装束
+Runeforged Altar Robe,ルーンフォージの祭壇のローブ
+Runeforged Elementalist Robe,ルーンフォージのエレメンタリストのローブ
+Runeforged Mystic Raiment,ルーンフォージの神秘の装束
+Runeforged Imperial Robe,ルーンフォージの帝国のローブ
+Runeforged Plated Raiment,ルーンフォージの装甲の装束
+Runeforged Havoc Raiment,ルーンフォージの破壊の装束
+Runeforged Enlightened Robe,ルーンフォージの覚者のローブ
+Runeforged Arcane Raiment,ルーンフォージの神秘の装束
+Runeforged Chain Mail,ルーンフォージのチェインメイル
+Runeforged Rogue Armour,ルーンフォージの盗賊の鎧
+Runeforged Vagabond Armour,ルーンフォージの放浪者の鎧
+Runeforged Cloaked Mail,ルーンフォージのクロークメイル
+Runeforged Explorer Armour,ルーンフォージの探検家の鎧
+Runeforged Scale Mail,ルーンフォージのスケイルメイル
+Runeforged Knight Armour,ルーンフォージの騎士の鎧
+Runeforged Ancestral Mail,ルーンフォージの先祖のメイル
+Runeforged Lamellar Mail,ルーンフォージのラメラーメイル
+Runeforged Gladiator Armour,ルーンフォージの剣闘士の鎧
+Runeforged Heroic Armour,ルーンフォージの英雄の鎧
+Runeforged Tournament Mail,ルーンフォージのトーナメントメイル
+Runeforged Slayer Armour,ルーンフォージの殺戮者の鎧
+Runeforged Pilgrim Vestments,ルーンフォージの巡礼者の祭服
+Runeforged Pelt Mantle,ルーンフォージの生皮の外套
+Runeforged Mail Vestments,ルーンフォージの鎖帷子の祭服
+Runeforged Shaman Mantle,ルーンフォージのシャーマンの外套
+Runeforged Ironclad Vestments,ルーンフォージの甲鉄の祭服
+Runeforged Sacrificial Mantle,ルーンフォージの生贄の外套
+Runeforged Cleric Vestments,ルーンフォージの聖職者の祭服
+Runeforged Tideseer Mantle,ルーンフォージの潮読みの外套
+Runeforged Gilded Vestments,ルーンフォージの金装の祭服
+Runeforged Venerated Mantle,ルーンフォージの尊者の外套
+Runeforged Revered Vestments,ルーンフォージの畏敬の祭服
+Runeforged Corvus Mantle,ルーンフォージの鴉の外套
+Runeforged Zenith Vestments,ルーンフォージの天頂の祭服
+Runeforged Hermit Garb,ルーンフォージの隠者の衣
+Runeforged Waxed Jacket,ルーンフォージのワックスジャケット
+Runeforged Marabout Garb,ルーンフォージのマラブーの服
+Runeforged Wayfarer Jacket,ルーンフォージの旅人のジャケット
+Runeforged Anchorite Garb,ルーンフォージの隠修士の衣
+Runeforged Scalper's Jacket,ルーンフォージの転売屋のジャケット
+Runeforged Scoundrel Jacket,ルーンフォージのならず者のジャケット
+Runeforged Ascetic Garb,ルーンフォージの禁欲者の服
+Runeforged Clandestine Jacket,ルーンフォージの隠密のジャケット
+Runeforged Monastic Garb,ルーンフォージの修道士の服
+Runeforged Torment Jacket,ルーンフォージの苦痛のジャケット
+Runeforged Devout Garb,ルーンフォージの信者の服
+Runeforged Assassin Garb,ルーンフォージの暗殺者の服
+Runeforged Garment,ルーンフォージのガーメント
+Runeforged Grand Regalia,ルーンフォージの荘厳なレガリア
+Runeforged Sacrificial Regalia,ルーンフォージの生贄のレガリア
+Runeforged Elegant Plate,ルーンフォージのエレガントプレート
+Runeforged Heavy Plate,ルーンフォージのヘビープレート
+Runeforged Stone Cuirass,ルーンフォージの石の胴鎧
+Runeforged Layered Vest,ルーンフォージのレイヤードベスト
+Runeforged Runner Vest,ルーンフォージの走り手のベスト
+Runeforged Lizardscale Coat,ルーンフォージのリザードスケールコート
+Runeforged River Raiment,ルーンフォージの川の装束
+Runeforged Adherent's Raiment,ルーンフォージの信奉者の装束
+Runeforged Ceremonial Robe,ルーンフォージの儀式のローブ
+Runeforged Mantled Mail,ルーンフォージの外套付きメイル
+Runeforged Trailblazer Armour,ルーンフォージの開拓者の鎧
+Runeforged Golden Mail,ルーンフォージのゴールデンメイル
+Runeforged Occultist Mantle,ルーンフォージのオカルティストの外套
+Runeforged Plated Vestments,ルーンフォージの板金の祭服
+Runeforged Heartcarver Mantle,ルーンフォージのハートカーヴァーの外套
+Runeforged Itinerant Jacket,ルーンフォージの旅回りのジャケット
+Runeforged Hatungo Garb,ルーンフォージのハトゥンゴの衣
+Runeforged Hawker's Jacket,ルーンフォージの行商人のジャケット
+Runeforged Primal Markings,ルーンフォージの原始の刻印
+Runeforged Rusted Greathelm,ルーンフォージの錆びたグレートヘルム
+Runeforged Soldier Greathelm,ルーンフォージの兵士のグレートヘルム
+Runeforged Wrapped Greathelm,ルーンフォージの巻き布のグレートヘルム
+Runeforged Spired Greathelm,ルーンフォージの尖塔のグレートヘルム
+Runeforged Elite Greathelm,ルーンフォージの精鋭のグレートヘルム
+Runeforged Warrior Greathelm,ルーンフォージの戦士のグレートヘルム
+Runeforged Commander Greathelm,ルーンフォージの指揮官のグレートヘルム
+Runeforged Fierce Greathelm,ルーンフォージの獰猛なグレートヘルム
+Runeforged Sentinel Greathelm,ルーンフォージの歩哨のグレートヘルム
+Runeforged Goliath Greathelm,ルーンフォージのゴライアスのグレートヘルム
+Runeforged Guardian Greathelm,ルーンフォージの守護者のグレートヘルム
+Runeforged Shabby Hood,ルーンフォージの擦り切れたフード
+Runeforged Felt Cap,ルーンフォージのフェルトの帽子
+Runeforged Lace Hood,ルーンフォージのレースのフード
+Runeforged Swathed Cap,ルーンフォージの巻き布の帽子
+Runeforged Hunter Hood,ルーンフォージの狩人のフード
+Runeforged Viper Cap,ルーンフォージの毒蛇の帽子
+Runeforged Corsair Cap,ルーンフォージのコルセアの帽子
+Runeforged Leatherbound Hood,ルーンフォージの皮張りのフード
+Runeforged Velvet Cap,ルーンフォージのベルベットの帽子
+Runeforged Covert Hood,ルーンフォージの隠密のフード
+Runeforged Armoured Cap,ルーンフォージの装甲帽子
+Runeforged Twig Circlet,ルーンフォージの小枝のサークレット
+Runeforged Wicker Tiara,ルーンフォージの枝編みのティアラ
+Runeforged Beaded Circlet,ルーンフォージのビーズのサークレット
+Runeforged Chain Tiara,ルーンフォージの鎖のティアラ
+Runeforged Feathered Tiara,ルーンフォージの羽根付きのティアラ
+Runeforged Gold Circlet,ルーンフォージの金のサークレット
+Runeforged Vermeil Circlet,ルーンフォージのヴァーミルサークレット
+Runeforged Jade Tiara,ルーンフォージの翡翠のティアラ
+Runeforged Noble Circlet,ルーンフォージの貴族のサークレット
+Runeforged Twilight Tiara,ルーンフォージの黄昏のティアラ
+Runeforged Magus Tiara,ルーンフォージの魔導士のティアラ
+Runeforged Brimmed Helm,ルーンフォージのつば付き兜
+Runeforged Guarded Helm,ルーンフォージの防護兜
+Runeforged Visored Helm,ルーンフォージのバイザー付き兜
+Runeforged Cowled Helm,ルーンフォージの頭巾付き兜
+Runeforged Shielded Helm,ルーンフォージの盾付き兜
+Runeforged Closed Helm,ルーンフォージのクローズヘルム
+Runeforged Decorated Helm,ルーンフォージの装飾兜
+Runeforged Gallant Helm,ルーンフォージの勇士のヘルム
+Runeforged Iron Crown,ルーンフォージの鉄の冠
+Runeforged Horned Crown,ルーンフォージの角の冠
+Runeforged Cultist Crown,ルーンフォージのカルト信者の冠
+Runeforged Martyr Crown,ルーンフォージの殉教者の冠
+Runeforged Heavy Crown,ルーンフォージの重装の冠
+Runeforged Spiritbone Crown,ルーンフォージのスピリットボーンの冠
+Runeforged Lavish Crown,ルーンフォージの豪華な冠
+Runeforged Archon Crown,ルーンフォージのアルコンの冠
+Runeforged Hewn Mask,ルーンフォージの粗削りの仮面
+Runeforged Face Mask,ルーンフォージのフェースマスク
+Runeforged Hooded Mask,ルーンフォージのフード付きの仮面
+Runeforged Veiled Mask,ルーンフォージのベール付きの仮面
+Runeforged Tribal Mask,ルーンフォージの部族の仮面
+Runeforged Solid Mask,ルーンフォージの頑丈な仮面
+Runeforged Shaded Mask,ルーンフォージの遮光の仮面
+Runeforged Death Mask,ルーンフォージのデスマスク
+Runeforged Elegant Greathelm,ルーンフォージのエレガントグレートヘルム
+Runeforged Noble Greathelm,ルーンフォージの貴族のグレートヘルム
+Runeforged Wrapped Cap,ルーンフォージの巻き布の帽子
+Runeforged Deerstalker Hood,ルーンフォージの鹿猟師のフード
+Runeforged Sandsworn Tiara,ルーンフォージの砂漠の民のティアラ
+Runeforged Jungle Tiara,ルーンフォージのジャングルティアラ
+Runeforged Cabalist Helm,ルーンフォージの秘教の冠
+Runeforged Gladiatorial Helm,ルーンフォージの剣闘士の兜
+Runeforged Hallowed Crown,ルーンフォージの神聖な冠
+Runeforged Inquisitor Crown,ルーンフォージの審問官の冠
+Runeforged Pariah Mask,ルーンフォージの追放者の仮面
+Runeforged Avian Mask,ルーンフォージの鳥の仮面
+Runeforged Grand Visage,ルーンフォージの大いなる顔飾り
+Runeforged Stocky Mitts,ルーンフォージのがっしりとしたミット
+Runeforged Riveted Mitts,ルーンフォージのリベット付きミット
+Runeforged Tempered Mitts,ルーンフォージの焼き入れミット
+Runeforged Bolstered Mitts,ルーンフォージの補強ミット
+Runeforged Moulded Mitts,ルーンフォージの成形ミット
+Runeforged Detailed Mitts,ルーンフォージの精巧なミット
+Runeforged Titan Mitts,ルーンフォージのタイタンのミット
+Runeforged Grand Mitts,ルーンフォージの大いなるミット
+Runeforged Suede Bracers,ルーンフォージのスエードの弓籠手
+Runeforged Firm Bracers,ルーンフォージの頑丈な弓籠手
+Runeforged Bound Bracers,ルーンフォージの固定式の弓籠手
+Runeforged Sectioned Bracers,ルーンフォージの分割式の弓籠手
+Runeforged Spined Bracers,ルーンフォージの針付きの弓籠手
+Runeforged Fine Bracers,ルーンフォージの上質な弓籠手
+Runeforged Hardened Bracers,ルーンフォージの焼き入れの弓籠手
+Runeforged Engraved Bracers,ルーンフォージの彫刻の弓籠手
+Runeforged Torn Gloves,ルーンフォージの破れた手袋
+Runeforged Sombre Gloves,ルーンフォージの陰鬱な手袋
+Runeforged Stitched Gloves,ルーンフォージの縫い合わせの手袋
+Runeforged Jewelled Gloves,ルーンフォージの宝石をあしらった手袋
+Runeforged Intricate Gloves,ルーンフォージの手の込んだ手袋
+Runeforged Pauascale Gloves,ルーンフォージのパウアスケール手袋
+Runeforged Embroidered Gloves,ルーンフォージの刺繍入りの手袋
+Runeforged Adorned Gloves,ルーンフォージの装飾の手袋
+Runeforged Ringmail Gauntlets,ルーンフォージのリングメイルガントレット
+Runeforged Layered Gauntlets,ルーンフォージの層状のガントレット
+Runeforged Doubled Gauntlets,ルーンフォージの二重のガントレット
+Runeforged Plate Gauntlets,ルーンフォージのプレートガントレット
+Runeforged Burnished Gauntlets,ルーンフォージの研磨されたガントレット
+Runeforged Ornate Gauntlets,ルーンフォージの装飾のガントレット
+Runeforged Rope Cuffs,ルーンフォージの縄のカフス
+Runeforged Aged Cuffs,ルーンフォージの年季の入ったカフス
+Runeforged Goldcast Cuffs,ルーンフォージの金鋳造のカフス
+Runeforged Kalguuran Cuffs,ルーンフォージのカルグールのカフス
+Runeforged Righteous Cuffs,ルーンフォージの正義のカフス
+Runeforged Signet Cuffs,ルーンフォージの印章のカフス
+Runeforged Gauze Wraps,ルーンフォージの薄布のラップ
+Runeforged Linen Wraps,ルーンフォージのリネンのラップ
+Runeforged Spiral Wraps,ルーンフォージのスパイラルラップ
+Runeforged Buckled Wraps,ルーンフォージのバックル付きのラップ
+Runeforged Furtive Wraps,ルーンフォージの隠密のラップ
+Runeforged Utility Wraps,ルーンフォージの実用的なラップ
+Runeforged Ancient Mitts,ルーンフォージの古代のミット
+Runeforged Feathered Mitts,ルーンフォージの羽根付きのミット
+Runeforged Refined Bracers,ルーンフォージの洗練された弓籠手
+Runeforged Spiked Bracers,ルーンフォージのスパイク付きの弓籠手
+Runeforged Baroque Gloves,ルーンフォージのバロックの手袋
+Runeforged Gold Gloves,ルーンフォージの金の手袋
+Runeforged Zealot Gauntlets,ルーンフォージの狂信者のガントレット
+Runeforged Ornate Cuffs,ルーンフォージの華美なカフス
+Runeforged Adorned Wraps,ルーンフォージの装飾のあるラップ
+Runeforged Grand Manchettes,ルーンフォージの大いなるマンシェット
+Runeforged Rough Greaves,ルーンフォージの粗末なグリーヴ
+Runeforged Iron Greaves,ルーンフォージの鉄のグリーヴ
+Runeforged Bronze Greaves,ルーンフォージの青銅のグリーヴ
+Runeforged Trimmed Greaves,ルーンフォージの縁取りのグリーヴ
+Runeforged Stone Greaves,ルーンフォージの石のグリーヴ
+Runeforged Reefsteel Greaves,ルーンフォージのリーフスチールグリーヴ
+Runeforged Monument Greaves,ルーンフォージのモニュメントグリーヴ
+Runeforged Totemic Greaves,ルーンフォージのトーテムのグリーヴ
+Runeforged Rawhide Boots,ルーンフォージの生皮のブーツ
+Runeforged Laced Boots,ルーンフォージのレースのブーツ
+Runeforged Embossed Boots,ルーンフォージのエンボスのブーツ
+Runeforged Steeltoe Boots,ルーンフォージの鋼製つま先ブーツ
+Runeforged Lizardscale Boots,ルーンフォージのリザードスケールブーツ
+Runeforged Flared Boots,ルーンフォージのフレアブーツ
+Runeforged Leatherplate Boots,ルーンフォージのレザープレートブーツ
+Runeforged Embroidered Boots,ルーンフォージの刺繍入りブーツ
+Runeforged Straw Sandals,ルーンフォージの麦わらのサンダル
+Runeforged Wrapped Sandals,ルーンフォージの巻き布のサンダル
+Runeforged Lattice Sandals,ルーンフォージの格子のサンダル
+Runeforged Silk Slippers,ルーンフォージのシルクの履物
+Runeforged Feathered Sandals,ルーンフォージの羽根付きのサンダル
+Runeforged Flax Sandals,ルーンフォージの亜麻のサンダル
+Runeforged Studded Sandals,ルーンフォージの鋲付きのサンダル
+Runeforged Elaborate Sandals,ルーンフォージの精巧なサバトン
+Runeforged Mail Sabatons,ルーンフォージのメイルサバトン
+Runeforged Braced Sabatons,ルーンフォージの補強されたサバトン
+Runeforged Stacked Sabatons,ルーンフォージの多層サバトン
+Runeforged Covered Sabatons,ルーンフォージの覆い付きのサバトン
+Runeforged Flexile Sabatons,ルーンフォージの柔軟なサバトン
+Runeforged Bold Sabatons,ルーンフォージの剛胆なサバトン
+Runeforged Padded Leggings,ルーンフォージのパッド入りのレギンス
+Runeforged Secured Leggings,ルーンフォージの留め具付きのレギンス
+Runeforged Pelt Leggings,ルーンフォージの獣皮のレギンス
+Runeforged Weaver Leggings,ルーンフォージの織り手のレギンス
+Runeforged Gilt Leggings,ルーンフォージの金装のレギンス
+Runeforged Pious Leggings,ルーンフォージの敬虔なレギンス
+Runeforged Frayed Shoes,ルーンフォージの擦り切れた靴
+Runeforged Threaded Shoes,ルーンフォージのスレッドシューズ
+Runeforged Hunting Shoes,ルーンフォージのハンティングシューズ
+Runeforged Steelpoint Shoes,ルーンフォージのスチールポイントシューズ
+Runeforged Velour Shoes,ルーンフォージのベロアシューズ
+Runeforged Bladed Shoes,ルーンフォージの刃付きシューズ
+Runeforged Elegant Greaves,ルーンフォージのエレガントグリーヴ
+Runeforged Carved Greaves,ルーンフォージの彫刻のあるグリーヴ
+Runeforged Studded Boots,ルーンフォージの鋲付きのブーツ
+Runeforged Serpentscale Boots,ルーンフォージのサーペントスケールブーツ
+Runeforged Elegant Slippers,ルーンフォージのエレガントスリッパ
+Runeforged Dunerunner Sandals,ルーンフォージのデューンランナーサンダル
+Runeforged Bastion Sabatons,ルーンフォージの要塞のサバトン
+Runeforged Shamanistic Leggings,ルーンフォージのシャーマンのレギンス
+Runeforged Treerunner Shoes,ルーンフォージのツリーランナーシューズ
+Runeforged Grand Cuisses,ルーンフォージの大いなる脛当て
+Runeforged Splintered Tower Shield,ルーンフォージの割れたタワーシールド
+Runeforged Painted Tower Shield,ルーンフォージの彩色のタワーシールド
+Runeforged Braced Tower Shield,ルーンフォージの補強のタワーシールド
+Runeforged Barricade Tower Shield,ルーンフォージの防壁のタワーシールド
+Runeforged Effigial Tower Shield,ルーンフォージの立像のタワーシールド
+Runeforged Rampart Tower Shield,ルーンフォージの城壁のタワーシールド
+Runeforged Heraldric Tower Shield,ルーンフォージの紋章のタワーシールド
+Runeforged Stone Tower Shield,ルーンフォージの石のタワーシールド
+Runeforged Crucible Tower Shield,ルーンフォージの試練のタワーシールド
+Runeforged Ancestor Tower Shield,ルーンフォージの先祖のタワーシールド
+Runeforged Phalanx Tower Shield,ルーンフォージのファランクスのタワーシールド
+Runeforged Defiant Tower Shield,ルーンフォージの反抗のタワーシールド
+Runeforged Blacksteel Tower Shield,ルーンフォージの黒鉄のタワーシールド
+Runeforged Hardwood Targe,ルーンフォージの堅木のタージ
+Runeforged Pelage Targe,ルーンフォージの毛皮のタージ
+Runeforged Studded Targe,ルーンフォージの鋲付きのタージ
+Runeforged Crescent Targe,ルーンフォージの三日月のタージ
+Runeforged Chiseled Targe,ルーンフォージの彫り込みのあるタージ
+Runeforged Feathered Targe,ルーンフォージの羽根付きのタージ
+Runeforged Stratified Targe,ルーンフォージの重層タージ
+Runeforged Carved Targe,ルーンフォージの彫刻のタージ
+Runeforged Mosaic Targe,ルーンフォージのモザイクタージ
+Runeforged Aureate Targe,ルーンフォージの金色のタージ
+Runeforged Grand Targe,ルーンフォージの大いなるタージ
+DNT Venerable Defender,DNT-UNUSED Venerable Defender
+Runeforged Blazon Crest Shield,ルーンフォージの家紋のクレストシールド
+Runeforged Sigil Crest Shield,ルーンフォージの刻印のクレストシールド
+Runeforged Emblem Crest Shield,ルーンフォージの紋章のクレストシールド
+Runeforged Jingling Crest Shield,ルーンフォージの鈴音のクレストシールド
+Runeforged Sectarian Crest Shield,ルーンフォージの教団のクレストシールド
+Runeforged Omen Crest Shield,ルーンフォージのお告げのクレストシールド
+Runeforged Wayward Crest Shield,ルーンフォージの気まぐれなクレストシールド
+Runeforged Seer Crest Shield,ルーンフォージの先見のクレストシールド
+Runeforged Stoic Crest Shield,ルーンフォージの不動のクレストシールド
+Runeforged Empyreal Crest Shield,ルーンフォージの天上のクレストシールド
+Runeforged Deified Crest Shield,ルーンフォージの神聖なクレストシールド
+Runeforged Leather Buckler,ルーンフォージの革のバックラー
+Runeforged Wooden Buckler,ルーンフォージの木のバックラー
+Runeforged Plated Buckler,ルーンフォージのプレートバックラー
+Runeforged Iron Buckler,ルーンフォージの鉄のバックラー
+Runeforged Ridged Buckler,ルーンフォージのリッジバックラー
+Runeforged Spiked Buckler,ルーンフォージのトゲ付きのバックラー
+Runeforged Ringed Buckler,ルーンフォージのリングバックラー
+Runeforged Edged Buckler,ルーンフォージのエッジバックラー
+Runeforged Laminate Buckler,ルーンフォージのラミネートバックラー
+Runeforged Pearl Buckler,ルーンフォージの真珠のバックラー
+Runeforged Ornate Buckler,ルーンフォージの装飾のバックラー
+Runeforged Array Buckler,ルーンフォージの整列のフォーカス
+Runeforged Aegis Buckler,ルーンフォージのイージスバックラー
+Runeforged Bulwark Tower Shield,ルーンフォージの砦のタワーシールド
+Runeforged Noble Tower Shield,ルーンフォージの貴族のタワーシールド
+Runeforged Goldworked Tower Shield,ルーンフォージの金細工のタワーシールド
+Runeforged Polished Targe,ルーンフォージの磨かれたタージ
+Runeforged Stone Targe,ルーンフォージの石のタージ
+Runeforged Avian Targe,ルーンフォージの鳥のタージ
+Runeforged Dekharan Crest Shield,ルーンフォージのデカーラ・クレストシールド
+Runeforged Quartered Crest Shield,ルーンフォージの四分割のクレストシールド
+Runeforged Glowering Crest Shield,ルーンフォージの威圧的なクレストシールド
+Runeforged Spikeward Buckler,ルーンフォージのスパイクワードバックラー
+Runeforged Jingling Buckler,ルーンフォージの鈴音のバックラー
+Runeforged Bladeguard Buckler,ルーンフォージのブレードガードバックラー
+Runeforged Twig Focus,ルーンフォージの小枝のフォーカス
+Runeforged Woven Focus,ルーンフォージの編み物のフォーカス
+Runeforged Antler Focus,ルーンフォージの枝角のフォーカス
+Runeforged Engraved Focus,ルーンフォージの彫刻のフォーカス
+Runeforged Tonal Focus,ルーンフォージの調性のフォーカス
+Runeforged Crystal Focus,ルーンフォージの結晶のフォーカス
+Runeforged Voodoo Focus,ルーンフォージのブードゥーフォーカス
+Runeforged Plumed Focus,ルーンフォージの羽飾りのフォーカス
+Runeforged Runed Focus,ルーンフォージのルーンのフォーカス
+Runeforged Whorl Focus,ルーンフォージの渦巻のフォーカス
+Runeforged Elegant Focus,ルーンフォージのエレガントフォーカス
+Runeforged Attuned Focus,ルーンフォージの調和のフォーカス
+Runeforged Magus Focus,ルーンフォージの魔導士のフォーカス
+Runeforged Arrayed Focus,ルーンフォージの整列のフォーカス
+Runeforged Cultist Focus,ルーンフォージのカルト信者のフォーカス
+Runeforged Hallowed Focus,ルーンフォージの神聖なフォーカス
+Runeforged Soldier Cuirass,ルーンフォージの兵士の胴鎧
+Runeforged Ornate Plate,ルーンフォージの華美なプレート
+Runeforged Utzaal Cuirass,ルーンフォージのウトザールの胴鎧
+Runeforged Warlord Cuirass,ルーンフォージのウォーロードの胴鎧
+Runeforged Swiftstalker Coat,ルーンフォージのスイフトストーカーコート
+Runeforged Slipstrike Vest,ルーンフォージのスリップストライクベスト
+Runeforged Wyrmscale Coat,ルーンフォージのワームスケイルコート
+Runeforged Corsair Coat,ルーンフォージの海賊のコート
+Runeforged Vile Robe,ルーンフォージの悪辣のローブ
+Runeforged Flowing Raiment,ルーンフォージの緩やかな装束
+Runeforged Sacramental Robe,ルーンフォージの聖餐のローブ
+Runeforged Feathered Raiment,ルーンフォージの羽付きの装束
+Runeforged Dastard Armour,ルーンフォージの卑怯者の鎧
+Runeforged Shrouded Mail,ルーンフォージのシュラウドメイル
+Runeforged Death Mail,ルーンフォージのデスメイル
+Runeforged Thane Mail,ルーンフォージの族長のメイル
+Runeforged Wolfskin Mantle,ルーンフォージの狼皮の外套
+Runeforged Conjurer Mantle,ルーンフォージの祈祷師の外套
+Runeforged Death Mantle,ルーンフォージの死の外套
+Runeforged Seastorm Mantle,ルーンフォージのシーストームの外套
+Runeforged Sleek Jacket,ルーンフォージの艶のあるジャケット
+Runeforged Rambler Jacket,ルーンフォージの散策者のジャケット
+Runeforged Falconer's Jacket,ルーンフォージの鷹匠のジャケット
+Runeforged Austere Garb,ルーンフォージの禁欲の衣
+Runeforged Warmonger Greathelm,ルーンフォージの戦争屋のグレートヘルム
+Runeforged Masked Greathelm,ルーンフォージの仮面のグレートヘルム
+Runeforged Paragon Greathelm,ルーンフォージのパラゴンのグレートヘルム
+Runeforged Imperial Greathelm,ルーンフォージの帝国のグレートヘルム
+Runeforged Woven Cap,ルーンフォージの織り帽子
+Runeforged Desert Cap,ルーンフォージの砂漠の帽子
+Runeforged Trapper Hood,ルーンフォージの罠師のフード
+Runeforged Freebooter Cap,ルーンフォージの海賊の帽子
+Runeforged Skycrown Tiara,ルーンフォージのスカイクラウンティアラ
+Runeforged Sorcerous Tiara,ルーンフォージの術師のティアラ
+Runeforged Kamasan Tiara,ルーンフォージのカマサのティアラ
+Runeforged Ancestral Tiara,ルーンフォージの先祖のティアラ
+Runeforged Warded Helm,ルーンフォージの保護兜
+Runeforged Cryptic Helm,ルーンフォージの謎めいた兜
+Runeforged Champion Helm,ルーンフォージの王者の兜
+Runeforged Druidic Crown,ルーンフォージのドルイドの冠
+Runeforged Saintly Crown,ルーンフォージの聖人の冠
+Runeforged Divine Crown,ルーンフォージの神の冠
+Runeforged Cryptic Crown,ルーンフォージの謎の冠
+Runeforged Brigand Mask,ルーンフォージの盗賊の仮面
+Runeforged Faridun Mask,ルーンフォージのファリドゥンの仮面
+Runeforged Soaring Mask,ルーンフォージの飛翔の仮面
+Runeforged Grinning Mask,ルーンフォージの嘲笑の仮面
+Runeforged Knightly Mitts,ルーンフォージの騎士のミット
+Runeforged Ornate Mitts,ルーンフォージの華美なミット
+Runeforged Vaal Mitts,ルーンフォージのヴァールのミット
+Runeforged Massive Mitts,ルーンフォージの巨大なミット
+Runeforged Stalking Bracers,ルーンフォージの追跡者の弓籠手
+Runeforged Grand Bracers,ルーンフォージの荘厳な弓籠手
+Runeforged Barbed Bracers,ルーンフォージのトゲ付きの弓籠手
+Runeforged Polished Bracers,ルーンフォージの磨かれた弓籠手
+Runeforged Grim Gloves,ルーンフォージの不気味な手袋
+Runeforged Opulent Gloves,ルーンフォージの絢爛な手袋
+Runeforged Vaal Gloves,ルーンフォージのヴァールの手袋
+Runeforged Sirenscale Gloves,ルーンフォージのサイレーンスケイルの手袋
+Runeforged Steelmail Gauntlets,ルーンフォージのスチールメイルガントレット
+Runeforged Commander Gauntlets,ルーンフォージのコマンダーガントレット
+Runeforged Cultist Gauntlets,ルーンフォージのカルト信者のガントレット
+Runeforged Blacksteel Gauntlets,ルーンフォージのブラックスティールガントレット
+Runeforged Bound Cuffs,ルーンフォージの縛られたカフス
+Runeforged Ancient Cuffs,ルーンフォージの古代のカフス
+Runeforged Gleaming Cuffs,ルーンフォージの輝くカフス
+Runeforged Adherent Cuffs,ルーンフォージの密着のカフス
+Runeforged War Wraps,ルーンフォージのウォーラップ
+Runeforged Elegant Wraps,ルーンフォージのエレガントラップ
+Runeforged Vaal Wraps,ルーンフォージのヴァールのラップ
+Runeforged Secured Wraps,ルーンフォージの固定されたラップ
+Runeforged Bulwark Greaves,ルーンフォージの砦のグリーヴ
+Runeforged Ornate Greaves,ルーンフォージの華美なグリーヴ
+Runeforged Vaal Greaves,ルーンフォージのヴァールのグリーヴ
+Runeforged Tasalian Greaves,ルーンフォージのタサリオのグリーヴ
+Runeforged Cinched Boots,ルーンフォージの締め具のブーツ
+Runeforged Cavalry Boots,ルーンフォージの騎兵隊のブーツ
+Runeforged Dragonscale Boots,ルーンフォージの竜鱗のブーツ
+Runeforged Drakeskin Boots,ルーンフォージのドレイクスキンブーツ
+Runeforged Bound Sandals,ルーンフォージの縛られたサンダル
+Runeforged Luxurious Slippers,ルーンフォージの豪華な履物
+Runeforged Sandsworn Sandals,ルーンフォージの砂漠の民のサンダル
+Runeforged Sekhema Sandals,ルーンフォージのセケマのサンダル
+Runeforged Veteran Sabatons,ルーンフォージの老兵のサバトン
+Runeforged Noble Sabatons,ルーンフォージの貴族のサバトン
+Runeforged Fortress Sabatons,ルーンフォージの要塞のサバトン
+Runeforged Blacksteel Sabatons,ルーンフォージのブラックスティールサバトン
+Runeforged Faithful Leggings,ルーンフォージの忠義者のレギンス
+Runeforged Apostle Leggings,ルーンフォージの使徒のレギンス
+Runeforged Warlock Leggings,ルーンフォージのウォーロックレギンス
+Runeforged Cryptic Leggings,ルーンフォージの謎のレギンス
+Runeforged Wanderer Shoes,ルーンフォージの放浪者の靴
+Runeforged Charmed Shoes,ルーンフォージのチャームドシューズ
+Runeforged Quickslip Shoes,ルーンフォージのクイックスリップシューズ
+Runeforged Daggerfoot Shoes,ルーンフォージのダガーフットシューズ
+Runeforged Royal Tower Shield,ルーンフォージの王家のタワーシールド
+Runeforged Fortress Tower Shield,ルーンフォージの要塞のタワーシールド
+Runeforged Vaal Tower Shield,ルーンフォージのヴァールのタワーシールド
+Runeforged Tawhoan Tower Shield,ルーンフォージのタウホアのタワーシールド
+Runeforged Mammoth Targe,ルーンフォージのマンモスのタージ
+Runeforged Baroque Targe,ルーンフォージのバロックのタージ
+Runeforged Soaring Targe,ルーンフォージの飛翔のタージ
+Runeforged Golden Targe,ルーンフォージの黄金のタージ
+Runeforged Intricate Crest Shield,ルーンフォージの精緻なクレストシールド
+Runeforged Sekheman Crest Shield,ルーンフォージのセケマのクレストシールド
+Runeforged Vaal Crest Shield,ルーンフォージのヴァールのクレストシールド
+Runeforged Blacksteel Crest Shield,ルーンフォージのブラックスティールクレストシールド
+Runeforged Gutspike Buckler,ルーンフォージのガットスパイクバックラー
+Runeforged Ancient Buckler,ルーンフォージの古代のバックラー
+Runeforged Desert Buckler,ルーンフォージの砂漠のバックラー
+Runeforged Druidic Focus,ルーンフォージのドルイドのフォーカス
+Runeforged Leyline Focus,ルーンフォージのレイラインフォーカス
+Runeforged Sacred Focus,ルーンフォージの聖なるフォーカス
+Runeforged Tasalian Focus,ルーンフォージのタサリオのフォーカス
+Runeforged Wooden Club,ルーンフォージの棍棒
+Runemastered Wooden Club,ルーンマスターの棍棒
+Runeforged Slim Mace,ルーンフォージの細身のメイス
+Runeforged Spiked Club,ルーンフォージのトゲ付きの棍棒
+Runeforged Warpick,ルーンフォージのウォーピック
+Runeforged Kalguuran Forgehammer,ルーンフォージのカルグールのフォージハンマー
+Runeforged Morning Star,ルーンフォージのモーニングスター
+Runeforged Felled Greatclub,ルーンフォージの倒木のグレートクラブ
+Runemastered Felled Greatclub,ルーンマスターの倒木のグレートクラブ
+Runeforged Oak Greathammer,ルーンフォージのオークグレートハンマー
+Runemastered Oak Greathammer,ルーンマスターのオークグレートハンマー
+Runeforged Forge Maul,ルーンフォージの鍜治場の大槌
+Runeforged Studded Greatclub,ルーンフォージの鋲付きの金棒
+Runemastered Studded Greatclub,ルーンマスターの鋲付きの金棒
+Runeforged Cultist Greathammer,ルーンフォージのカルティストグレートハンマー
+Runeforged Temple Maul,ルーンフォージの寺院の大槌
+Runeforged Leaden Greathammer,ルーンフォージの鉛のグレートハンマー
+Runeforged Crumbling Maul,ルーンフォージの朽ちた大槌
+Runeforged Pointed Maul,ルーンフォージの尖った大槌
+Runeforged Hardwood Spear,ルーンフォージの硬材の槍
+Runeforged Ironhead Spear,ルーンフォージの鉄頭のスピア
+Runemastered Ironhead Spear,ルーンマスターの鉄頭のスピア
+Runeforged Hunting Spear,ルーンフォージのハンティングスピア
+Runeforged Winged Spear,ルーンフォージの翼刃のスピア
+Runeforged War Spear,ルーンフォージのウォースピア
+Runeforged Forked Spear,ルーンフォージの双頭の槍
+Runeforged Barbed Spear,ルーンフォージのトゲ付きの槍
+Runeforged Wrapped Quarterstaff,ルーンフォージの巻き布のクォータースタッフ
+Runeforged Long Quarterstaff,ルーンフォージのロングクォータースタッフ
+Runemastered Long Quarterstaff,ルーンマスターのロングクォータースタッフ
+Runeforged Gothic Quarterstaff,ルーンフォージのゴシッククォータースタッフ
+Runemastered Gothic Quarterstaff,ルーンマスターのゴシッククォータースタッフ
+Runeforged Crescent Quarterstaff,ルーンフォージの三日月のクォータースタッフ
+Runeforged Steelpoint Quarterstaff,ルーンフォージのスチールポイントクォータースタッフ
+Runeforged Crude Bow,ルーンフォージの粗雑な弓
+Runeforged Shortbow,ルーンフォージのショートボウ
+Runeforged Warden Bow,ルーンフォージの監視者の弓
+Runeforged Recurve Bow,ルーンフォージのリカーブボウ
+Runeforged Composite Bow,ルーンフォージのコンポジットボウ
+Runeforged Dualstring Bow,ルーンフォージのデュアルストリングボウ
+Runeforged Zealot Bow,ルーンフォージの狂信者の弓
+Runeforged Makeshift Crossbow,ルーンフォージの間に合わせのクロスボウ
+Runeforged Tense Crossbow,ルーンフォージの張り詰めたクロスボウ
+Runemastered Tense Crossbow,ルーンマスターの張り詰めたクロスボウ
+Runeforged Sturdy Crossbow,ルーンフォージの頑丈なクロスボウ
+Runeforged Dyad Crossbow,ルーンフォージの対のクロスボウ
+Runemastered Dyad Crossbow,ルーンマスターの対のクロスボウ
+Runeforged Bombard Crossbow,ルーンフォージの爆撃のクロスボウ
+Runeforged Changeling Talisman,ルーンフォージの変身のタリスマン
+Runeforged Nettle Talisman,ルーンフォージのイラクサのタリスマン
+Runemastered Nettle Talisman,ルーンマスターのイラクサのタリスマン
+Runeforged Familial Talisman,ルーンフォージの眷属のタリスマン
+Runemastered Familial Talisman,ルーンマスターの眷属のタリスマン
+Runeforged Vicious Talisman,ルーンフォージの獰猛のタリスマン
+Flanged Mace,フランジメイス
+Crown Mace,クラウンメイス
+Molten Hammer,溶融ハンマー
+Strife Pick,ストライフピック
+Fortified Hammer,頑丈なハンマー
+Marauding Mace,略奪のメイス
+Akoyan Club,アコヤのクラブ
+Anvil Maul,金床の大槌
+Sacred Maul,聖なる大槌
+Ironwood Greathammer,鉄木のグレートハンマー
+Fanatic Greathammer,熱狂者のグレートハンマー
+Ruination Maul,破滅の大槌
+Massive Greathammer,巨大なグレートハンマー
+Tawhoan Greatclub,タウホアのグレートクラブ
+Aberrant Sledge,異形のスレッジ
+Runemastered Aberrant Sledge,ルーンマスターの異形のスレッジ
+Sinister Quarterstaff,邪悪なクォータースタッフ
+Lunar Quarterstaff,月のクォータースタッフ
+Striking Quarterstaff,ストライキングクォータースタッフ
+Bolting Quarterstaff,雷撃のクォータースタッフ
+Aegis Quarterstaff,イージスクォータースタッフ
+Razor Quarterstaff,レイザークォータースタッフ
+Skullcrusher Quarterstaff,頭蓋割りのクォータースタッフ
+Dreaming Quarterstaff,夢見るクォータースタッフ
+Warding Quarterstaff,護りのクォータースタッフ
+Runemastered Warding Quarterstaff,ルーンマスターの護りのクォータースタッフ
+Ironwood Shortbow,鉄木のショートボウ
+Cavalry Bow,騎兵隊の弓
+Guardian Bow,守護者の弓
+Gemini Bow,ジェミニボウ
+Fanatic Bow,熱狂者の弓
+Warmonger Bow,戦争屋の弓
+Obliterator Bow,殲滅者の弓
+Heartwood Shortbow,ハートウッドショートボウ
+Stout Crossbow,堅牢なクロスボウ
+Engraved Crossbow,彫刻のクロスボウ
+Flexed Crossbow,フレックスクロスボウ
+Gemini Crossbow,ジェミニクロスボウ
+Siege Crossbow,シージクロスボウ
+Desolate Crossbow,隔絶のクロスボウ
+Elegant Crossbow,エレガントクロスボウ
+Trarthan Cannon,トラーサスキャノン
+Orichalcum Spear,オリハルコンスピア
+Soaring Spear,飛翔のスピア
+Pronged Spear,二又の槍
+Stalking Spear,ストーキングスピア
+Flying Spear,フレイングスピア
+Grand Spear,グランドスピア
+Spiked Spear,スパイクスピア
+Guardian Spear,守護者のスピア
+Akoyan Spear,アコヤのスピア
+Spiny Talisman,棘のタリスマン
+Ashbark Talisman,灰樹皮のタリスマン
+Fang Talisman,牙のタリスマン
+Fungal Talisman,キノコのタリスマン
+Alpha Talisman,アルファのタリスマン
+Maji Talisman,マジのタリスマン
+Wildwood Talisman,原生林のタリスマン
+Thunder Talisman,雷のタリスマン
+Jade Talisman,ヒスイのタリスマン
+Una's Lute,ウナのリュート
+Runed Spikes,ルーンの釘
+Head of the Winter Wolf,冬狼の首
+Candlemass' Essence,キャンドルマスの精髄
+Vagrant's Brew,放浪者の醸造酒
+Runed Girdle,ルーンの腰帯
+Runed Guard,ルーンの防護具
+Runed Skull Cap,ルーンの頭蓋帽
+Asinia's Memorial Key Piece,アシニアの追悼の鍵の欠片
+Draven's Memorial Key Piece,ドレイヴンの追悼の鍵の欠片
+Count Lachlann's Ring,ラクラン伯爵の指輪
+Ancestral Steel,先祖の鋼
+Book of Specialisation,特化の書
+Gembloom Skull,ジェムに侵された頭蓋骨
+Smithing Tools,鍛冶道具
+The Horn of the Vastiri,ヴァスティリの角笛
+Mastodon Tusks,マストドンの牙
+The Flame Ruby,炎のルビー
+The Essence of Water,水の精髄
+Kabala Clan Relic,カバラの部族の遺物
+Sun Clan Relic,太陽の部族の遺物
+Sigil of the Third Pact,第三の盟約の印
+Maggot Husk,ウジ虫の抜け殻
+Stitched Bladder,縫い合わされた膀胱
+Gas Filled Bladder,ガスの詰まった膀胱
+Burning Heart,燃える心臓
+Empty Decanter Djinnus,ジンの空のデカンタ
+Full Decanter Djinnus,ジンの満たされたデカンタ
+Final Letter,遺書
+Gemrot Skull,ジェムで腐敗した頭蓋骨
+Venom Draught of Stone,石の毒の霊薬
+Venom Draught of the Veil,ヴェールの毒の霊薬
+Venom Draught of Clarity,覆いの毒の霊薬
+Venom Draught of the Lost,迷えるものの毒の霊薬
+Venom Draught of the Sky,空の毒の霊薬
+Venom Draught of the Marshes,湿地の毒の霊薬
+Corpse-snake Venom,死体蛇の毒
+Small Soul Core,小型ソウルコア
+Medium Soul Core,中型ソウルコア
+Large Soul Core,大型ソウルコア
+The Flame Core,フレイムコア
+Temple Door Idol,寺院の扉の偶像
+Ignagduk's Ghastly Spear,イグナグドゥクの不気味な槍
+The Hammer of Kamasa,カマサのハンマー
+Frost Core,フロストコア
+Golden Idol,黄金の偶像
+Grand Idol,豪華な偶像
+Glorious Idol,壮麗な偶像
+Exquisite Idol,精巧な偶像
+Elegant Idol,優雅な偶像
+Exceptional Idol,非凡な偶像
+Sacrificial Dagger,生贄の短剣
+Sacrificial Heart,生贄の心臓
+Gemcrust Skull,ジェムに覆われた頭蓋骨
+Boat Charter,船の契約書
+Mist-shrouded Tome,霧に覆われた謎の本
+Half-Digested Sulphite,半分消化されたサルファイト
+Sulphite Potion,サイルファイトポーション
+Humming Pearl,歌う真珠
+Severed Talon,切断された爪
+Plucked Eyeballs,くり抜かれた眼球
+Chapel Key,礼拝堂の鍵
+Ever-healing Liver,永癒の肝臓
+The Siren's Vocal Cords,セイレーンの声帯
+Krutog's Lip Plate,クルトォグのリッププレート
+The Siren's Head,セイレーンの首
+Shark Fin,鮫のヒレ
+Verisium Ingots,ヴェリシウムのインゴット
+Verisium Spikes,ヴェリシウムの釘
+Torn Map Piece,破れた地図の切れ端
+Ripped Map Piece,引き裂かれた地図の切れ端
+Frayed Map Piece,擦り切れた地図の切れ端
+Ragged Map Piece,ボロボロの地図の切れ端
+Shovel,シャベル
+Blank Tattoo of Tawhoa,タウホアの空白のタトゥー
+Blank Tattoo of Tasalio,タサリオの空白のタトゥー
+Blank Tattoo of Ngamahu,ナマフの空白のタトゥー
+Dexterity Tattoo of Tawhoa,タウホアの器用さのタトゥー
+Intelligence Tattoo of Tasalio,タサリオの知性のタトゥー
+Strength Tattoo of Ngamahu,ナマフの筋力のタトゥー
+Lightning Tattoo of Tawhoa,タウホアの雷のタトゥー
+Cold Tattoo of Tasalio,タサリオの冷気のタトゥー
+Fire Tattoo of Ngamahu,ナマフの火のタトゥー
+Tattoo of Hinekora,ヒネコラのタトゥー
+Kaom's Lesson,カオムの教え
+Rakiata's Lesson,ラキアタの教え
+Vial of Sacred Water,神聖な水の小瓶
+Yoon's Barya,ヨーンのバリャ
+Rangeen's Barya,ランギーンのバリャ
+Icy Tusks,氷の牙
+Atziri's Medallion,アッツィリのメダリオン
+Kulemak's Invitation,クーラマクの招待状
+Raven's Reflection,鴉の鏡像
+The Triskelion Reforged,再鍛造されたトリスケリオン
+Shattered Triskelion,砕けたトリスケリオン
+Idol of Estazunti,エスタズンティの偶像
+Glacial Cascade,グレイシャルカスケード
+Comet,コメット
+Consecrate,コンセクレート
+Artillery Ballista,アーティラリーバリスタ
+Mana Tempest,マナテンペスト
+His Dark Horizon,ヒズダークホライゾン
+Uncut Skill Gem,スキルジェムの原石
+Uncut Skill Gem (Level 1),スキルジェムの原石 (レベル1)
+Uncut Support Gem,サポートジェムの原石
+Killing Palm,キリングパーム
+Crushing Fear,クラッシングフィアー
+Shattering Palm,シャタリングパーム
+Volcano,ボルケーノ
+Wolf Pack,ウルフパック
+Cackling Companions,ハイエナコンパニオン
+Spiral Volley,スパイラルボレー
+Pounce,パウンス
+Lightning Bolt,ライトニングボルト
+Rampage,ランページ
+Enervation,感電マナ吸収
+Unleash,アンリーシュ
+Convention Treasure,コンベンショントレジャー
+Thunderstorm,サンダーストーム
+Chance to Freeze,凍結付与
+Essence Harvest,魂の収穫
+Furious Slam,フューリアススラム
+Ferocious Roar,フェロシアスロア
+Cast on Shock,ショックフラッシュ
+Invocation,インボケーション
+Cast on Freeze,凍結時キャスト
+Cast on Ignite,発火時キャスト
+Cast on Elemental Ailment,元素系状態異常時キャスト
+Cast on Melee Kill,近接キル時キャスト
+Cast on Death,死亡時キャスト
+Cast on Critical,クリティカル時キャスト
+Cast when Stunned,被スタン時キャスト
+Cast when Damage Taken,被ダメージ時キャスト
+Coming Soon,近日公開
+Barrier Invocation,バリアーインボケーション
+Cast on Dodge,ドッジ時キャスト
+Cast while Channelling,チャネリング中キャスト
+Cast on Melee Stun,近接スタン時キャスト
+Lingering Illusion,リンガーリングイリュージョン
+Ghost Dance,ゴーストダンス
+Bind Spectre,バインドスペクター
+Shroud,シュラウド
+Summon Companion,コンパニオン召喚
+Ancestral Warrior Totem,アンセストラルウォーリアートーテム
+Spell Totem,スペルトーテム
+Pain Offering,ペインオファリング
+Tempest Flurry,テンペストフラリィ
+Staggering Palm,スタッガリングパーム
+Charged Staff,チャージドスタッフ
+Siphoning Strike,サイフォンストライク
+Tempest Bell,テンペストベル
+Frozen Locus,フローズンローカス
+Bonestorm,ボーンストーム
+Bone Cage,ボーンケージ
+Spreading Frost,伝染する霜
+Pinpoint Critical,クリティカル集中
+Unearth,アンアース
+Detonating Arrow,デトネーティングアロー
+Poisonburst Arrow,ポイズンバーストアロー
+Toxic Growth,トキシックグロース
+Stormcaller Arrow,ストームコーラーアロー
+Phantasmal Arrow,ファンタズマルアロー
+Lightning Rod,ライトニングロッド
+Snipe,スナイプ
+Gas Arrow,ガスアロー
+Solar Orb,ソーラーオーブ
+Fireball,ファイヤーボール
+Electrocuting Arrow,エレクトロカッティングアロー
+Snap,スナップ
+Perfect Strike,パーフェクトストライク
+Raise Shield,レイズシールド
+Resonating Shield,レゾーネーティングシールド
+Mana Remnants,マナレムナント
+Sanguine Revelry,サングインレヴェルリー
+Magma Barrier,マグマバリアー
+Freezing Shards,フリージングシャード
+Vine Arrow,ヴァインアロー
+Rhoa Mount,ロア騎乗
+Decompose,デコンポーズ
+Ignite I,発火 I
+Ignite II,発火 II
+Ignite III,発火 III
+Ruthless,ルースレス
+Unbreakable,アンブレイカブル
+Bleed I,出血 I
+Bleed II,出血 II
+Bleed III,出血 III
+Bleed IV,出血 IV
+Knockback,ノックバック
+Stun I,スタン I
+Stun II,スタン II
+Stun III,スタン III
+Prolonged Duration I,持続時間延長 I
+Prolonged Duration II,持続時間延長 II
+Prolonged Duration III,持続時間延長 III
+Compressed Duration I,持続時間圧縮 I
+Compressed Duration II,持続時間圧縮 II
+Rage I,憤怒 I
+Rage II,憤怒 II
+Rage III,憤怒 III
+Lifetap,ライフタップ
+Atalui's Bloodletting,アタルイの血抜き
+Execute I,処刑 I
+Execute II,処刑 II
+Execute III,処刑 III
+Searing Flame I,灼熱の炎 I
+Searing Flame II,灼熱の炎 II
+Behead I,首狩り I
+Behead II,首狩り II
+Einhar's Beastrite,アイナーの獣の儀式
+Jagged Ground I,ギザギザ領域 I
+Jagged Ground II,ギザギザ領域 II
+Exploit Weakness,弱点活用
+Impact Shockwave,インパクトショックウェーブ
+Fire Penetration I,火耐性貫通 I
+Fire Penetration II,火耐性貫通 II
+Fire Exposure,火の曝露
+Enraged Warcry I,激怒のウォークライ I
+Enraged Warcry II,激怒のウォークライ II
+Fist of War I,フィストオブウォー I
+Fist of War II,フィストオブウォー II
+Fist of War III,フィストオブウォー III
+Devastate,蹂躙
+Heavy Swing,ヘビースイング
+Life Leech I,ライフリーチ I
+Life Leech II,ライフリーチ II
+Life Leech III,ライフリーチ III
+Brutality I,ブルータリティ I
+Brutality II,ブルータリティ II
+Brutality III,ブルータリティ III
+Bloodlust,ブラッドラスト
+Meat Shield I,ミートシールド I
+Meat Shield II,ミートシールド II
+Brutus' Brain,ブルータスの脳
+Break Endurance,破壊時エンデュランス
+Eternal Flame I,永遠の炎 I
+Eternal Flame II,永遠の炎 II
+Eternal Flame III,永遠の炎 III
+Infernal Legion I,インファーナルリージョン I
+Infernal Legion II,インファーナルリージョン II
+Infernal Legion III,インファーナルリージョン III
+Fire Attunement,ファイヤーアチューンメント
+Efficiency I,コスト軽減 I
+Efficiency II,コスト軽減 II
+Immolate,火炙り
+Premeditation,強化ブースト
+Raging Cry,憤怒のクライ
+Armour Demolisher I,アーマー破壊ブースト I
+Armour Demolisher II,アーマー破壊ブースト II
+Uruk's Smelting,ウルクの製錬
+Rageforged I,レイジフォージド I
+Rageforged II,レイジフォージド II
+Armour Explosion,アーマー爆発
+Stomping Ground,地響き
+Corrupting Cry I,コラプティングクライ 1
+Corrupting Cry II,コラプティングクライ 2
+Paquate's Pact,パクアテの契約
+Deep Cuts I,重出血 I
+Deep Cuts II,重出血 II
+Armour Break I,アーマー破壊 I
+Armour Break II,アーマー破壊 II
+Armour Break III,アーマー破壊 III
+Rupture,裂傷
+Dazing Cry,眩暈のクライ
+Elemental Armament I,元素武装 I
+Elemental Armament II,元素武装 II
+Elemental Armament III,元素武装 III
+Vitality I,バイタリティー I
+Vitality II,バイタリティー II
+Herbalism I,薬草学 I
+Herbalism II,薬草学 II
+Cannibalism I,カニバリズム I
+Cannibalism II,カニバリズム II
+Aftershock I,余震 I
+Aftershock II,余震 II
+Aftershock III,余震 III
+Tectonic Slams,テクトニックスラム
+Shock,感電
+Pierce I,貫通 I
+Pierce II,貫通 II
+Pierce III,貫通 III
+Multishot I,マルチショット I
+Multishot II,マルチショット II
+Nova Projectiles I,ノヴァの投射物 I
+Wind Wave,ウィンドウェーブ
+Poison I,毒 I
+Poison II,毒 II
+Poison III,毒 III
+Maim,重傷
+Blind I,盲目 I
+Blind II,盲目 II
+Projectile Acceleration I,投射物加速 I
+Projectile Acceleration II,投射物加速 II
+Projectile Acceleration III,投射物加速 III
+Projectile Deceleration I,投射物減速 I
+Projectile Deceleration II,投射物減速 II
+Vilenta's Propulsion,ヴィレンタの推進力
+Electrocute,麻痺
+Eonyr's Thunder,エオニルの雷
+Overabundance I,上限超過 I
+Overabundance II,上限超過 II
+Overabundance III,上限超過 III
+Mobility,機動力
+Overcharge,過剰感電
+Perpetual Charge,チャージ温存
+Pin I,足止め I
+Pin II,足止め II
+Pin III,足止め III
+Chain I,連鎖 I
+Chain II,連鎖 II
+Chain III,連鎖 III
+Lightning Penetration,雷耐性貫通
+Lightning Exposure,雷の曝露
+Second Wind I,セカンドウィンド I
+Second Wind II,セカンドウィンド II
+Second Wind III,セカンドウィンド III
+Neural Overload,神経過負荷
+Bursting Plague,疫病爆発
+Deadly Herald,デッドリーヘラルド
+Corrosion,腐食
+Infusion,インフュージョン
+Lockdown,足止めブースト
+Fork,分岐
+Bounty I,バウンティ I
+Bounty II,バウンティ II
+Mana Bounty,マナバウンティ
+Life Bounty,ライフバウンティ
+Lasting Shock,感電持続
+Lightning Attunement,ライトニングアチューンメント
+Life Drain,ライフドレイン
+Soul Drain,ソウルドレイン
+Rapid Attacks I,アタックスピード増加 I
+Rapid Attacks II,アタックスピード増加 II
+Rapid Attacks III,アタックスピード増加 III
+Heightened Accuracy I,命中ブースト I
+Heightened Accuracy II,命中ブースト II
+Innervate,電気刺激
+Charge Profusion I,チャージ追加付与 I
+Charge Profusion II,チャージ追加付与 II
+Escalating Poison,急性毒
+Murderous Intent,殺意
+Momentum,モーメンタム
+Crescendo I,クレッシェンド I
+Crescendo II,クレッシェンド II
+Crescendo III,クレッシェンド III
+Deadly Poison I,致死毒 I
+Deadly Poison II,致死毒 II
+Window of Opportunity I,好機の幅 I
+Window of Opportunity II,好機の幅 II
+Swift Affliction I,スウィフトアフリクション I
+Swift Affliction II,スウィフトアフリクション II
+Swift Affliction III,スウィフトアフリクション III
+Fusillade,一斉射撃
+Combo Finisher I,コンボフィニッシャー I
+Combo Finisher II,コンボフィニッシャー II
+Ailith's Chimes,エイリスの鐘
+Slow Potency,減速効能
+Longshot I,ロングショット I
+Longshot II,ロングショット II
+Culling Strike I,カリングストライク I
+Culling Strike II,カリングストライク II
+Daze,眩暈
+Break Posture,アーマー破壊時眩暈
+Cooldown Recovery I,クールダウン解消 I
+Cooldown Recovery II,クールダウン解消 II
+Precision I,プレシジョン I
+Precision II,プレシジョン II
+Freeze,凍結
+Energy Barrier,エナジーバリア
+Wildfire,発火伝染
+Frost Nexus,フロストネクサス
+Shock Conduction,感電伝染
+Shock Conduction II,感電伝染 II
+Magnified Area I,効果範囲拡大 I
+Magnified Area II,効果範囲拡大 II
+Concentrated Area,効果範囲集中
+Spell Echo,スペルエコー
+Expand,拡張
+Zarokh's Revolt,ザロクの反逆
+Ambush,アンブッシュ
+Biting Frost I,バイティングフロスト I
+Biting Frost II,バイティングフロスト II
+Withering Touch,ヒット時衰弱
+Hourglass,砂時計
+Fortress I,円形陣地 I
+Fortress II,円形陣地 II
+Ahn's Citadel,アーンの城塞
+Cold Penetration,冷気耐性貫通
+Cold Exposure,冷気の曝露
+Fiery Death,発火死亡時爆発
+Frozen Vortex,フローズンヴォーテックス
+Shock Siphon,感電エナジーシールド吸収
+Frostfire,フロストファイヤー
+Stormfire,ストームファイヤー
+Inexorable Critical I,クリティカル蓄積 I
+Inexorable Critical II,クリティカル蓄積 II
+Elemental Discharge,エレメンタルディチャージ
+Mana Flare,マナフレア
+Hex Bloom,呪術の華
+Mana Leech,マナリーチ
+Oisín's Oath,オシーンの誓い
+Elemental Focus,元素ダメージ集中
+Elemental Army,元素の軍勢
+Minion Instability,ミニオンインスタビリティ
+Deep Freeze,凍結持続
+Feeding Frenzy I,狂乱の餌付け I
+Feeding Frenzy II,狂乱の餌付け II
+Arcane Surge,アーケインサージ
+Heightened Curse,呪いブースト
+Corpse Conservation,死体温存
+Cold Attunement,コールドアチューンメント
+Rapid Casting I,キャストスピード増加 I
+Rapid Casting II,キャストスピード増加 II
+Rapid Casting III,キャストスピード増加 III
+Decaying Hex,腐敗の呪術
+Focused Curse,迅速な呪い
+Ritualistic Curse,儀式的呪い
+Minion Pact I,ミニオンパクト I
+Minion Pact II,ミニオンパクト II
+Last Gasp,死に際
+Tecrod's Revenge,テクロッドの復讐
+Controlled Destruction,破壊制御
+Impending Doom,インペンディングドゥーム
+Supercritical,スーパークリティカル
+Ice Bite I,アイスバイト I
+Ice Bite II,アイスバイト II
+Bhatair's Vengeance,バタイルの復讐
+Chaos Attunement,カオスアチューンメント
+Fire Mastery,火マスタリー
+Cold Mastery,冷気マスタリー
+Lightning Mastery,雷マスタリー
+Chaos Mastery,混沌マスタリー
+Physical Mastery,物理マスタリー
+Minion Mastery,ミニオンマスタリー
+Chaotic Freeze,混沌凍結
+Intense Agony,激痛
+Drain Ailments,状態異常吸収
+Hinder,阻害
+Spell Cascade,スペルカスケード
+Soulbreaker,ソウルブレーカー
+Cursed Ground,呪い領域
+Doedre's Undoing,ドゥードリの災厄
+Hayoxi's Fulmination,ハヨキの電撃
+Zerphi's Infamy,ゼルフィの悪名
+Helbrym's Hide,ヘルブリムの皮
+Clarity I,クラリティ I
+Clarity II,クラリティ II
+Raging Spirits,レイジングスピリット
+Red Mushroom,赤いキノコ
+Green Mushroom,緑のキノコ
+Blue Mushroom,青いキノコ
+Ancient Crisis Fragment,古代の危機のフラグメント
+Faded Crisis Fragment,色褪せた危機のフラグメント
+Weathered Crisis Fragment,風化した危機のフラグメント
+Primary Calamity Fragment,第一の災厄のフラグメント
+Secondary Calamity Fragment,第二の災厄のフラグメント
+Tertiary Calamity Fragment,第三の災厄のフラグメント
+Origin Cradle,起源の揺りかご
+Origin Spark,起源の火花
+Origin Core,起源のコア
+Tangled Torso,絡まった胴体
+Mossy Arm,苔むした腕
+Frayed Cloth,擦り切れた布
+Brittle Arm,脆い腕
+Ragged Cloth,ボロボロの布
+Call of the Shadows,影の呼び声
+Chimeral Inscribed Ultimatum,キメラのアルティメイタムの刻印
+Cowardly Fate,臆病者の運命
+Deadly Fate,致死の運命
+Victorious Fate,勝利の運命
+Twister,ツイスター
+Detonate Minion,デトネートミニオン
+Explosive Spear,エクスプローシブスピア
+Elemental Siphon,エレメンタルサイフォン
+Thunderous Leap,サンダラスリープ
+Wind Dancer,ウィンドダンサー
+Profane Ritual,プロファンリチュアル
+Soul Offering,ソウルオファリング
+Dark Effigy,ダークエフィジー
+Skeletal Warrior,スケルトンウォーリアー
+Uncut Spirit Gem,スピリットジェムの原石
+Grim Feast,グリムフィースト
+Cast on Minion Death,ミニオン死亡時キャスト
+Scavenged Plating,スカベンジドプレーティング
+Spinning Inferno,スピニングインフェルノ
+Mana Drain,マナドレイン
+Bone Blast,ボーンブラスト
+Blink,ブリンク
+Black Powder Blitz,ブラックパウダーブリッツ
+Molten Blast,モルテンブラスト
+Malice,マリス
+Hydra Familiar,ヒドラ使い魔
+Hammer of the Gods,ハンマーオブゴッド
+Living Bomb,リビングボム
+Untether,アンテザー
+Stampede,スタンピード
+Shield Wall,シールドウォール
+Fortifying Cry,フォティファイイングクライ
+Ember Fusillade,エンバーフシレイド
+His Scattering Calamity,ヒズスキャタリングカラミティ
+High Velocity Rounds,ハイベロシティー弾
+Fragmentation Rounds,フラグメンテーション弾
+Siege Cascade,シージカスケード
+Armour Piercing Rounds,アーマーピアシング弾
+Explosive Shot,エクスプローシブショット
+Incendiary Shot,インセンディアリーショット
+Rapid Shot,ラピッドショット
+Glacial Bolt,グレイシャルボルト
+Permafrost Bolts,パーマフロストボルト
+Hailstorm Rounds,ヘイルストーム弾
+Ice Shards,アイスシャード
+Plasma Blast,プラズマブラスト
+Galvanic Shards,ガルヴァニックシャード
+Stormblast Bolts,ストームブラストボルト
+Shockburst Rounds,ショックバースト弾
+Punch,パンチ
+Quarterstaff Strike,クォータースタッフストライク
+Flail Strike,フレイルストライク
+Sword Slash,ソードスラッシュ
+Axe Slash,アックススラッシュ
+Mace Strike,メイスストライク
+Claw Stab,クロースタブ
+Dagger Stab,ダガースタブ
+Spear Stab,スピアスタブ
+Spear Throw,スピアスロー
+Bow Shot,ボウショット
+Crossbow Shot,クロスボウショット
+Grenade,グレネード
+Playtest Attack,プレイテストアタック
+Playtest Slam,プレイテストスラム
+Playtest Spell,プレイテストスペル
+Shockchain Arrow,ショックチェインアロー
+Vaulting Impact,ヴォルティングインパクト
+Storm Wave,ストームウェーブ
+Mantra of Destruction,マントラオブデストラクション
+Life Remnants,ライフレムナント
+Explosive Concoction,エクスプローシブコンコクション
+Fulminating Concoction,フォーミネイティングコンコクション
+Shattering Concoction,シャッタリングコンコクション
+Acidic Concoction,アシッドコンコクション
+Bleeding Concoction,ブリーディングコンコクション
+Meditate,メディテート
+Elemental Storm,エレメンタルストーム
+Unbound Avatar,アンバウンドアバター
+Summon Infernal Hound,インファーナルハウンド召喚
+"Navira, the Last Mirage",最期の蜃気楼、ナヴィラ
+Navira's Fracturing,ナヴィラの破砕
+Navira's Well,ナヴィラの井戸
+"Ruzhan, the Blazing Sword",灼熱の剣、ルザン
+Ruzhan's Trap,ルザンの罠
+Ruzhan's Reckoning,ルザンの清算
+Ruzhan's Fury,ルザンの怒り
+"Kelari, the Tainted Sands",汚染された砂、ケラリ
+Kelari's Deception,ケラリの欺き
+Kelari's Judgment,ケラリの裁き
+Kelari's Malediction,ケラリの呪詛
+Align Fate,運命の調和
+Moment of Vulnerability,無防備の瞬間
+Time Freeze,タイムフリーズ
+Time Snap,タイムスナップ
+Encase in Jade,ヒスイの守り
+Sorcery Ward,ソーサリーワード
+Ritual Sacrifice,リチュアルサクリファイス
+Blood Boil,ブラッドボイル
+Vivid Stampede,ビビッドスタンピード
+Wild Protector,ワイルドプロテクター
+Hollow Form,ホロウフォーム
+Hollow Focus,ホロウフォーカス
+Hollow Resonance,ホロウレゾナンス
+Inevitable Agony,インエビタブルアゴニー
+Called Shots,コールショット
+Breach Tablet,ブリーチの石板
+Expedition Tablet,エクスペディションの石板
+Delirium Tablet,デリリウムの石板
+Ritual Tablet,リチュアルの石板
+Irradiated Tablet,照射の石板
+Overseer Tablet,監督者の石板
+Abyss Tablet,アビスの石板
+Temple Tablet,神殿の石板
+Elemental Expression,エレメンタルエクスプレッション
+Ice Shot,アイスショット
+War Banner,ウォーバナー
+Defiance Banner,ディファイアンスバナー
+Freezing Mark,凍結の呪印
+Voltaic Mark,電流の呪印
+Hand of Chayula,チャユラの手
+Temporal Rift,テンポラルリフト
+Demon Form,悪魔形態
+Time of Need,タイムオブニード
+Elemental Invocation,エレメンタルインボケーション
+Explosive Grenade,エクスプローシブグレネード
+Flash Grenade,フラッシュグレネード
+Oil Grenade,オイルグレネード
+Gas Grenade,ガスグレネード
+Voltaic Grenade,ヴォルタイークグレネード
+Attrition,アトリション
+Elemental Conflux,エレメンタルコンフラックス
+Into the Breach,ブリーチ侵入
+Ancestral Spirits,アンセストラルスピリット
+Emergency Reload,緊急リロード
+Font of Blood,血の泉
+Font of Mana,マナの泉
+Font of Rage,憤怒の泉
+Cluster Grenade,クラスターグレネード
+Dread Banner,ドレッドバナー
+Tornado Shot,トルネードショット
+Omen of Refreshment,補給のお告げ
+Omen of Resurgence,再生のお告げ
+Omen of Amelioration,改善のお告げ
+Omen of Whittling,削減のお告げ
+Omen of Sinistral Erasure,左側の抹消のお告げ
+Omen of Dextral Erasure,右側の抹消のお告げ
+Omen of Sinistral Alchemy,左側の錬金術のお告げ
+Omen of Dextral Alchemy,右側の錬金術のお告げ
+Omen of Sinistral Coronation,左側の王者のお告げ
+Omen of Dextral Coronation,右側の王者のお告げ
+Omen of Corruption,穢れのお告げ
+Omen of Greater Exaltation,偉大なる高貴なお告げ
+Omen of Sinistral Exaltation,左側の高貴なお告げ
+Omen of Dextral Exaltation,右側の高貴なお告げ
+Omen of Greater Annulment,偉大なる消去のお告げ
+Omen of Sinistral Annulment,左側の消去のお告げ
+Omen of Dextral Annulment,右側の消去のお告げ
+Omen of Answered Prayers,成就のお告げ
+Omen of Secret Compartments,秘密の区画のお告げ
+Omen of the Hunt,狩りのお告げ
+Omen of Reinforcements,増援のお告げ
+Omen of Homogenising Exaltation,均質化の高貴のお告げ
+Omen of Homogenising Coronation,均質化の王者のお告げ
+Omen of Gambling,ギャンブルのお告げ
+Omen of Bartering,取引のお告げ
+Omen of Recombination,リコンビネーションのお告げ
+Omen of the Blessed,祝福のお告げ
+Omen of Chaotic Rarity,カオスのレアリティのお告げ
+Omen of Chaotic Quantity,カオスの数量のお告げ
+Omen of Chaotic Monsters,カオスのモンスターのお告げ
+Omen of Chaotic Effectiveness,カオスのエフェクティブのお告げ
+Omen of Chance,可能性のお告げ
+Omen of the Ancients,古代のお告げ
+Omen of Sanctification,聖別のお告げ
+Omen of Dextral Crystallisation,右側の結晶化のお告げ
+Omen of Sinistral Crystallisation,左側の結晶化のお告げ
+Omen of Catalysing Exaltation,触媒の高貴のお告げ
+Omen of Abyssal Echoes,アビスの反響のお告げ
+Omen of the Sovereign,支配者のお告げ
+Omen of the Liege,君主のお告げ
+Omen of the Blackblooded,ブラックブラッドのお告げ
+Omen of Putrefaction,腐食のお告げ
+Omen of Light,光のお告げ
+Omen of Sinistral Necromancy,左手のネクロマンシーのお告げ
+Omen of Dextral Necromancy,右手のネクロマンシーのお告げ
+Charge Regulation,チャージレギュレーション
+Holy Descent,聖なる着地
+Burning Inscription,燃焼の刻印
+Shard Scavenger,シャードスカベンジャー
+Double Barrel I,ダブルバレル I
+Double Barrel II,ダブルバレル II
+Double Barrel III,ダブルバレル III
+Ratha's Assault,ラサの強襲
+Auto Reload,自動装填
+Ammo Conservation I,弾薬温存 I
+Ammo Conservation II,弾薬温存 II
+Ammo Conservation III,弾薬温存 III
+Arjun's Medal,アルジュンの勲章
+Nimble Reload,高速装填
+Fresh Clip I,新弾倉 I
+Fresh Clip II,新弾倉 II
+Sacrificial Lamb I,生贄の子羊 I
+Sacrificial Lamb II,生贄の子羊 II
+Overwhelming Presence,オーバーウェルミングプレゼンス
+Alchemist's Boon,錬金術師の恩恵
+Reaper's Invocation,リーパーズインボケーション
+Sacrifice,サクリファイス
+Archmage,アーチメイジ
+Magnetic Salvo,マグネティックサルヴォ
+Freezing Salvo,フリージングサルヴォ
+Berserk,バーサーク
+Herald of Plague,ヘラルドオブプレイグ
+Herald of Blood,ヘラルドオブブラッド
+Withering Presence,ウィザリングプレゼンス
+Ravenous Swarm,ラヴェナススウォーム
+Mirage Deadeye,ミラージュデッドアイ
+Mirage Archer,ミラージュアーチャー
+Combat Frenzy,コンバットフレンジー
+Cast on Block,ブロック時キャスト
+Curse on Block,ブロック時呪い
+Gathering Storm,ギャザリングストーム
+Branching Fissures I,枝分かれする亀裂 I
+Branching Fissures II,枝分かれする亀裂 II
+Upheaval I,隆起 I
+Upheaval II,隆起 II
+Kaom's Madness,カオムの狂気
+Lasting Ground,領域持続
+Ricochet I,跳弾 I
+Ricochet II,跳弾 II
+Ricochet III,跳弾 III
+Urgent Totems I,トーテム高速設置 I
+Urgent Totems II,トーテム高速設置 II
+Urgent Totems III,トーテム高速設置 III
+Long Fuse I,遅延起爆 I
+Long Fuse II,遅延起爆 II
+Payload,二重起爆
+Potent Exposure,曝露ブースト
+Reinforced Totems I,トーテム補強 I
+Reinforced Totems II,トーテム補強 II
+Considered Casting,熟考詠唱
+Wildshards I,ワイルドシャード I
+Wildshards II,ワイルドシャード II
+Sione's Temper,シオネの闘志
+Icicle,氷柱
+Glacier,氷塊
+Heft,重撃
+Rising Tempest,嵐の連鎖
+Extraction,ライフ抽出
+Astral Projection,アストラルプロジェクション
+Practiced Combo,手慣れたコンボ
+Leverage,レバレッジ
+Culmination I,究極の一撃 I
+Culmination II,究極の一撃 II
+Potential,ポテンシャル
+Expanse,効果範囲拡張
+Excise,精密攻撃
+Execrate,凶撃
+Energy Retention,エネルギー温存
+Ferocity,獰猛
+Sacrificial Offering,犠牲のオファリング
+Guatelitzi's Ablation,グアテリッツィの切除
+Danse Macabre,死の舞踏
+Energy Capacitor,エネルギーキャパシター
+Boundless Energy I,無尽蔵のエネルギー I
+Boundless Energy II,無尽蔵のエネルギー II
+Harmonic Remnants I,共鳴のレムナント I
+Harmonic Remnants II,共鳴のレムナント II
+Fluke,偶発トリガー
+Ixchel's Torment,イシュチェルの苦悩
+Zenith I,ゼニス I
+Zenith II,ゼニス II
+Bidding I,命令 I
+Bidding II,命令 II
+Bidding III,命令 III
+Flow,コンボ継続
+Adhesive Grenades I,粘着グレネード I
+Adhesive Grenades II,粘着グレネード II
+Adhesive Grenades III,粘着グレネード III
+Commandment,命令集中
+Retaliate I,報復 I
+Retaliate II,報復 II
+Tremors,余震追加
+Salvo,サルヴォ
+Cadence,ケイデンス
+Volt,ボルト
+Bone Shrapnel,ボーンシュラプネル
+Alignment I,方向一致 I
+Alignment II,方向一致 II
+Alignment III,方向一致 III
+Derange,知性代償
+Charged Shots I,チャージショット I
+Charged Shots II,チャージショット II
+Profanity I,死体冒涜 I
+Profanity II,死体冒涜 II
+Burgeon I,チャネリング蓄積 I
+Burgeon II,チャネリング蓄積 II
+Steadfast I,チャネリング中頑強 I
+Steadfast II,チャネリング中頑強 II
+Flamepierce,発火貫通
+Freezefork,凍結分岐
+Stormchain,感電連鎖
+Verglas,氷晶破壊
+Embitter,冷気獲得
+Battershout,破壊のウォークライ
+Nadir,下限
+Abiding Hex,持続する呪術
+Rusted Spikes,錆びた釘
+Crazed Minions,狂乱のミニオン
+Spectral Volley,スペクトラルボレー
+Rally,戦意高揚
+Hoarfrost,霜化
+Deathmarch,死の行進
+Acrimony,蝕み
+Concoct I,出血薬品 I
+Concoct II,出血薬品 II
+Ambrosia,電撃薬品 I
+Ambrosia II,電撃薬品 II
+Persistent Ground I,永続領域 I
+Persistent Ground II,永続領域 II
+Persistent Ground III,永続領域 III
+Selfless Remnants,献身のレムナント
+Remnant Potency I,レムナントブースト I
+Remnant Potency II,レムナントブースト II
+Remnant Potency III,レムナントブースト III
+Reverberate,余震増幅
+Clash,死闘
+Malady,毒血交換
+Dazzle,目眩まし
+Syzygy,天体直列
+Unyielding,不屈のライフ回収
+Desperation,必死の一撃
+Overextend,無理の代償
+Excoriate,追い打ち
+Unbending,不動の詠唱
+Retreat I,後退 I
+Retreat II,後退 II
+Retreat III,後退 III
+Pursuit I,追撃 I
+Pursuit II,追撃 II
+Pursuit III,追撃 III
+Overreach,範囲超過
+Commiserate,状態異常転嫁
+Blindside,死角攻撃
+Hit and Run,ヒットエンドラン
+Defy I,幸運の反抗 I
+Defy II,幸運の反抗 II
+Crackling Barrier,帯電障壁
+Volatility,ボラティリティ
+Muster,招集
+Hulking Minions,ミニオン巨大化
+Caltrops,マキビシ
+Haemocrystals,血の結晶
+Spar,スパーリング
+Dauntless,断固の一撃
+Magnetic Remnants,磁石のレムナント
+Ancestral Call I,アンセストラルコール I
+Ancestral Call II,アンセストラルコール II
+Ancestral Call III,アンセストラルコール III
+Quill Burst,クイルバースト
+Unsteady Tempo,アンステディテンポ
+Ancestral Aid,アンセストラルエイド
+Shocking Leap,感電ジャンプ
+Barbs I,棘による報復 I
+Barbs II,棘による報復 II
+Barbs III,棘による報復 III
+Rime,氷霜
+Arms Length,間合い保持
+Charm Bounty,チャームバウンティ
+Thornskin I,棘皮 I
+Thornskin II,棘皮 II
+Mysticism I,秘術の障壁 I
+Mysticism II,秘術の障壁 II
+Direstrike I,ダイアストライク I
+Direstrike II,ダイアストライク II
+Upwelling I,溢れる魔力の加護 I
+Upwelling II,溢れる魔力の加護 II
+Warm Blooded,温血
+Cool Headed,冷血
+Strong Hearted,強心
+Refraction I,屈折装甲 I
+Refraction II,屈折装甲 II
+Refraction III,屈折装甲 III
+Cirel's Cultivation,シレルの栽培
+Greatwood II,大樹 II
+Splinter Totem I,トーテム分裂 I
+Splinter Totem II,トーテム分裂 II
+Untouchable,アンタッチャブル
+Unabating,堅守
+Punch Through,正拳狙撃
+Rip,切り裂き
+Tear,追い裂き
+Brink I,スタン狙い I
+Brink II,スタン狙い II
+Tireless,持続のウォークライ
+Volcanic Eruption,ボルカニックエラプション
+First Blood,ファーストブラッド
+Frenzied Riposte,狂乱の切り返し
+Hobble,鈍足
+Heightened Charges,チャージブースト
+Incision,切開
+Catharsis,カタルシス
+Delayed Gratification,条件の報酬
+Loyalty,忠誠
+Romira's Requital,ロミラの報い
+Rearm I,再配置 I
+Rearm II,再配置 II
+Delayed Reaction,遅延反応
+Volatile Power,ボラタイルパワー
+Gambleshot,ギャンブルショット
+Unerring Power,精確な一撃
+Impale,串刺し
+Perfection,パーフェクション
+Deliberation,歩行狙撃
+See Red,激昂出血
+Short Fuse I,短縮起爆 I
+Short Fuse II,短縮起爆 II
+Undermine,重傷崩し
+Outmaneuver,崩し打ち
+Mark for Death,死の呪印
+Mark for Death II,死の呪印 II
+Tumult,狂乱の破壊
+Admixture,毒血連携
+Stoicism I,不動の覚悟 I
+Stoicism II,不動の覚悟 II
+Relentless Rage,憤怒温存
+Brambleslam,荊棘のスラム
+Inhibitor,チャージ消費抑制
+Static Shocks,スタティックショック
+Hardy Totems I,頑強なトーテム I
+Hardy Totems II,頑強なトーテム II
+Tawhoa's Tending,タウホアの加護
+Encroaching Ground,侵蝕する領域
+Whirlwind Lance,ワールウィンドランス
+Primal Strikes,プライマルストライク
+Cull The Weak,カルザウィーク
+Fangs of Frost,ファングオブフロスト
+Wind Serpent's Fury,ウィンドサーペントの怒り
+Rake,レーキ
+Bloodhound's Mark,ブラッドハウンドの呪印
+Tame Beast,テイムビースト
+Spear of Solaris,スピアオブソラリス
+Storm Lance,ストームランス
+Parry,パリィ
+Elemental Sundering,エレメンタルサンダーリング
+Companion: {0},コンパニオン：{0}
+Cast on Charm Use,チャーム使用時キャスト
+Trinity,トリニティ
+Rotten Satchel Charge,劣化した梱包爆薬
+Trail of Caltrops,トレイルオブカルトロップ
+Elemental Surge,エレメンタルサージ
+Chaotic Surge,カオティックサージ
+Thundergod's Wrath,雷神の怒り
+Fire Spell on Hit,ヒット時火スペル
+Manifest Weapon,マニフェストウェポン
+Supporting Fire,サポーティングファイヤー
+Temper Weapon,テンパーウェポン
+Void Illusion,ヴォイドイリュージョン
+Convalescence,コンヴァレッセンス
+Removed Skill,取り除かれたスキル
+Gemini Surge,ジェミニサージ
+Wing Blast,ウィングブラスト
+Bursting Fen Toad,バースティングフェントード
+Oil Barrage,オイルバラージ
+Iron Ward,アイアンワード
+Flame Breath,フレイムブレス
+Entangle,エンタングル
+Ice Fragments,アイスフラグメント
+Shred,シュレッド
+Fury of the Mountain,フューリーオブザマウンテン
+Cross Slash,クロススラッシュ
+Icestorm,アイスストーム
+Pinnacle of Power,ピナクルオブパワー
+Requiem,レクイエム
+Lunar Assault,ルナーアサルト
+Heart of Ice,ハートオブアイス
+Primal Avatar,プライマルアバター
+Devour,デバウアー
+Thrashing Vines,スラッシングヴァイン
+Lunar Blessing,ルナーブレッシング
+Arctic Howl,アークティックハウル
+Living Lightning,リビングライトニング
+Living Lightning II,リビングライトニング II
+Frozen Spite,フローズンスパイト
+Electromagnetism,エレクトロマグネティズム
+Dominus' Grasp,ドミナスの掌握
+Flame Pillar,火柱
+Streamlined Rounds,効率化弾薬
+Perfected Endurance,パーフェクトエンデュランス
+Enduring Impact I,断固の一撃 I
+Enduring Impact II,断固の一撃 II
+Crater,クレーター
+Vanguard I,ヴァンガード I
+Vanguard II,ヴァンガード II
+Crystalline Shards,結晶の破片
+Skittering Stone I,這いまわる石 I
+Skittering Stone II,這いまわる石 II
+Dialla's Desire,ディアーラの欲望
+Kalisa's Crescendo,カリサのクレッシェンド
+Durability,耐久性
+Xoph's Pyre,ゾフの火葬
+Esh's Radiance,エシュの輝き
+Tul's Stillness,トゥルの静寂
+Uul-Netol's Embrace,ウール・ネトルの抱擁
+Rakiata's Flow,ラキアタの流れ
+Rigwald's Ferocity,リグワルドの獰猛
+Uhtred's Exodus,ウートレドの大移動
+Uhtred's Omen,ウートレドの前兆
+Uhtred's Augury,ウートレドの予兆
+Daresso's Passion,ダレッソの熱情
+Atziri's Allure,アッツィリの魅惑
+Atziri's Call,アッツィリの呼び声
+Atziri's Communion,アッツィリの交感
+Atziri's Impatience,アッツィリの短気
+Tacati's Ire,タカティの怒り
+Zarokh's Refrain,ザロクの反復
+Garukhan's Resolve,ガルカーンの決意
+Kurgal's Leash,クルガルの鎖
+Kulemak's Dominion,クーラマクの支配
+Amanamu's Tithe,アマナムの十分の一税
+Varashta's Blessing,ヴァラシュタの祝福
+Arbiter's Ignition,アービターの着火
+Arakaali's Lust,アラカーリの肉欲
+Dreamer's Knell,夢見人の弔鐘
+Tasalio's Rhythm,タサリオのリズム
+Xibaqua's Rending,シバクアの引き裂き
+Khatal's Rejuvenation,カタルの活力
+Morgana's Tempest,モルガナのテンペスト
+Her Declaration,彼女の宣言
+Prototype Seventeen,プロトタイプ17号
+Seraph's Heart,セラフの心臓
+Uhtred's Rite,ウートレドの儀式
+Trickster's Shard,トリックスターの破片
+Arbiter's Reach,アービターの射程
+Tangmazu's Thurible,タングマズの香炉
+Esh's Prowess,エシュの武勇
+Breachlord's Rift,ブリーチロードの亀裂
+Breachlord's Amalgam,ブリーチロードの融合体
+Vruun's Aftermath,ヴルーンの余波
+Vruun's Inevitability,ヴルーンの必然
+Uhtred's Constellation,ウートレドの星座
+Medved's Felling,メドヴェッドの伐採
+Vorana's Siege,ヴォラナの包囲
+Styrn's Mountain,スターンの山
+Styrn's Ferocity,スターンの獰猛さ
+Styrn's Anthem,スターンの賛歌
+Catha's Brilliance,キャサの輝き
+Mórrigan's Insight,モリガンの洞察
+Tul's Avalanche,トゥルの雪崩
+Forge Hammer,フォージハンマー
+Mortar Cannon,モルタルキャノン
+Brother's Gift,兄弟からの贈り物
+Gnawed Jawbone,噛み切られた顎骨
+Preserved Jawbone,保存された顎骨
+Ancient Jawbone,古代の顎骨
+Gnawed Rib,噛み切られた肋骨
+Preserved Rib,保存された肋骨
+Ancient Rib,古代の肋骨
+Gnawed Collarbone,噛み切られた鎖骨
+Preserved Collarbone,保存された鎖骨
+Ancient Collarbone,古代の鎖骨
+Preserved Cranium,保存された頭蓋骨
+Preserved Vertebrae,保存された背骨
+Altered Collarbone,変質した鎖骨
+Fulmination,フルミネーション
+Ancestral Cry,アンセストラルクライ
+Primal Bounty,プライマルバウンティ
+Feast of Flesh,フィーストオブフレッシュ
+Toxic Domain,トキシックドメイン
+Navira's Oasis,ナヴィラのオアシス
+Spellslinger,スペルスリンガー
+Ice-Tipped Arrows,アイスティップアロー
+Valako's Charge,ヴァラコチャージ
+Crackling Palm,クラックリングパーム
+Future-Past,時の交差
+Runic Tempering,ルーニックテンパリング
+Uncut Skill Gem (Level 2),スキルジェムの原石 (レベル2)
+Uncut Skill Gem (Level 3),スキルジェムの原石 (レベル3)
+Uncut Skill Gem (Level 4),スキルジェムの原石 (レベル4)
+Uncut Skill Gem (Level 5),スキルジェムの原石 (レベル5)
+Uncut Skill Gem (Level 6),スキルジェムの原石 (レベル6)
+Uncut Skill Gem (Level 7),スキルジェムの原石 (レベル7)
+Uncut Skill Gem (Level 8),スキルジェムの原石 (レベル8)
+Uncut Skill Gem (Level 9),スキルジェムの原石 (レベル9)
+Uncut Skill Gem (Level 10),スキルジェムの原石 (レベル10)
+Uncut Skill Gem (Level 11),スキルジェムの原石 (レベル11)
+Uncut Skill Gem (Level 12),スキルジェムの原石 (レベル12)
+Uncut Skill Gem (Level 13),スキルジェムの原石 (レベル13)
+Uncut Skill Gem (Level 14),スキルジェムの原石 (レベル14)
+Uncut Skill Gem (Level 15),スキルジェムの原石 (レベル15)
+Uncut Skill Gem (Level 16),スキルジェムの原石 (レベル16)
+Uncut Skill Gem (Level 17),スキルジェムの原石 (レベル17)
+Uncut Skill Gem (Level 18),スキルジェムの原石 (レベル18)
+Uncut Skill Gem (Level 19),スキルジェムの原石 (レベル19)
+Uncut Skill Gem (Level 20),スキルジェムの原石 (レベル20)
+Uncut Support Gem (Level 1),サポートジェムの原石 (レベル1)
+Uncut Support Gem (Level 2),サポートジェムの原石 (レベル2)
+Uncut Support Gem (Level 3),サポートジェムの原石 (レベル3)
+Uncut Support Gem (Level 4),サポートジェムの原石 (レベル4)
+Uncut Support Gem (Level 5),サポートジェムの原石 (レベル5)
+Uncut Spirit Gem (Level 4),スピリットジェムの原石 (レベル4)
+Uncut Spirit Gem (Level 5),スピリットジェムの原石 (レベル5)
+Uncut Spirit Gem (Level 6),スピリットジェムの原石 (レベル6)
+Uncut Spirit Gem (Level 7),スピリットジェムの原石 (レベル7)
+Uncut Spirit Gem (Level 8),スピリットジェムの原石 (レベル8)
+Uncut Spirit Gem (Level 9),スピリットジェムの原石 (レベル9)
+Uncut Spirit Gem (Level 10),スピリットジェムの原石 (レベル10)
+Uncut Spirit Gem (Level 11),スピリットジェムの原石 (レベル11)
+Uncut Spirit Gem (Level 12),スピリットジェムの原石 (レベル12)
+Uncut Spirit Gem (Level 13),スピリットジェムの原石 (レベル13)
+Uncut Spirit Gem (Level 14),スピリットジェムの原石 (レベル14)
+Uncut Spirit Gem (Level 15),スピリットジェムの原石 (レベル15)
+Uncut Spirit Gem (Level 16),スピリットジェムの原石 (レベル16)
+Uncut Spirit Gem (Level 17),スピリットジェムの原石 (レベル17)
+Uncut Spirit Gem (Level 18),スピリットジェムの原石 (レベル18)
+Uncut Spirit Gem (Level 19),スピリットジェムの原石 (レベル19)
+Uncut Spirit Gem (Level 20),スピリットジェムの原石 (レベル20)
+Thaumaturgic Flux (Level 1),ソーマタージ・フラックス (レベル1)
+Thaumaturgic Flux (Level 2),ソーマタージ・フラックス (レベル2)
+Thaumaturgic Flux (Level 3),ソーマタージ・フラックス (レベル3)
+Thaumaturgic Flux (Level 4),ソーマタージ・フラックス (レベル4)
+Thaumaturgic Flux (Level 5),ソーマタージ・フラックス (レベル5)
+Thaumaturgic Flux (Level 6),ソーマタージ・フラックス (レベル6)
+Thaumaturgic Flux (Level 7),ソーマタージ・フラックス (レベル7)
+Thaumaturgic Flux (Level 8),ソーマタージ・フラックス (レベル8)
+Thaumaturgic Flux (Level 9),ソーマタージ・フラックス (レベル9)
+Thaumaturgic Flux (Level 10),ソーマタージ・フラックス (レベル10)
+Thaumaturgic Flux (Level 11),ソーマタージ・フラックス (レベル11)
+Thaumaturgic Flux (Level 12),ソーマタージ・フラックス (レベル12)
+Thaumaturgic Flux (Level 13),ソーマタージ・フラックス (レベル13)
+Thaumaturgic Flux (Level 14),ソーマタージ・フラックス (レベル14)
+Thaumaturgic Flux (Level 15),ソーマタージ・フラックス (レベル15)
+Thaumaturgic Flux (Level 16),ソーマタージ・フラックス (レベル16)
+Thaumaturgic Flux (Level 17),ソーマタージ・フラックス (レベル17)
+Thaumaturgic Flux (Level 18),ソーマタージ・フラックス (レベル18)
+Thaumaturgic Flux (Level 19),ソーマタージ・フラックス (レベル19)
+Thaumaturgic Flux (Level 20),ソーマタージ・フラックス (レベル20)
+His Winnowing Flame,ヒズウィノーイングフレイム
+His Foul Emergence,ヒズフォウルエマージェンス
+Siphon Elements,サイフォンエレメント
+Frost Darts,フロストダーツ
+Elemental Weakness,エレメンタルウィークネス
+His Grave Command,ヒズグレーブコマンド
+Soul Crystal: {0},ソウルクリスタル: {0}
+Warden's Ledger,看守の帳簿
+Molten One's Gift,モルテンワンの贈り物
+Makoru's Logbook,マコルのログブック
+Vorana's Logbook,ヴォラナのログブック
+Uhtred's Logbook,ウートレドのログブック
+Olroth's Logbook,オルロスのログブック
+Journey to the East,東方への旅
+Depleted Mana Rune,枯渇したマナルーン
+Infused Mana Rune,充填されたマナルーン
+Abyssal Apparition,アビサルアパリション
+Creeping Chill,クリーピングチル
+Briarpatch,ブライアパッチ
+Eternal Rage,エターナルレイジ
+Savage Fury,サベージフューリー
+Walking Calamity,ウォーキングカラミティ
+The Stars Answer,スターアンサー
+Guarding Arm,守護の腕
+Combat Arm,戦闘の腕
+Caster Arm,キャスターの腕
+Decrepifying Arm,衰弱の腕
+Deflective Arm,偏向の腕
+Commanding Arm,号令の腕
+Evasive Leg,回避の脚
+Sprinters Leg,疾走の脚
+Sturdy Leg,頑丈な脚
+Surefooted Leg,堅脚の脚
+Calm Leg,冷静の脚
+Restorative Leg,回復の脚
+Apocalypse,アポカリプス
+Mark of Siphoning,吸収の呪印
+Mark of Siphoning II,吸収の呪印 II
+Thrill of the Kill,スリルオブキル
+Thrill of the Kill II,スリルオブキル II
+Exposing Cry,曝露のクライ
+Opening Move,先制の一手
+Accelerated Growth,成長の加速
+Accelerated Growth II,成長の加速 II
+Fan The Flames,ファンザフレイム
+Fan The Flames II,ファンザフレイム II
+Coursing Current,雷の奔流
+Mirror of Refraction,屈折の鏡
+Barkskin,バークスキン
+Feral Invocation,フェラルインヴォケーション
+Poison Spores,毒胞子
+Deadly Resolve,決死の覚悟
+Advancing Storm,進行する嵐
+Echoing Cry,反響のクライ
+Gorge,貪食
+Empowered Sparks I,強化のスパーク I
+Empowered Sparks II,強化のスパーク II
+Controlled Hazard,ハザード制御
+Brittle Armour,脆弱なアーマー
+Rending Apex,裂傷の頂点
+Practical Magic I,実践的魔術 I
+Practical Magic II,実践的魔術 II
+Blazing Critical,灼熱のクリティカル
+Concussive Spells,衝撃のスペル
+Eternal Mark,呪印永続化
+Catalysing Elements,カタライジングエレメンツ
+Nova Projectiles II,ノヴァの投射物 II
+Charged Mark,電荷の呪印
+Minion Splash I,ミニオンスプラッシュ I
+Minion Splash II,ミニオンスプラッシュ II
+Archon of Chayula,アルコンオブチャユラ
+Wildwood's Gifts,ワイルドウッドギフト
+The Head of Vruun,ブルーンの首
+Righteous Descent,ライチャスデセント
+Starborn Onslaught,スターボーンオンスロート
+Azmerian Swarms,アズメリスウォーム
+DNT MistRavenCompanionSwoop,DNT-UNUSED MistRavenCompanionSwoop
+Harbinger of Madness,ハービンジャーオブマッドネス
+Red Packet,レッドパケット
+DNT Box Scour,DNT-UNUSED Box Scour
+Soaring Midnight,ソアリングミッドナイト
+Spirit Vessel,スピリットヴェセル
+Verisium,ヴェリシウム
+Exceptional Verisium,希少なヴェリシウム
+Mutated Verisium,変異したヴェリシウム
+Corrupted Verisium,コラプト化したヴェリシウム
+Founders Verisium,創設者のヴェリシウム
+Medved's Crest of the Circle,メドヴェッドの円環の紋章
+Vorana's Crest of the Scythe,ヴォラナの黒鎌の紋章
+Uhtred's Crest of the Chalice,ウートレドの聖杯の紋章
+Olroth's Crest of the Sun,オルロスの太陽の紋章
+Runic Alloy,ルーンの合金
+Adaptive Alloy,適応の合金
+Protective Alloy,保護の合金
+Expansive Alloy,拡張の合金
+Swift Alloy,迅速の合金
+Cyclonic Alloy,旋風の合金
+Prismatic Alloy,プリズム合金
+Mystic Alloy,神秘の合金
+Sovereign Alloy,王権の合金
+Celestial Alloy,天体の合金
+Transcendent Alloy,超越の合金
+The Runebinder's Alloy,ルーンバインダーの合金
+The Runefather's Alloy,ルーンファーザーの合金
+Venerable Starlit Ore,由緒ある星明りの鉱石
+Revered Starlit Ore,崇敬される星明りの鉱石
+Veridical Starlit Ore,真実の星明りの鉱石
+Warding Starlit Ore,防護の星明りの鉱石
+Starlit Ore,星明りの鉱石
+Blazing Flux,火炎フラックス
+Chilling Flux,冷却フラックス
+Crackling Flux,雷撃フラックス
+Void Flux,虚無フラックス
+Liquid Verisium,リキッドヴェリシウム
+Lesser Ward Rune,レッサーワードルーン
+Ward Rune,ワードルーン
+Greater Ward Rune,グレーターワードルーン
+Perfect Ward Rune,パーフェクトワードルーン
+Lesser Charging Rune,レッサーチャージルーン
+Charging Rune,チャージルーン
+Greater Charging Rune,グレーターチャージルーン
+Perfect Charging Rune,パーフェクトチャージルーン
+Warding Rune of Reinforcement,補強のワードルーン
+Warding Rune of Protection,保護のワードルーン
+Warding Rune of Disintegration,分解のワードルーン
+Warding Rune of Desperation,窮地のワードルーン
+Warding Rune of Symbiosis,共生のワードルーン
+Warding Rune of Courage,勇気のワードルーン
+Warding Rune of Stability,安定のワードルーン
+Warding Rune of Glancing,浅い傷のワードルーン
+Warding Rune of Heart,心臓のワードルーン
+Warding Rune of Nourishment,滋養のワードルーン
+Warding Rune of Annihilation,殲滅のワードルーン
+Warding Rune of Armature,骨組みのワードルーン
+Warding Rune of Obsession,執着のワードルーン
+Warding Rune of Equinox,分点のワードルーン
+Warding Rune of Salvaging,回収のワードルーン
+Warding Rune of Bodyguards,護衛のワードルーン
+Warding Rune of Hollowing,空洞のワードルーン
+Passion of Aldur,アルダーの情熱
+Breath of Aldur,アルダーの息吹
+Ire of Aldur,アルダーの怒り
+Betrayal of Aldur,アルダーの裏切り
+Ancient Rune of Splinters,破片の古代ルーン
+Ancient Rune of Dueling,決闘の古代ルーン
+Ancient Rune of the Titan,タイタンの古代ルーン
+Ancient Rune of Shattering,破砕の古代ルーン
+Ancient Rune of Prowess,武勇の古代ルーン
+Ancient Rune of Control,制御の古代ルーン
+Ancient Rune of Discovery,発見の古代ルーン
+Ancient Rune of Decay,腐敗の古代ルーン
+Ancient Rune of Witchcraft,妖術の古代ルーン
+Ancient Rune of the Horde,大群の古代ルーン
+Ancient Rune of Animosity,敵意の古代ルーン
+Ancient Rune of Detonation,起爆の古代ルーン
+Ancient Rune of Retaliation,報復の古代ルーン
+Rune of Vitality,生命力のルーン
+Rune of the Hunt,狩猟のルーン
+Rune of Acrobatics,軽業のルーン
+Rune of Culmination,集大成のルーン
+Rune of Renown,名声のルーン
+Rune of Accumulation,蓄積のルーン
+Rune of Foundations,基礎のルーン
+Rune of the Prism,プリズムのルーン
+Rune of the Blossom,開花のルーン
+Rune of Consistency,一貫性のルーン
+Rune of Reach,射程のルーン
+Rune of Vital Flame,生命の炎のルーン
+Rune of Confrontation,対峙のルーン
+DNT-Unused Rune of Wild Ferocity,野生の獰猛さのルーン
+DNT-Unused Rune of Partnership,連携のルーン
+DNT-Unused Rune of Reverberation,反響のルーン
+DNT-Unused Rune of Vital Flame,生命の炎のルーン
+DNT-Unused Rune of Confrontation,対峙のルーン
+DNT-Unused Rune of Chance,偶然のルーン
+DNT-Unused Rune of Confidence,自信のルーン
+DNT-Unused Rune of Duplication,複製のルーン
+Perfect Flux,パーフェクトフラックス
+Serle's Triumph,セールの凱旋
+Cadigan's Epiphany,カディガンの啓示
+Astrid's Creativity,アストリッドの創造性
+Uhtred's Sidereus,ウートレドの星読み
+Kolr's Hunt,コルの狩り
+Vorana's Carnage,ヴォラナの虐殺
+Thrud's Might,スルードの力
+Medved's Tending,メドヴェッドの世話
+Katla's Gloom,カトラの陰鬱
+Aldur's Legacy,アルダーの遺産
+Legacy of Bramblejack,ブランブルジャックの遺産
+Legacy of Blackbraid,黒い組紐の遺産
+Legacy of Edyrn's Tusks,エディルンの牙の遺産
+Legacy of Kingsguard,キングスガードの遺産
+Legacy of Bristleboar,毛深い猪の遺産
+Legacy of Foxshade,フォックスシェードの遺産
+Legacy of Ashrend,アッシュレンドの遺産
+Legacy of Briskwrap,ブリスクラップのルーン
+Legacy of The Unleashed,解き放たれし者の遺産
+Legacy of Horns of Bynden,ビンデンの角笛の遺産
+Legacy of Wings of Caelyn,ケイリンの翼の遺産
+Legacy of Ezomyte Peak,エゾマイトピークの遺産
+Legacy of Deidbell,ディードベルの遺産
+Legacy of Elevore,エレボアーの遺産
+Legacy of Starkonja's Head,スターコンジャの頭の遺産
+Legacy of Crown of Thorns,茨の冠の遺産
+Legacy of Greymake,グレイメイクの遺産
+Legacy of Erian's Cobble,エリアンの玉石の遺産
+Legacy of The Smiling Knight,微笑む騎士の遺産
+Legacy of The Vile Knight,卑劣な騎士の遺産
+Legacy of Northpaw,北の脚の遺産
+Legacy of Candlemaker,キャンドルメーカーの遺産
+Legacy of Deathblow,デスブローの遺産
+Legacy of Legionstride,リージョンストライドの遺産
+Legacy of Trampletoe,踏みつぶす爪先の遺産
+Legacy of Briarpatch,ブライアパッチの遺産
+Legacy of Bushwhack,ブッシュワックの遺産
+Legacy of Wanderlust,ワンダーラストの遺産
+Legacy of The Knight-errant,放浪騎士の遺産
+Legacy of Obern's Bastion,オバーンの砦の遺産
+Legacy of Dionadair,ディオナデアの遺産
+Legacy of Wulfsbane,ウルフスベインの遺産
+Legacy of Chernobog's Pillar,チェルノボグの柱の遺産
+Legacy of Alkem Eira,アルケム・エイラの遺産
+Legacy of Oaksworn,楢の誓いの遺産
+Legacy of Dunkelhalt,ダンケルハルトの遺産
+Legacy of Rondel de Ezo,ロンデル・デ・エゾの遺産
+Legacy of Brynhand's Mark,ブリンハンドの印の遺産
+Legacy of Trenchtimbre,トレンチティンバーの遺産
+Legacy of Mjölner,ミョルナーの遺産
+Legacy of Twisted Empyrean,歪んだ天空の遺産
+Legacy of Hoghunt,豚狩りの遺産
+Legacy of Hrimnor's Hymn,フリムノーの聖歌の遺産
+Legacy of Brain Rattler,脳揺らしの遺産
+Legacy of Lifesprig,ライフスプリグの遺産
+Legacy of Duality,二面性の遺産
+Legacy of Tyranny's Grip,圧政の手の遺産
+Legacy of The Sentry,哨兵の遺産
+Legacy of Adonia's Ego,アドニアのエゴの遺産
+Legacy of Cursecarver,呪い刻みの遺産
+Legacy of Dusk Vigil,夕闇の番の遺産
+Legacy of The Blood Thorn,血の棘の遺産
+Legacy of Quill Rain,針の雨の遺産
+Legacy of Ironbound,アイアンバウンドの遺産
+Legacy of Amor Mandragora,マンドラゴラの愛の遺産
+Legacy of Spiteful Floret,悪意の小花の遺産
+Legacy of Svalinn,スヴァリンの遺産
+Legacy of Keeper of the Arc,アークの守り手の遺産
+Legacy of Olrovasara,オルロヴァサラの遺産
+Legacy of A Worthy Foe,ふさわしい相手の遺産
+Legacy of Serle's Grit,サールの根性の遺産
+Legacy of Runeseeker's Call,ルーンシーカーの呼び声の遺産
+Legacy of Facebreaker,フェースブレーカーの遺産
+Olroth's Boon,オルロスの恩恵
+Vorana's Boon,ヴォラナの恩恵
+Uhtred's Boon,ウートレドの恩恵
+Medved's Boon,メドヴェッドの恩恵
+Midnight Zenith,ミッドナイトゼニス
+Kinetic Bash,キネティックバッシュ
+Lavish Wombgift,豪華な母胎ギフト
+Ornate Wombgift,装飾の母胎ギフト
+Banded Wombgift,帯飾りの母胎ギフト
+Signet Wombgift,印章の母胎ギフト
+Revelatory Wombgift,啓示の母胎ギフト
+Verisium Sentry,ヴェリシウムセントリー
+Concussive Runes,コンカッシブルーン
+Leylines,レイライン
+Frostflame Nova,フロストフレイムノヴァ
+Hollow Shell,ホロウシェル
+Molten Shower,モルテンシャワー
+Runic Infusion,ルーニックインフュージョン
+Olroth's Hubris,オルロスの驕り
+Runeforged Blades,ルーンフォージブレード
+Powered by Verisium,パワードバイヴェリシウム
+Refutation,リフュテーション
+Repulsion,リパルジョン
+Triskelion Cascade,トリスケリオン・カスケード
+Gelid Palm,ジェリッドパーム
+Skyfall,スカイフォール
+Detonate Living,デトネートリビング
+Animus Exchange,アニムスエクスチェンジ
+Bitter Dead,ビターデッド
+Eternal March,エターナルマーチ
+Grim Pillars,グリムピラー
+Verisium Manifestations,ヴェリシウムマニフェステーション
+Remnants of Kalguur,レムナントオブカルグール
+Runic Extraction,ルーンの抽出
+Wardbound Minions,ワードバウンドミニオン
+Fragments Of The Past,フラグメントオブパスト
+Conductive Runes,コンダクティブルーン
+Herald of the Royal Queen,ヘラルドオブロイヤルクイーン
+Animus Splinters,アニムススプリンター
+Scouring Flame,スカリングフレイム
+Runemastered Rusted Cuirass,ルーンマスターの錆びた胴鎧
+Runemastered Iron Cuirass,ルーンマスターの鉄の胴鎧
+Runemastered Raider Plate,ルーンマスターの襲撃者のプレート
+Runemastered Maraketh Cuirass,ルーンマスターのマラケスの胴鎧
+Runemastered Steel Plate,ルーンマスターの鋼鉄のプレート
+Runemastered Full Plate,ルーンマスターのフルプレート
+Runemastered Vaal Cuirass,ルーンマスターのヴァールの胴鎧
+Runemastered Leather Vest,ルーンマスターの革のベスト
+Runemastered Quilted Vest,ルーンマスターのキルティングベスト
+Runemastered Pathfinder Coat,ルーンマスターの開拓者のコート
+Runemastered Shrouded Vest,ルーンマスターの覆い布のベスト
+Runemastered Rhoahide Coat,ルーンマスターのロア革のコート
+Runemastered Studded Vest,ルーンマスターの鋲打ちのベスト
+Runemastered Scout's Vest,ルーンマスターの偵察者のベスト
+Runemastered Serpentscale Coat,ルーンマスターのサーペントスケイルコート
+Runemastered Smuggler Coat,ルーンマスターの密輸業者のコート
+Runemastered Strider Vest,ルーンマスターのストライダーベスト
+Runemastered Exquisite Vest,ルーンマスターの精巧なベスト
+Runemastered Armoured Vest,ルーンマスターの装甲ベスト
+Runemastered Tattered Robe,ルーンマスターの擦り切れたローブ
+Runemastered Feathered Robe,ルーンマスターの羽根飾りのローブ
+Runemastered Hexer's Robe,ルーンマスターの呪術師のローブ
+Runemastered Bone Raiment,ルーンマスターの骨の装束
+Runemastered Silk Robe,ルーンマスターの絹のローブ
+Runemastered Keth Raiment,ルーンマスターのケスの装束
+Runemastered Votive Raiment,ルーンマスターの奉献の装束
+Runemastered Altar Robe,ルーンマスターの祭壇のローブ
+Runemastered Elementalist Robe,ルーンマスターのエレメンタリストのローブ
+Runemastered Plated Raiment,ルーンマスターの装甲の装束
+Runemastered Havoc Raiment,ルーンマスターの破壊の装束
+Runemastered Enlightened Robe,ルーンマスターの覚者のローブ
+Runemastered Chain Mail,ルーンマスターのチェインメイル
+Runemastered Rogue Armour,ルーンマスターの盗賊の鎧
+Runemastered Vagabond Armour,ルーンマスターの放浪者の鎧
+Runemastered Cloaked Mail,ルーンマスターのクロークメイル
+Runemastered Explorer Armour,ルーンマスターの探検家の鎧
+Runemastered Scale Mail,ルーンマスターのスケイルメイル
+Runemastered Knight Armour,ルーンマスターの騎士の鎧
+Runemastered Ancestral Mail,ルーンマスターの先祖のメイル
+Runemastered Heroic Armour,ルーンマスターの英雄の鎧
+Runemastered Pilgrim Vestments,ルーンマスターの巡礼者の祭服
+Runemastered Mail Vestments,ルーンマスターの鎖帷子の祭服
+Runemastered Shaman Mantle,ルーンマスターのシャーマンの外套
+Runemastered Ironclad Vestments,ルーンマスターの甲鉄の祭服
+Runemastered Sacrificial Mantle,ルーンマスターの生贄の外套
+Runemastered Cleric Vestments,ルーンマスターの聖職者の祭服
+Runemastered Tideseer Mantle,ルーンマスターの潮読みの外套
+Runemastered Gilded Vestments,ルーンマスターの金装の祭服
+Runemastered Revered Vestments,ルーンマスターの畏敬の祭服
+Runemastered Corvus Mantle,ルーンマスターの鴉の外套
+Runemastered Ornate Ringmail,ルーンマスターの豪華なリングメイル
+Runemastered Ancient Mail,ルーンマスターの古代のメイル
+Runemastered Hermit Garb,ルーンマスターの隠者の衣
+Runemastered Waxed Jacket,ルーンマスターのワックスジャケット
+Runemastered Marabout Garb,ルーンマスターのマラブーの服
+Runemastered Wayfarer Jacket,ルーンマスターの旅人のジャケット
+Runemastered Anchorite Garb,ルーンマスターの隠修士の衣
+Runemastered Scalper's Jacket,ルーンマスターの転売屋のジャケット
+Runemastered Assassin Garb,ルーンマスターの暗殺者の服
+Runemastered Garment,ルーンマスターのガーメント
+Runemastered Grand Regalia,ルーンマスターの荘厳なレガリア
+Runemastered Sacrificial Regalia,ルーンマスターの生贄のレガリア
+Runemastered Rusted Greathelm,ルーンマスターの錆びたグレートヘルム
+Runemastered Soldier Greathelm,ルーンマスターの兵士のグレートヘルム
+Runemastered Wrapped Greathelm,ルーンマスターの巻き布のグレートヘルム
+Runemastered Spired Greathelm,ルーンマスターの尖塔のグレートヘルム
+Runemastered Elite Greathelm,ルーンマスターの精鋭のグレートヘルム
+Runemastered Warrior Greathelm,ルーンマスターの戦士のグレートヘルム
+Runemastered Fierce Greathelm,ルーンマスターの獰猛なグレートヘルム
+Runemastered Shabby Hood,ルーンマスターの擦り切れたフード
+Runemastered Felt Cap,ルーンマスターのフェルトの帽子
+Runemastered Hunter Hood,ルーンマスターの狩人のフード
+Runemastered Viper Cap,ルーンマスターの毒蛇の帽子
+Runemastered Corsair Cap,ルーンマスターのコルセアの帽子
+Runemastered Leatherbound Hood,ルーンマスターの皮張りのフード
+Runemastered Velvet Cap,ルーンマスターのベルベットの帽子
+Runemastered Covert Hood,ルーンマスターの隠密のフード
+Runemastered Armoured Cap,ルーンマスターの装甲帽子
+Runemastered Twig Circlet,ルーンマスターの小枝のサークレット
+Runemastered Wicker Tiara,ルーンマスターの枝編みのティアラ
+Runemastered Beaded Circlet,ルーンマスターのビーズのサークレット
+Runemastered Chain Tiara,ルーンマスターの鎖のティアラ
+Runemastered Feathered Tiara,ルーンマスターの羽根付きのティアラ
+Runemastered Gold Circlet,ルーンマスターの金のサークレット
+Runemastered Vermeil Circlet,ルーンマスターのヴァーミルサークレット
+Runemastered Jade Tiara,ルーンマスターの翡翠のティアラ
+Runemastered Twilight Tiara,ルーンマスターの黄昏のティアラ
+Runemastered Magus Tiara,ルーンマスターの魔導士のティアラ
+Runemastered Brimmed Helm,ルーンマスターのつば付き兜
+Runemastered Guarded Helm,ルーンマスターの防護兜
+Runemastered Visored Helm,ルーンマスターのバイザー付き兜
+Runemastered Cowled Helm,ルーンマスターの頭巾付き兜
+Runemastered Shielded Helm,ルーンマスターの盾付き兜
+Runemastered Decorated Helm,ルーンマスターの装飾兜
+Runemastered Ancient Visor,ルーンマスターの古代のバイザー
+Runemastered Iron Crown,ルーンマスターの鉄の冠
+Runemastered Horned Crown,ルーンマスターの角の冠
+Runemastered Cultist Crown,ルーンマスターのカルト信者の冠
+Runemastered Martyr Crown,ルーンマスターの殉教者の冠
+Runemastered Heavy Crown,ルーンマスターの重装の冠
+Runemastered Spiritbone Crown,ルーンマスターのスピリットボーンの冠
+Runemastered Grand Visage,ルーンマスターの大いなる顔飾り
+Runemastered Tenebrous Crown,ルーンマスターの暗影の冠
+Runemastered Hewn Mask,ルーンマスターの粗削りの仮面
+Runemastered Face Mask,ルーンマスターのフェースマスク
+Runemastered Hooded Mask,ルーンマスターのフード付きの仮面
+Runemastered Veiled Mask,ルーンマスターのベール付きの仮面
+Runemastered Tribal Mask,ルーンマスターの部族の仮面
+Runemastered Solid Mask,ルーンマスターの頑丈な仮面
+Runemastered Death Mask,ルーンマスターのデスマスク
+Runemastered Stocky Mitts,ルーンマスターのがっしりとしたミット
+Runemastered Riveted Mitts,ルーンマスターのリベット付きミット
+Runemastered Tempered Mitts,ルーンマスターの焼き入れミット
+Runemastered Bolstered Mitts,ルーンマスターの補強ミット
+Runemastered Moulded Mitts,ルーンマスターの成形ミット
+Runemastered Titan Mitts,ルーンマスターのタイタンのミット
+Runemastered Suede Bracers,ルーンマスターのスエードの弓籠手
+Runemastered Firm Bracers,ルーンマスターの頑丈な弓籠手
+Runemastered Sectioned Bracers,ルーンマスターの分割式の弓籠手
+Runemastered Spined Bracers,ルーンマスターの針付きの弓籠手
+Runemastered Fine Bracers,ルーンマスターの針付きの弓籠手
+Runemastered Torn Gloves,ルーンマスターの破れた手袋
+Runemastered Sombre Gloves,ルーンマスターの陰鬱な手袋
+Runemastered Stitched Gloves,ルーンマスターの縫い合わせの手袋
+Runemastered Jewelled Gloves,ルーンマスターの宝石をあしらった手袋
+Runemastered Intricate Gloves,ルーンマスターの手の込んだ手袋
+Runemastered Pauascale Gloves,ルーンマスターのパウアスケール手袋
+Runemastered Embroidered Gloves,ルーンマスターの刺繍入りの手袋
+Runemastered Ringmail Gauntlets,ルーンマスターのリングメイルガントレット
+Runemastered Layered Gauntlets,ルーンマスターの層状のガントレット
+Runemastered Doubled Gauntlets,ルーンマスターの二重のガントレット
+Runemastered Plate Gauntlets,ルーンマスターのプレートガントレット
+Runemastered Burnished Gauntlets,ルーンマスターの研磨されたガントレット
+Runemastered Rope Cuffs,ルーンマスターの縄のカフス
+Runemastered Aged Cuffs,ルーンマスターの年季の入ったカフス
+Runemastered Goldcast Cuffs,ルーンマスターの金鋳造のカフス
+Runemastered Verisium Cuffs,ルーンマスターのカルグールのカフス
+Runemastered Gauze Wraps,ルーンマスターの薄布のラップ
+Runemastered Linen Wraps,ルーンマスターのリネンのラップ
+Runemastered Spiral Wraps,ルーンマスターのスパイラルラップ
+Runemastered Furtive Wraps,ルーンマスターの隠密のラップ
+Runemastered Utility Wraps,ルーンマスターの実用的なラップ
+Runemastered Grand Manchettes,ルーンマスターの大いなるマンシェット
+Runemastered Rough Greaves,ルーンマスターの粗末なグリーヴ
+Runemastered Iron Greaves,ルーンマスターの鉄のグリーヴ
+Runemastered Bronze Greaves,ルーンマスターの青銅のグリーヴ
+Runemastered Trimmed Greaves,ルーンマスターの縁取りのグリーヴ
+Runemastered Stone Greaves,ルーンマスターの石のグリーヴ
+Runemastered Laced Boots,ルーンマスターのレースのブーツ
+Runemastered Embossed Boots,ルーンマスターのエンボスのブーツ
+Runemastered Steeltoe Boots,ルーンマスターの鋼製つま先ブーツ
+Runemastered Lizardscale Boots,ルーンマスターのリザードスケールブーツ
+Runemastered Cinched Boots,ルーンマスターの締め具のブーツ
+Runemastered Straw Sandals,ルーンマスターの麦わらのサンダル
+Runemastered Wrapped Sandals,ルーンマスターの巻き布のサンダル
+Runemastered Lattice Sandals,ルーンマスターの格子のサンダル
+Runemastered Silk Slippers,ルーンマスターのシルクの履物
+Runemastered Feathered Sandals,ルーンマスターの羽根付きのサンダル
+Runemastered Mail Sabatons,ルーンマスターのメイルサバトン
+Runemastered Braced Sabatons,ルーンマスターの補強されたサバトン
+Runemastered Stacked Sabatons,ルーンマスターの多層サバトン
+Runemastered Covered Sabatons,ルーンマスターの覆い付きのサバトン
+Runemastered Secured Leggings,ルーンマスターの留め具付きのレギンス
+Runemastered Ancient Leggings,ルーンマスターの古代のレギンス
+Runemastered Threaded Shoes,ルーンマスターのスレッドシューズ
+Runemastered Hunting Shoes,ルーンマスターのハンティングシューズ
+Runemastered Velour Shoes,ルーンマスターのベロアシューズ
+Runemastered Splintered Tower Shield,ルーンマスターの割れたタワーシールド
+Runemastered Painted Tower Shield,ルーンマスターの彩色のタワーシールド
+Runemastered Braced Tower Shield,ルーンマスターの補強のタワーシールド
+Runemastered Barricade Tower Shield,ルーンマスターの防壁のタワーシールド
+Runemastered Effigial Tower Shield,ルーンマスターの立像のタワーシールド
+Runemastered Rampart Tower Shield,ルーンマスターの城壁のタワーシールド
+Runemastered Heraldric Tower Shield,ルーンマスターの紋章のタワーシールド
+Runemastered Grand Cuisses,ルーンマスターの大いなる脛当て
+Runemastered Crucible Tower Shield,ルーンマスターの試練のタワーシールド
+Runemastered Blacksteel Tower Shield,ルーンマスターの黒鉄のタワーシールド
+Runemastered Vaal Tower Shield,ルーンマスターのヴァールのタワーシールド
+Runemastered Glacial Fortress,ルーンマスターの氷河の要塞
+Runemastered Hardwood Targe,ルーンマスターの堅木のタージ
+Runemastered Crescent Targe,ルーンマスターの三日月のタージ
+Runemastered Blazon Crest Shield,ルーンマスターの家紋のクレストシールド
+Runemastered Sigil Crest Shield,ルーンマスターの刻印のクレストシールド
+Runemastered Emblem Crest Shield,ルーンマスターの紋章のクレストシールド
+Runemastered Jingling Crest Shield,ルーンマスターの鈴音のクレストシールド
+Runemastered Omen Crest Shield,ルーンマスターのお告げのクレストシールド
+Runemastered Leather Buckler,ルーンマスターの革のバックラー
+Runemastered Wooden Buckler,ルーンマスターの木のバックラー
+Runemastered Plated Buckler,ルーンマスターのプレートバックラー
+Runemastered Iron Buckler,ルーンマスターの鉄のバックラー
+Runemastered Ridged Buckler,ルーンマスターのリッジバックラー
+Runemastered Spiked Buckler,ルーンマスターのトゲ付きのバックラー
+Runemastered Ornate Buckler,ルーンマスターの装飾のバックラー
+Runemastered Array Buckler,ルーンマスターの整列のフォーカス
+Runemastered Venerable Defender,ルーンマスターの尊き守護者
+Runemastered Intricate Crest Shield,ルーンマスターの精緻なクレストシールド
+Runemastered Twig Focus,ルーンマスターの小枝のフォーカス
+Runemastered Woven Focus,ルーンマスターの編み物のフォーカス
+Runemastered Antler Focus,ルーンマスターの枝角のフォーカス
+Runemastered Engraved Focus,ルーンマスターの彫刻のフォーカス
+Runemastered Tonal Focus,ルーンマスターの調性のフォーカス
+Runemastered Crystal Focus,ルーンマスターの結晶のフォーカス
+Runemastered Voodoo Focus,ルーンマスターのブードゥーフォーカス
+Runemastered Plumed Focus,ルーンマスターの羽飾りのフォーカス
+Runemastered Primal Markings,ルーンマスターの原始の刻印
+Runic Reprieve,ルーニックリプリーブ
+Fist Of Kalguur,フィストオブカルグール
+Voltaic Barrier,ボルタイックバリア
+Healing Runes,回復のルーン
+Olroth's Conviction,オルロスの信念
+Explosive Transmutation,エクスプローシブトランスミューテーション
+Rain of Blades,レインオブブレード
+Cryptic Key,謎の鍵
+Smash to Smithereens,スマッシュトゥスミザリンズ
+Queen's Procession,クイーンズプロセッション
+Sacred Bloom,聖なる花
+Life Flasks,ライフフラスコ
+Mana Flasks,マナフラスコ
+Currency,カレンシー
+Amulets,アミュレット
+Rings,指輪
+Claws,鉤爪
+Daggers,短剣
+Wands,ワンド
+One Hand Swords,片手剣
+One Hand Axes,片手斧
+One Hand Maces,片手メイス
+Bows,弓
+Staves,スタッフ
+Two Hand Swords,両手剣
+Two Hand Axes,両手斧
+Two Hand Maces,両手メイス
+Skill Gems,スキルジェム
+Support Gems,サポートジェム
+Quivers,矢筒
+Belts,ベルト
+Gloves,手袋
+Boots,靴
+Body Armours,鎧
+Helmets,兜
+Shields,盾
+Small Relics,レリック (小 )
+Medium Relics,レリック (中 )
+Large Relics,レリック (大 )
+Stackable Currency,スタック可能カレンシー
+Quest Items,クエストアイテム
+Sceptres,セプター
+Charms,チャーム
+Waystones,ウェイストーン
+Fishing Rods,釣り竿
+Map Fragments,マップフラグメント
+Hideout Doodads,隠れ家装飾品
+Microtransactions,マイクロトランザクション
+Jewels,ジュエル
+Divination Cards,占いカード
+Misc Map Items,その他マップアイテム
+Leaguestones,リーグストーン
+Pantheon Souls,パンテオンソウル
+Pieces,欠片
+Abyss Jewels,アビスジュエル
+Incursion Items,インカージョンアイテム
+Delve Socketable Currency,デルヴスタック可能カレンシー
+Incubators,インキュベーター
+Shards,シャード
+Shard Hearts,欠片の心臓
+Quarterstaves,クォータースタッフ
+Delve Stackable Socketable Currency,デルヴスタック可能ソケット可能カレンシー
+Atlas Upgrade Items,アトラスアップグレードアイテム
+Hidden Items,隠しアイテム
+Contracts,依頼書
+Heist Gear,ハイストギア
+Heist Tools,ハイストツール
+Heist Cloaks,ハイストクローク
+Heist Brooches,ハイストブローチ
+Blueprints,計画書
+Trinkets,トリンケット
+Heist Targets,ハイストターゲット
+Expedition Logbooks,エクスペディションログブック
+Archnemesis Mods,アーチネメシスモッド
+Spears,スピア
+Crossbows,クロスボウ
+Foci,フォーカス
+Instance Local Items,インスタンスローカルアイテム
+Sentinels,センチネル
+Memories,記憶
+Flails,フレイル
+Relics,レリック
+Sanctified Relics,聖別されたレリック
+Breachstones,ブリーチストーン
+Vault Keys,聖廟の鍵
+Trial Coins,試練のコイン
+Bucklers,バックラー
+Traps,トラップ
+Augment,オーグメント
+Tablet,石板
+Omen,お告げ
+Talismans,タリスマン
+Uncut Skill Gems,スキルジェムの原石
+Uncut Support Gems,サポートジェムの原石
+Uncut Spirit Gems,スピリットジェムの原石
+Transcendent Arm,超越の義手
+Transcendent Leg,超越の義足
+Wombgifts,母胎ギフト
+Pinnacle Keys,ピナクルキー

@@ -66,4 +66,12 @@ return {
 	"Unsorted.csv",
 	"unused.csv",
 	"Z.csv",
+	-- ExileDesk: GGG クライアント由来の公式日本語 (build-pob2jp-from-client.mjs)。末尾 = 同キーは公式訳が勝つ
+	"client-items.csv",
+	"client-uniques.csv",
+	"client-flavour.csv",
+	"client-skills.csv",
+	"client-passives.csv",
+	"client-mods.csv",
+	"client-stats.csv",
 }
