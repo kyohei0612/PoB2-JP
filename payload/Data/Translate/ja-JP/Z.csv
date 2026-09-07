@@ -65,7 +65,7 @@ Stance Skills have {0} seconds to Cooldown,スタンススキルのクールダ�
 Skills Cost Life instead of {0}% of Mana Cost,スキルはマナコストの{0}％の代わりにライフをコストとする
 Ailments never count as being from Critical Strikes,状態異常はクリティカルストライクにより起きたとみなされない
 You take {0}% reduced Extra Damage from Critical Strikes by Cursed Enemies,呪い状態の敵のクリティカルストライクから受ける追加ダメージが{0}%減少する
-##自己加的statDescriptions专精文本##,##自己加的statDescriptions专精文本##
+##自己加的statDescriptions专精文本##,##自己加のstatDescriptions専精文本##
 Deal 10% more Chaos Damage to enemies which have Energy Shield,エナジーシールドが残っている敵に対する混沌ダメージが10%上昇する
 Recover 1% of Life per Withered Debuff on each Enemy you Kill,倒した敵に付与していた衰弱1スタックごとにライフの1%を回復する
 5% chance when you inflict Withered to inflict up to 15 Withered Debuffs instead,あなたがウィザーを付与した際、5% の確率で代わりに最大15個のウィザーデバフを付与する
@@ -114,8 +114,8 @@ Take 50% less Damage over Time if you've started taking Damage over Time in the 
 8% increased Effect of non-Damaging Ailments on Enemies,敵にかかる非ダメージ異常効果の効力を8%増加させる
 ##passiveTree修正##,##passiveTree修正##
 "(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)",(ショックはヒットの雷ダメージ量に応じて、最大50%まで受けるダメージを増加させる。2秒間持続)
-(Maximum Rage is 50),(最大Rageは50)
-(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(最近Rageを獲得していない、またはヒットされていない場合、0.5秒ごとに1 Rage失う)
+(Maximum Rage is 50),(最大憤怒は50)
+(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(最近憤怒を獲得していない、またはヒットされていない場合、0.5秒ごとに1 憤怒失う)
 (Intimidated enemies take 10% increased Attack Damage),(恐怖状態の敵は受ける攻撃ダメージが10%増加する)
 (Freeze lowers Enemy Action Speed to zero,(凍結は敵の行動速度をゼロにする)
 (Chill reduces Enemy Action Speed by up to 30%,(冷気は敵の行動速度を最大30%低下させる)

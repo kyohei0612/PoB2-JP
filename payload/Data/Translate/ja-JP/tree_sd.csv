@@ -247,10 +247,10 @@ Minions have +15% to all Elemental Resistances,ミニオンの全ての元素耐
 18% increased Damage with Ailments from Attack Skills while wielding a Mace or Sceptre,メイスまたはセプター装備中はアタックスキルによる状態異常ダメージが18%増加する
 12% increased Evasion Rating and Armour,回避力とアーマーが12%増加する
 10% increased Evasion Rating and Armour,回避力とアーマーが10%増加する
-10% increased Onslaught Effect,オンスロート効果が10%増加
+10% increased Onslaught Effect,猛攻効果が10%増加
 20% increased Attack Damage,アタックダメージが20%増加する
 30% increased Evasion Rating during Onslaught,猛攻中は回避力が30%増加する
-20% increased Onslaught Effect,オンスロート効果が20%増加
+20% increased Onslaught Effect,猛攻効果が20%増加
 10% chance to gain Onslaught for 4 seconds on Kill,敵を倒した時に10%の確率で猛攻を4秒間獲得する
 12% increased Attack Damage,アタックダメージが12%増加する
 8% increased Global Accuracy Rating,グローバル命中力が8%増加する
@@ -344,7 +344,7 @@ Ancestor Totems have 100% increased Activation range,アンセスタートーテ
 5% increased Fire Damage per Endurance Charge,エンデュランスチャージ1個ごとに火ダメージが5%増加する
 +10% to Fire Resistance,火耐性 +10%
 Regenerate 0.5% of Life per second per Endurance Charge,エンデュランスチャージ1個ごとに毎秒ライフの0.5%を自動回復する
-"3% more Damage for each Endurance Charge lost recently, up to 15%",最近失った耐久チャージ1つにつきダメージが3%増加（最大15%まで）
+"3% more Damage for each Endurance Charge lost recently, up to 15%",最近失ったエンデュランスチャージ1つにつきダメージが3%増加（最大15%まで）
 25% increased Damage with Axes,斧によるダメージが25%増加する
 40% increased Global Evasion Rating when on Full Life,フルライフ時にグローバル回避力が40%増加する
 10% increased Damage with Axes,斧によるダメージが10%増加する
@@ -600,7 +600,7 @@ Minions Leech 0.6% of Damage as Life,ミニオンはダメージの0.6%をライ
 14% increased maximum Energy Shield,最大エナジーシールドが14%増加する
 5% increased Damage taken,受けるダメージが5%増加する
 15% more Damage,ダメージが15%上昇する
-"Gain 1 Rage on Hit with Attacks, no more than once every 0.3 seconds",攻撃でヒット時に1 Rageを獲得（0.3秒ごとに1回まで）
+"Gain 1 Rage on Hit with Attacks, no more than once every 0.3 seconds",攻撃でヒット時に1 憤怒を獲得（0.3秒ごとに1回まで）
 2% of Attack Damage Leeched as Life and Mana if you've Killed Recently,直近プレイヤーが敵を倒していればアタックダメージの2%をライフとマナとしてリーチする
 Recover 2% of Mana on Kill,敵を倒した時にマナの2%を回復する
 8% increased Cold Damage,冷気ダメージが8%増加する
@@ -688,12 +688,12 @@ Flasks applied to you have 8% increased Effect,プレイヤーに対して使用
 10% increased Spell Damage,スペルダメージが10%増加する
 4% increased Attack Speed while Dual Wielding,二刀流中はアタックスピードが4%増加する
 +4% Chance to Block Attack Damage while Dual Wielding,二刀流中のアタックブロック率 +4%
-16% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが16%増加
+16% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが16%増加
 6% increased Attack Speed while Dual Wielding,二刀流中はアタックスピードが6%増加する
 12% increased Accuracy Rating while Dual Wielding,二刀流中は命中力が12%増加する
 Attack Skills deal 16% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが16%増加する
 +3% Chance to Block Attack Damage while Dual Wielding,二刀流中のアタックブロック率 +3%
-8% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが8%増加
+8% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが8%増加
 Attack Skills deal 8% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが8%増加する
 10% increased Skill Effect Duration,スキル効果持続時間が10%増加する
 25% increased Skill Effect Duration,スキル効果持続時間が25%増加する
@@ -703,7 +703,7 @@ Attack Skills deal 8% increased Damage with Ailments while Dual Wielding,二刀�
 60% increased Defences from Equipped Shield,装備中の盾から得られる防御力が60%増加する
 Attack Skills deal 15% increased Damage with Ailments while holding a Shield,盾装備中はアタックスキルの状態異常ダメージが15%増加する
 6% increased Global Accuracy Rating,グローバル命中力が6%増加する
-10% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが10%増加
+10% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが10%増加
 6% increased Accuracy Rating while Dual Wielding,二刀流中は命中力が6%増加する
 Attack Skills deal 10% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが10%増加する
 +10 to maximum Life,最大ライフ +10
@@ -809,10 +809,10 @@ Poisons you inflict deal Damage 10% faster,プレイヤーが付与した毒が�
 15% chance to Avoid Elemental Ailments,15%の確率で元素系状態異常を無効化する
 5% reduced Elemental Damage taken,受ける元素ダメージが5%減少する
 5% chance to Avoid Elemental Ailments,5%の確率で元素系状態異常を無効化する
-12% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが12%増加
+12% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが12%増加
 Attack Skills deal 12% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが12%増加する
 +2% Chance to Block Attack Damage while Dual Wielding,二刀流中のアタックブロック率 +2%
-24% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが24%増加
+24% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが24%増加
 Attack Skills deal 24% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが24%増加する
 16% increased Projectile Damage,投射物ダメージが16%増加する
 +12 to maximum Life,最大ライフ +12
@@ -865,7 +865,7 @@ Attack Skills deal 50% increased Damage with Ailments while Dual Wielding,二刀
 4% increased Cast Speed with Fire Skills,火スキルのキャストスピードが4%増加する
 Fire Spells have 10% of Physical Damage Converted to Fire Damage,火スペルは物理ダメージの10%を火ダメージに変換する
 14% increased Evasion Rating,回避力が14%増加する
-20% increased Weapon Damage while Dual Wielding,デュアルウィielding中の武器ダメージが20%増加
+20% increased Weapon Damage while Dual Wielding,デュアルウィールド中の武器ダメージが20%増加
 10% chance to gain an Endurance Charge when you Block,ブロック時に10%の確率でエンデュランスチャージを1個獲得する
 Attack Skills deal 20% increased Damage with Ailments while Dual Wielding,二刀流中はアタックスキルの状態異常ダメージが20%増加する
 10% chance to gain a Frenzy Charge when you Block,ブロック時に10%の確率でフレンジーチャージを1個獲得する
@@ -981,7 +981,7 @@ Attacks have 25% chance to cause Bleeding,アタックは25%の確率で出血�
 Gain +30 Life when you Hit a Bleeding Enemy,出血している敵にヒットしたとき、ライフが+30
 Projectiles have 100% increased Critical Strike Chance against Targets they Pierce,投射物は貫通した敵に対するクリティカル率が100%増加する
 +1000 Evasion Rating while you have Tailwind,追い風中の回避力 +1000
-"10% increased Effect of Tailwind on you for each Skill you've used Recently, up to 100%",最近使用したスキルごとに、あなたに対するテイルウィンドの効果が10%増加、最大100%まで
+"10% increased Effect of Tailwind on you for each Skill you've used Recently, up to 100%",最近使用したスキルごとに、あなたに対する追い風の効果が10%増加、最大100%まで
 +18% to Fire Resistance,火耐性 +18%
 +18% to Cold Resistance,冷気耐性 +18%
 +18% to Lightning Resistance,雷耐性 +18%
@@ -1004,8 +1004,8 @@ Poisons you inflict deal Damage 5% faster,プレイヤーが付与した毒が�
 3% increased Movement Speed per Frenzy Charge,フレンジーチャージ1個ごとに移動スピードが3%増加する
 3% increased Attack Speed per Frenzy Charge,フレンジーチャージ1個ごとにアタックスピードが3%増加する
 8% increased Attack Damage per Frenzy Charge,フレンジーチャージ1個ごとにアタックダメージが8%増加する
-15% increased Onslaught Effect,オンスロート効果が15%増加
-100% increased Onslaught Effect,オンスロート効果が100%増加
+15% increased Onslaught Effect,猛攻効果が15%増加
+100% increased Onslaught Effect,猛攻効果が100%増加
 30% increased Attack Damage during Onslaught,猛攻中はアタックダメージが30%増加する
 30% more chance to Evade Melee Attacks during Onslaught,猛攻中は近接アタックを回避する確率が30%上昇する
 30% more chance to Evade Projectile Attacks during Onslaught,猛攻中は投射物アタックを回避する確率が30%上昇する
@@ -1031,7 +1031,7 @@ Minions have 5% increased Attack Speed,ミニオンのアタックスピード�
 Minions have 5% increased Cast Speed,ミニオンのキャストスピードが5%増加する
 Minions have 10% increased Movement Speed,ミニオンの移動スピードが10%増加する
 Minions have 20% increased Movement Speed,ミニオンの移動スピードが20%増加する
-Minions have 10% chance to gain Onslaught for 4 seconds on Kill,ミニオンはキル時に4秒間オンスロートを得る確率が10%
+Minions have 10% chance to gain Onslaught for 4 seconds on Kill,ミニオンはキル時に4秒間猛攻を得る確率が10%
 +0.75% to Critical Strike Chance,クリティカル率 +0.75%
 10% chance to gain a Power Charge on Critical Strike,クリティカルストライク時に10%の確率でパワーチャージを1個獲得する
 40% chance to Poison on Hit,ヒット時に40%の確率で敵に毒を付与する
@@ -1296,7 +1296,7 @@ Bleeding you inflict deals Damage 10% faster,プレイヤーが付与した出�
 30% increased Accuracy Rating if you've dealt a Critical Strike in the past 8 seconds,過去8秒以内にクリティカルを与えた場合、精度が30%増加
 30% increased Damage if you've dealt a Critical Strike in the past 8 seconds,過去8秒以内にクリティカルを与えた場合、ダメージが30%増加
 30% chance to gain an Endurance Charge when you are Hit,プレイヤーがヒットを受けた時に30%の確率でエンデュランスチャージを1個獲得する
-"25% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges",耐久チャージを獲得する場合、最大耐久チャージ数まで獲得する25%の確率
+"25% chance that if you would gain Endurance Charges, you instead gain up to your maximum number of Endurance Charges",エンデュランスチャージを獲得する場合、最大エンデュランスチャージ数まで獲得する25%の確率
 1% additional Physical Damage Reduction per Endurance Charge,エンデュランスチャージ1個ごとに1%の物理ダメージ軽減率追加
 8% reduced Elemental Damage taken while at Maximum Endurance Charges,エンデュランスチャージが最大数の時に受ける元素ダメージが8%減少する
 +4% to Chaos Resistance per Endurance Charge,エンデュランスチャージ1個ごとに混沌耐性 +4%
@@ -1943,7 +1943,7 @@ Axe Attacks deal 16% increased Damage with Ailments,斧によるアタックの�
 20% increased Damage with Bleeding,出血によるダメージが20%増加する
 +4% to Damage over Time Multiplier for Bleeding,出血の継続ダメージ倍率 +4%
 Attacks with Melee Weapons deal 4% increased Damage with Ailments,近接武器によるアタックの状態異常ダメージが4%増加する
-30% increased Onslaught Effect,オンスロート効果が30%増加
+30% increased Onslaught Effect,猛攻効果が30%増加
 14% increased Attack Damage,アタックダメージが14%増加する
 30% increased total Recovery per second from Life Leech,リーチによる秒間合計ライフ回復量が30%増加する
 40% increased total Recovery per second from Mana Leech,リーチによる秒間合計マナ回復量が40%増加する
@@ -1963,9 +1963,9 @@ Attacks with Melee Weapons deal 4% increased Damage with Ailments,近接武器�
 1% increased Attack Speed per 150 Accuracy Rating,命中力150ごとにアタックスピードが1%増加する
 Gain 1 Endurance Charge every second if you've been Hit Recently,直近ヒットを受けていれば毎秒エンデュランスチャージを1個獲得する
 20% increased Warcry Speed,ウォークライスピードが20%増加する
-Warcries grant 10 Rage per 5 Power if you have less than 25 Rage,ウォークライは25のRage未満の場合、5パワーごとに10のRageを付与する
-Warcries Sacrifice 10 Rage if you have at least 25 Rage,ウォークライは25のRage以上の場合、10のRageを犠牲にする
-Exerted Attacks deal 50% more Damage if a Warcry Sacrificed Rage Recently,最近ウォークライがRageを犠牲にした場合、発揮された攻撃は50%のダメージを与える
+Warcries grant 10 Rage per 5 Power if you have less than 25 Rage,ウォークライは25の憤怒未満の場合、5パワーごとに10の憤怒を付与する
+Warcries Sacrifice 10 Rage if you have at least 25 Rage,ウォークライは25の憤怒以上の場合、10の憤怒を犠牲にする
+Exerted Attacks deal 50% more Damage if a Warcry Sacrificed Rage Recently,最近ウォークライが憤怒を犠牲にした場合、発揮された攻撃は50%のダメージを与える
 30% increased Attack Speed if you've been Hit Recently,直近プレイヤーがヒットを受けていればアタックスピードが30%増加する
 8% reduced Critical Strike Chance per Blitz Charge,ブリッツチャージ1個ごとにクリティカル率が8%減少する
 15% of Physical Damage from Hits taken as Fire Damage,ヒットによる物理ダメージの15%を火ダメージとして受ける
@@ -1979,7 +1979,7 @@ Gain 1 Endurance Charge every second if you've used a Warcry Recently,直近ウ�
 4% increased Movement Speed per Frenzy Charge,フレンジーチャージ1個ごとに移動スピードが4%増加する
 4% increased Attack Speed per Frenzy Charge,フレンジーチャージ1個ごとにアタックスピードが4%増加する
 10% increased Evasion Rating per Frenzy Charge,フレンジーチャージ1個ごとに回避力が10%増加する
-50% increased Onslaught Effect,オンスロート効果が50%増加
+50% increased Onslaught Effect,猛攻効果が50%増加
 35% more chance to Evade Melee Attacks during Onslaught,猛攻中は近接アタックを回避する確率が35%上昇する
 35% more chance to Evade Projectile Attacks during Onslaught,猛攻中は投射物アタックを回避する確率が35%上昇する
 15% chance to Dodge Attack Hits,攻撃ヒットを回避する確率が15%
@@ -1993,7 +1993,7 @@ Projectiles have 30% chance to be able to Chain when colliding with terrain,投�
 Skills fire 2 additional Projectiles,スキルは投射物を追加で2個放つ
 15% increased Mirage Archer Duration,ミラージュアーチャーの持続時間が15%増加する
 Gain 1 Gale Force when you use a Skill,スキルを使用した際に1のゲイルフォースを得る
-15% increased Effect of Tailwind on you per Gale Force,ゲイルフォースごとにあなたに対するテイルウィンドの効果が15%増加
+15% increased Effect of Tailwind on you per Gale Force,ゲイルフォースごとにあなたに対する追い風の効果が15%増加
 +2 to maximum number of Summoned Mirage Archers,ミラージュアーチャーの最大召喚数 +2
 3% less Damage taken per Gale Force,強風1スタックごとに受けるダメージが3%低下する
 Recover 6% of Life when you use a Flask,フラスコを使用した時にライフの6%を回復する
@@ -3043,7 +3043,7 @@ Movement Speed cannot be modified to below base value,移動スピードは基�
 Armour received from Body Armour is doubled,鎧から得られるアーマーが2倍になる
 Gain Accuracy Rating equal to twice your Strength,筋力の二倍と同量の命中力を獲得する
 40% increased Life Regeneration rate,ライフ自動回復レートが40%増加する
-Exerted Attacks deal 50% more Attack Damage if a Warcry Sacrificed Rage Recently,エクザート攻撃は、最近ウォークライで犠牲にしたRageがあれば攻撃ダメージが50%増加します
+Exerted Attacks deal 50% more Attack Damage if a Warcry Sacrificed Rage Recently,エクザート攻撃は、最近ウォークライで犠牲にした憤怒があれば攻撃ダメージが50%増加します
 Inherent effects from having Rage are Tripled,憤怒により得られる固有効果が三倍になる
 Gain a Blitz Charge on Critical Strike,クリティカル時にブリッツチャージを獲得する
 Totems are Immune to Fire Damage,トーテムが火ダメージに対する完全無効化を獲得する
@@ -3407,7 +3407,7 @@ Inherent loss of Rage is 10% slower,憤怒の固有効果による喪失が10%�
 Inherent loss of Rage is 8% slower,憤怒の固有効果による喪失が8%遅くなる
 Every Rage also grants 1% increased Armour,憤怒のそれぞれのスタックはアーマーの1%増加も付与する
 Gain 3 Rage when Hit by an Enemy,敵によるヒットを受けた時に憤怒を3獲得する
-20% reduced Cost of Attacks while you have at least 20 Rage,少なくとも20のRageを持っている間、攻撃のコストが20%減少
+20% reduced Cost of Attacks while you have at least 20 Rage,少なくとも20の憤怒を持っている間、攻撃のコストが20%減少
 +3 to Maximum Rage,憤怒の最大数 +3
 Inherent Rage Loss starts 1 second later,憤怒の固有効果による喪失が1秒遅く始まる
 Gain 2 Rage on Melee Hit,近接ヒット時に憤怒を2獲得する
@@ -3589,8 +3589,8 @@ Retaliation Skills deal 15% increased Damage,報復スキルのダメージが15
 Retaliation Skills have 10% reduced Enemy Stun Threshold,報復スキルの敵スタン閾値が10%減少する
 Damaging Retaliation Skills become Usable every sixth Hit from Enemies instead,ダメージを与える報復スキルは代わりに敵から6回ヒットを受けるごとに使用可能になる
 Tincture Effects also apply to Ranged Weapons,チンキは遠距離武器にも適用できる
-Tinctures inflict Weeping Wounds instead of Mana Burn,ティンクチャーはマナバーンの代わりにウィーピングウ woundsを与える
-Effects that interact with Mana Burn interact with Weeping Wounds instead,マナバーンと相互作用する効果はウィーピングウ woundsと相互作用する
+Tinctures inflict Weeping Wounds instead of Mana Burn,ティンクチャーはマナバーンの代わりにウィーピングウーンズを与える
+Effects that interact with Mana Burn interact with Weeping Wounds instead,マナバーンと相互作用する効果はウィーピングウーンズと相互作用する
 +5 to any [Attributes|Attribute],+5 すべての[属性|属性]に
 +1% to all [MaximumResistances|Maximum Elemental Resistances] if you have at,最大元素耐性がある場合、すべての[最大|最大]耐性に+1%
 "least 5 Red, Green and Blue [SupportGem|Support Gems] Socketed",少なくとも5つの赤、緑、青の[サポートジェム|サポートジェム]がソケットされている場合
@@ -3706,10 +3706,10 @@ expend [Ammunition] if you've Reloaded [Recently],クロスボウアタックに
 25% increased Damage with [Crossbow|Crossbows] for each type of [Ammunition|Ammunition] fired in the past 10 seconds,過去10秒間に放たれた弾薬の種類ごとにクロスボウのダメージが25%増加する
 30% chance when you Reload a [Crossbow] to be immediate,クロスボウをリロードした時に30%の確率で即座に終了する
 12% increased Damage with [Axe|Axes],斧によるダメージが12%増加する
-Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit],[メレー|メレー]の[斧|斧]の[ヒットダメージ|ヒット]で1の[Rage|Rage]を得る
+Gain 1 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit],[メレー|メレー]の[斧|斧]の[ヒットダメージ|ヒット]で1の[Rage|憤怒]を得る
 3% increased [Attack] Speed with [Axe|Axes],斧のアタックスピードが3%増加する
 4% increased [Attack] Speed with [Axe|Axes],斧のアタックスピードが4%増加する
-Gain 2 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit],[メレー|メレー]の[斧|斧]の[ヒットダメージ|ヒット]で2の[Rage|Rage]を得る
+Gain 2 [Rage|Rage] on [Melee|Melee] [Axe|Axe] [HitDamage|Hit],[メレー|メレー]の[斧|斧]の[ヒットダメージ|ヒット]で2の[Rage|憤怒]を得る
 50% chance to gain [Onslaught|Onslaught] on Killing Blow with [Axe|Axes],斧によるキリングブロー時に50%の確率で猛攻を獲得する
 +10 to Maximum [Rage|Rage] while wielding an [Axe|Axe],斧装備中に憤怒の最大値 +10
 18% increased [Stun|Stun Buildup] with [Mace|Maces],メイスによるスタン蓄積が18%増加する
@@ -3765,7 +3765,7 @@ Hits that [HeavyStun|Heavy Stun] Enemies have [CullingStrike|Culling Strike],[�
 20% increased Accuracy Rating while [DualWield|Dual Wielding],二刀流中は命中力が20%増加する
 3% increased [Attack] Speed while [DualWield|Dual Wielding],二刀流中はアタックスピードが3%増加する
 6% increased [Attack] Speed while [DualWield|Dual Wielding],二刀流中はアタックスピードが6%増加する
-15% increased [Attack] [Critical|Critical Hit Chance] while [DualWield|Dual Wielding],[デュアルウィールド|デュアルウィielding]中に15%の[攻撃][クリティカル|クリティカルヒット率]増加
+15% increased [Attack] [Critical|Critical Hit Chance] while [DualWield|Dual Wielding],[デュアルウィールド|デュアルウィールド]中に15%の[攻撃][クリティカル|クリティカルヒット率]増加
 15% increased [Armour],アーマーが15%増加する
 20% increased [Armour|Armour] if you haven't been [HitDamage|Hit] [Recently|Recently],直近ヒットを受けていなければアーマーが20%増加する
 20% increased [Armour] if you have been [HitDamage|Hit] [Recently],直近プレイヤーがヒットを受けていればアーマーが20%増加する
@@ -4007,7 +4007,7 @@ Gain 50% of maximum [EnergyShield|Energy Shield] as additional [FreezeThreshold|
 Enemies you [Electrocute|Electrocute] have 20% increased Damage taken,プレイヤーが麻痺を付与した敵が受けるダメージが20%増加する
 40% increased [Electrocute|Electrocute Buildup],麻痺蓄積が40%増加する
 30% increased [Shock|Shock] Chance against [Electrocute|Electrocuted] Enemies,[Electrocute|感電]した敵に対する[Shock|ショック]の確率が30%増加
-[Gain] 25% of [Physical] Damage as Extra [Lightning] Damage against [Electrocute|Electrocuted] Enemies,[Electrocute|感電]した敵に対して[Gain|得る]物理ダメージの25%を追加の[Lightning|雷]ダメージとして得る
+[Gain] 25% of [Physical] Damage as Extra [Lightning] Damage against [Electrocute|Electrocuted] Enemies,[Electrocute|麻痺]した敵に対して[Gain|得る]物理ダメージの25%を追加の[Lightning|雷]ダメージとして得る
 10% increased Life Regeneration rate,ライフ自動回復レートが10%増加する
 Regenerate 0.5% of maximum Life per second,毎秒ライフの0.5%を自動回復する
 [Allies] in your [Presence] Regenerate 1% of your Maximum Life per second,プレイヤーの存在下にいる味方は毎秒プレイヤーの最大ライフの1%を自動回復する
@@ -4643,7 +4643,7 @@ Immune to [Shock] while affected by [LightningArchon|Lightning Archon],[雷ア�
 [LifeLoss|Lose] 3% of maximum Life and [EnergyShield|Energy Shield] when you use a Chaos Skill,カオススキルを使用すると、最大ライフの3%と[エナジーシールド|Energy Shield]を失う
 20% increased Global [Defences],グローバル防御力が20%増加する
 25% increased [Physical] Damage,物理ダメージが25%増加する
-[HitDamage|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments],[ヒットダメージ|ヒット]は[状態異常|Ailments]を持つターゲットのアーマーを30%増加させる
+[HitDamage|Hits] [ArmourBreak|Break] 30% increased [Armour|Armour] on targets with [Ailments],[ヒットダメージ|ヒット]は[状態異常|状態異常]を持つターゲットのアーマーを30%増加させる
 Enemies you [Curse] have -3% to Chaos [Resistances|Resistance],呪いを付与した敵の混沌耐性 -3%
 23% increased [Chaos] Damage,混沌ダメージが23%増加する
 20% increased [Withered|Withered] [BuffMagnitude|Magnitude],衰弱の強度が20%増加する
@@ -4662,7 +4662,7 @@ Unwithered enemies are [Withered] for 8 seconds when they enter your [Presence],
 [ArmourBreak|Break] [Armour] on [Critical|Critical Hit] with [Spell|Spells] equal to 10% of [Physical|Physical] Damage dealt,スペルによるクリティカルヒット時に与えた物理ダメージの10%と同量のアーマーをアーマー破壊する
 [Gain] 8% of [Physical|Physical] Damage as extra [Chaos|Chaos] Damage,物理ダメージの8%を追加混沌ダメージとして獲得する
 15% increased [Critical|Critical Hit Chance] for [Spell|Spells],スペルのクリティカルヒット率が15%増加する
-[HitDamage|Hits] [ArmourBreak|Break] 50% increased [Armour|Armour] on targets with [Ailments],[ヒットダメージ|ヒット]は[状態異常|Ailments]を持つターゲットのアーマーを50%増加させる
+[HitDamage|Hits] [ArmourBreak|Break] 50% increased [Armour|Armour] on targets with [Ailments],[ヒットダメージ|ヒット]は[状態異常|状態異常]を持つターゲットのアーマーを50%増加させる
 [Gain] 8% of Damage as Extra [Physical] Damage,ダメージの8%を追加物理ダメージとして獲得する
 15% increased effect of [ArmourBreak|Fully Broken Armour],[完全に壊れたアーマー|Fully Broken Armour]の効果が15%増加
 6% of [Physical] Damage taken [Recoup|Recouped] as Life,受けた物理ダメージの6%がライフとして回収される
@@ -4730,7 +4730,7 @@ Recover 2% of maximum Mana on Kill,敵を倒した時にマナの2%を回復す�
 [Unaffected] by [Chill] while [ManaLeech|Leeching] Mana,マナをリーチ中は冷却の影響を受けない
 25% increased amount of Mana [ManaLeech|Leeched],マナリーチ量が25%増加する
 50% increased amount of Mana [ManaLeech|Leeched],マナリーチ量が50%増加する
-25% increased chance to inflict [Ailments] against [Rarity|Rare or Unique] Enemies,[レア|Rare or Unique]の敵に対して[状態異常|Ailments]を与える確率が25%増加
+25% increased chance to inflict [Ailments] against [Rarity|Rare or Unique] Enemies,[レア|Rare or Unique]の敵に対して[状態異常|状態異常]を与える確率が25%増加
 15% increased Mana [Flask|Flask] Charges gained,獲得マナフラスコチャージが15%増加する
 4% reduced [Flask] Charges used from Mana [Flask|Flasks],マナフラスコで消費されるフラスコチャージが4%減少する
 25% increased Mana Recovery from [Flask|Flasks],フラスコによるマナ回復量が25%増加する
@@ -5117,7 +5117,7 @@ Enemies in your [Presence|Presence] have 10% reduced Cooldown Recovery Rate,プ�
 5% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict,プレイヤーが付与した状態異常の強度が5%増加する
 5% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies,敵に付与したダメージ性状態異常の持続時間が5%増加する
 [DamagingAilments|Damaging Ailments] deal damage 12% faster,ダメージ性状態異常がダメージを与える速度が12%速くなる
-30% increased Damage with [HitDamage|Hits] against Enemies affected by [Ailments],[Ailments] に影響を受けた敵に対して [HitDamage|ヒット] で 30% 増加したダメージ
+30% increased Damage with [HitDamage|Hits] against Enemies affected by [Ailments],[状態異常] に影響を受けた敵に対して [HitDamage|ヒット] で 30% 増加したダメージ
 20% increased chance to inflict [Ailments|Ailments] with [Projectile|Projectiles],投射物で状態異常を付与する確率が20%増加する
 6% increased bonuses gained from Equipped [Quiver],装備中の矢筒から得られるボーナスが6%増加する
 20% increased bonuses gained from Equipped [Quiver],装備中の矢筒から得られるボーナスが20%増加する
@@ -5589,7 +5589,7 @@ Skills fire an additional [Projectile|Projectile],スキルは追加の投射物
 "[Projectile|Projectiles] deal 20% more [HitDamage|Hit] damage to targets in the first 3.5 metres of their movement, scaling down with distance travelled to reach 0% after 7 metres",[投射物|投射物]は移動の最初の3.5メートルのターゲットに対して20%の[ヒット|ヒット]ダメージを与え、移動距離に応じて7メートル後に0%に達します
 Lose all [Tailwind] when [HitDamage|Hit],ヒットを受けた時に追い風を全て失う
 Gain [Tailwind] on Skill use,スキル使用時に追い風を獲得する
-3% less Damage taken per [Tailwind],[テイルウィンド]ごとに受けるダメージが3%減少
+3% less Damage taken per [Tailwind],[追い風]ごとに受けるダメージが3%減少
 50% chance when you gain a [Charges|Frenzy Charge] to gain an additional [Charges|Frenzy Charge],フレンジーチャージを獲得する時に50%の確率でフレンジーチャージを追加で1個獲得する
 Benefits from consuming [Charges|Frenzy Charges] for your Skills have 50% chance to be doubled,スキルのために消費する[チャージ|フレンジーチャージ]の効果が50%の確率で倍増します
 Apply 5 [CriticalWeakness|Critical Weakness] to Enemies when [Consume|Consuming] a [Mark] on them,[マーク]を消費して敵に5の[クリティカル弱点|クリティカル弱点]を適用
@@ -5860,10 +5860,10 @@ Gain 20 Life per enemy killed,倒した敵1体ごとに20のライフを獲得�
 [Allies|Allies] in your [Presence|Presence] have 25% increased [Critical|Critical Hit] Chance,プレイヤーの存在下にいる味方はクリティカルヒット率が25%増加する
 20% increased [Melee] Damage against [HeavyStun|Heavy Stunned] enemies,ヘビースタン状態の敵に対する近接ダメージが20%増加する
 40% increased [Stun] Buildup against enemies within 2 metres,2m以内にいる敵に対するスタン蓄積が40%増加する
-Inherent [Rage|Rage] loss starts 1 second later,固有の [Rage|Rage] 減少が 1 秒遅れて開始
+Inherent [Rage|Rage] loss starts 1 second later,固有の [Rage|憤怒] 減少が 1 秒遅れて開始
 +3 to maximum [Rage] while [Shapeshift|Shapeshifted],シェープシフト状態の間憤怒の最大値 +3
 +12 to maximum [Rage] while [Shapeshift|Shapeshifted],シェープシフト状態の間憤怒の最大値 +12
-Consume all [Rage] when [Shapeshift|Shapeshifting] to Human form to recover 1% of maximum life per [Rage] Consumed,人間の形に [シェイプシフト|シェイプシフト] する際にすべての [Rage] を消費し、消費した [Rage] ごとに最大ライフの 1% を回復
+Consume all [Rage] when [Shapeshift|Shapeshifting] to Human form to recover 1% of maximum life per [Rage] Consumed,人間の形に [シェイプシフト|シェイプシフト] する際にすべての [憤怒] を消費し、消費した [憤怒] ごとに最大ライフの 1% を回復
 Inherent loss of [Rage|Rage] is 15% slower,憤怒の固有効果による喪失が15%遅くなる
 Every [Rage] also grants 2% increased [Spell] Damage,憤怒のそれぞれのスタックはスペルダメージ2%増加も付与する
 25% increased [Critical|Critical Hit Chance] against [Bleeding] Enemies,[出血] 状態の敵に対して 25% 増加した [クリティカル|クリティカルヒットチャンス]
@@ -6017,7 +6017,7 @@ Skills which create Fissures have a 20% chance to create an additional Fissure,�
 35% increased [Critical|Critical Hit Chance] against [Immobilised] enemies,[ immobilised ] 状態の敵に対して 35% 増加した [クリティカル|クリティカルヒットチャンス]
 25% increased [Reservation] [Efficiency] of [Companion] Skills,コンパニオンスキルのリザーブ効率が25%増加する
 8% increased [Reservation] [Efficiency] of [Companion] Skills,コンパニオンスキルのリザーブ効率が8%増加する
-[Companion|Companions] in your [Presence] have [Onslaught] while you are [Shapeshift|Shapeshifted],あなたの [プレゼンス] にいる [コンパニオン|コンパニオン] は、[シェイプシフト|シェイプシフト] している間 [オンスロート] を持つ
+[Companion|Companions] in your [Presence] have [Onslaught] while you are [Shapeshift|Shapeshifted],あなたの [プレゼンス] にいる [コンパニオン|コンパニオン] は、[シェイプシフト|シェイプシフト] している間 [猛攻] を持つ
 12% increased Damage while your [Companion] is in your [Presence],コンパニオンがプレイヤーの存在下にいる時にダメージが12%増加する
 4% increased [Attack] Speed while your [Companion] is in your [Presence],プレイヤーのコンパニオンが存在下にいる間アタックスピードが4%増加する
 "5% increased [Attack] Damage for each [Minion] in your [Presence], up to a maximum of 80%",プレイヤーの存在下にいるミニオン1体ごとにアタックダメージが5%増加する、最大80%
@@ -6025,7 +6025,7 @@ Skills which create Fissures have a 20% chance to create an additional Fissure,�
 "5% increased Life and Mana Regeneration Rate for each [Minion] in your [Presence], up to a maximum of 40%",プレイヤーの存在下にいるミニオン1体ごとにライフとマナ自動回復レートが5%増加する、最大40%
 30% increased [Hazard] Duration,ハザードの持続時間が30%増加する
 15% reduced [Volatility] Explosion delay,ボラティリティの起爆遅延が15%減少する
-+8 maximum [Rage] for each time you've used a Skill that Requires [Glory] in the past 6 seconds,過去 6 秒間に [栄光] を必要とするスキルを使用した回数ごとに最大 [Rage] が 8 増加する
++8 maximum [Rage] for each time you've used a Skill that Requires [Glory] in the past 6 seconds,過去 6 秒間に [栄光] を必要とするスキルを使用した回数ごとに最大 [憤怒] が 8 増加する
 12% increased [Attack] Damage while moving,移動中にアタックダメージが12%増加する
 8% increased [Attack] Damage while moving,移動中にアタックダメージが8%増加する
 50% increased [Attack] Damage while moving,移動中にアタックダメージが50%増加する
@@ -6214,7 +6214,7 @@ Can Allocate Passives from the Warrior's starting point,ウォーリアーの開
 Chance to [HitDamage|Hit] with [Attack|Attacks] can [ExceedChance|exceed 100%],[Attack|攻撃] でヒットする確率は 100% を超えることができる
 25% reduced [Defences],防御力が25%減少する
 10% increased [Defences],防御力が10%増加する
-Gain 1 [Rage] when your [HitDamage|Hit] [Ignite|Ignites] a target,ターゲットを [Ignite|点火] すると 1 の Rage を得る
+Gain 1 [Rage] when your [HitDamage|Hit] [Ignite|Ignites] a target,ターゲットを [Ignite|点火] すると 1 の 憤怒 を得る
 "8% increased Skill Effect Duration per Enemy you've [Freeze|Frozen] in the last 8 seconds, up to 40%",過去 8 秒間にあなたが [Freeze|凍結] させた敵ごとにスキル効果の持続時間が 8% 増加し、最大 40% まで増加する
 40% increased Duration of [Poison|Poisons] you inflict against [Slow|Slowed] Enemies,[Slow|減速] 状態の敵に与える [Poison|毒] の持続時間が 40% 増加する
 [Spell|Spells] [Gain] 5% of Damage as extra [Chaos|Chaos] Damage,スペルはダメージの5%を追加混沌ダメージとして獲得する

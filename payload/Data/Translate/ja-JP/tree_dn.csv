@@ -177,7 +177,7 @@ Slaughter,虐殺
 Axe Damage and Bleed Chance,斧ダメージと出血確率
 Axe Damage and Bleed Duration,斧ダメージと出血持続時間
 Cleaving,薙ぎ払う
-"Life Regeneration, Endurance Charge Duration",ライフ再生、耐久チャージ持続時間
+"Life Regeneration, Endurance Charge Duration",ライフ再生、エンデュランスチャージ持続時間
 "Life Regeneration, Fire Damage",ライフ自動回復および火ダメージ
 "Life Regeneration, Totem Placement Speed",ライフ再生、トーテム設置速度
 "Arohongui, Moon's Presence",アロホンギ、月の存在
@@ -594,7 +594,7 @@ Titanic Impacts,巨大な衝撃
 "Evasion, Frenzy Charge Duration",回避、フレンジーチャージの持続時間
 Way of the Poacher,密猟者の道
 Avatar of the Slaughter,虐殺の化身
-"Evasion, Onslaught Duration",回避、オンスロートの持続時間
+"Evasion, Onslaught Duration",回避、猛攻の持続時間
 Rapid Assault,ラピッドアサルト
 Avatar of the Chase,追跡者の化身
 "Evasion, Movement Speed",回避、移動速度
@@ -885,7 +885,7 @@ Righteous Providence,正義の摂理
 "Mana Regeneration, Spell Damage",マナ再生、スキルダメージ
 "Mana Regeneration, Totem Placement Speed",マナ自動回復およびトーテム設置速度
 "Mana Regeneration, Mana",マナ自動回復およびマナ
-"Mana Regeneration, Power and Endurance Charge Duration",マナ再生、パワーと耐久チャージの持続時間
+"Mana Regeneration, Power and Endurance Charge Duration",マナ再生、パワーとエンデュランスチャージの持続時間
 Divine Guidance,神の導き
 Sanctuary of Thought,思考の聖域
 Pursuit of Faith,信仰の追求
@@ -984,7 +984,7 @@ Evasion and Movement Skill Cooldown Recovery,回避力および移動スキル�
 Fleetfoot,俊足
 Evasion and Phasing,回避力および透明化
 Freedom of Movement,移動の自由
-Armour and Endurance Charges,アーマーと耐久チャージ
+Armour and Endurance Charges,アーマーとエンデュランスチャージ
 Inexorable,動かざる者
 Armour and Guard Skill Cooldown Recovery,アーマーおよびガードスキルクールダウン短縮
 Guard Skill Cooldown Recovery and Physical Damage Reduction,ガードスキルクールダウン回復と物理ダメージ減少
@@ -1135,7 +1135,7 @@ Mana Regeneration and Increased Mana Cost,マナ再生と増加したマナコ�
 Forethought,用心
 Mana Regeneration and Reduced Mana Cost,マナ自動回復およびマナコスト低下
 Mana Cost Mastery,マナコストのマスタリー
-Attack Speed and Rage ,攻撃速度とRage
+Attack Speed and Rage ,攻撃速度と憤怒
 Damage against Cursed Enemies,呪われた敵に対してのダメージ
 Reduced Mana Reservation of Curse Skills,呪いスキルのマナ予約減少
 Warcry Cooldown Recovery and Exerted Attack Damage,ウォークライクールダウン短縮および奮起アタックダメージ
@@ -1176,7 +1176,7 @@ Exposure Tolerance,エクスポージャートレランス
 Shield Block,盾ブロック
 Shock Chance and Lightning Ailment Effect,ショック発生確率と雷状態異常効果
 "Shock Chance, Lightning Ailment Effect and Duration",感電確率、雷の状態異常効果と持続時間
-Axe Attack Speed and Rage,斧の攻撃速度とRage
+Axe Attack Speed and Rage,斧の攻撃速度と憤怒
 "Physical Bow Damage, Chance to Bleed and Faster Bleed",物理弓ダメージ、出血の確率と出血の速さ
 Sword Damage and Melee Range,剣ダメージおよび近接攻撃距離
 Damage if Consumed a Corpse,死体消費時のダメージ
@@ -1554,7 +1554,7 @@ Shaper of Winter,冬を形作る者
 "Critical Strike Chance, Elusive Effect",クリティカル率および身躱し効果
 "Flask Effect, Poison Duration",フラスコ効果および毒持続時間
 "Attack and Cast Speed, Damage",攻撃と詠唱速度、ダメージ
-"Evasion, Onslaught Effect",回避、オンスロート効果
+"Evasion, Onslaught Effect",回避、猛攻効果
 "Projectile Damage, Mark Cast Speed",投射物ダメージおよび呪印キャストスピード
 Rupturing,破裂させる
 "Projectile Damage, Mirage Archer Duration",投射物ダメージおよびミラージュアーチャー持続時間
@@ -3658,7 +3658,7 @@ Oshabi Bloodline,オシャビのブラッドライン
 The Primal Owl,プライマルのフクロウ
 Seal gain frequency,シール獲得頻度
 The Wild Bear,ワイルドのクマ
-Rage,Rage
+Rage,憤怒
 The Vivid Cat,ビビッドのネコ
 Elusive effect,身躱し効果
 Nameless Bloodline,名もなき者のブラッドライン

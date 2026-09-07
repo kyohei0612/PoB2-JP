@@ -7,14 +7,14 @@
 (Ignoring Resistances means your Damage cannot be modified in any way by any Resistance stats),(耐性を無視するとは、ダメージがいかなる耐性ステータスによっても一切変更されないことを意味する)
 (You can only take one of the three Ranger Ascendancy passives),(3つのレンジャーのアセンダンシーパッシブのうち1つのみ取得可能)
 (You can only take one of the three Marauder Ascendancy passives),(3つのマローダーのアセンダンシーパッシブのうち1つのみ取得可能)
-(Maximum Rage is 50),(最大Rageは50)
-(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(最近Rageを獲得していない、またはヒットされていない場合、0.5秒ごとに1 Rage失う)
+(Maximum Rage is 50),(最大憤怒は50)
+(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(最近憤怒を獲得していない、またはヒットされていない場合、0.5秒ごとに1 憤怒失う)
 (Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second. Hits against Enemies on your Consecrated Ground have increased Critical Strike Chance),(聖域上の味方は最大ライフの一定割合を毎秒再生する。聖域上の敵へのヒットはクリティカル率が増加する)
 "(Elemental Ailments are Ignited, Scorched, Chilled, Frozen, Brittle, Shocked, and Sapped)",(属性異常とは、発火、灼熱、冷気、凍結、脆化、ショック、および弱体化のこと)
 (You can only take one of the three Shadow Ascendancy passives),(3つのシャドウのアセンダンシーパッシブのうち1つのみ取得可能)
 (Intimidated enemies take 10% increased Attack Damage),(恐怖状態の敵は受ける攻撃ダメージが10%増加する)
 "(Adrenaline grants 100% increased Damage, 25% increased Attack, Cast and Movement Speed and 10% additional Physical Damage Reduction)",(アドレナリンは、ダメージを100%増加させ、攻撃・詠唱・移動速度を25%増加させ、物理ダメージ軽減を10%追加する)
-"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)",(オンスロートは、攻撃・詠唱・移動速度を20%増加させる)
+"(Onslaught grants 20% increased Attack, Cast, and Movement Speed)",(猛攻は、攻撃・詠唱・移動速度を20%増加させる)
 (You can only take one of the three Duelist Ascendancy passives),(3つのデュエリストのアセンダンシーパッシブのうち1つのみ取得可能)
 (Culling Strike means enemies that are on 10% or lower life after your Hit are Killed),(とどめの一撃とは、ヒット後にライフが10%以下の敵が死亡すること)
 (Choose one of the three attached options),(添付された3つのオプションのうち1つを選択)
@@ -102,7 +102,7 @@ also apply to Spell Damage at 30% of their value),呪文ダメージにもその
 "(Being Covered in Ash applies 20% less Movement Speed and 20% increased Fire Damage Taken, and lasts for 4 seconds)",(灰に覆われると、移動速度が20%低下し、受ける炎ダメージが20%増加し、4秒間持続します)
 "(Cold Ailments are Chilled, Frozen and Brittle)",(冷気状態異常は、クールダウン、凍結、および脆化です)
 (Lightning Ailments are Shocked and Sapped),(雷状態異常は、ショックおよびサップです)
-(This only affects the inherent loss of Rage when you haven't been Hit or gained Rage Recently),(これは、最近ヒットされなかったり、Rageを獲得しなかったりした場合の、Rageの固有の損失にのみ影響します)
+(This only affects the inherent loss of Rage when you haven't been Hit or gained Rage Recently),(これは、最近ヒットされなかったり、憤怒を獲得しなかったりした場合の、憤怒の固有の損失にのみ影響します)
 (Hexes can gain Doom up to a maximum of 30. The effect of a Hex is increased by the amount of Doom it has),(呪術は最大30までのドゥームを獲得できます。呪術の効果は、それが持つドゥームの量によって増加します)
 Totem mastery,トーテムのマスタリー
 Disciple of Kitava,ディサイプルオブキタヴァ
@@ -170,10 +170,10 @@ Chance to Dodge Attacks,回避率
 "(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)",(投射物攻撃のヒットは、移動開始時の対象に対してダメージを20%減少させるが、投射物が遠くまで進むにつれて対象へのダメージは最大60%増加する)
 (These are consecutive),(これらは連続している)
 (Each Conflux means all damage causes that Ailment),(各コンフラックスは、すべてのダメージがあの属性による状態異常を引き起こすことを意味する)
-(Inherent effects from having Rage are:,(Rageを持つことによる固有の効果は以下の通り:
-1% increased Attack Damage per 1 Rage,Rage 1につき攻撃ダメージ1%増加
-1% increased Attack Speed per 2 Rage,Rage 2につき攻撃速度1%増加
-1% increased Movement Speed per 5 Rage),Rage 5につき移動速度1%増加)
+(Inherent effects from having Rage are:,(憤怒を持つことによる固有の効果は以下の通り:
+1% increased Attack Damage per 1 Rage,憤怒 1につき攻撃ダメージ1%増加
+1% increased Attack Speed per 2 Rage,憤怒 2につき攻撃速度1%増加
+1% increased Movement Speed per 5 Rage),憤怒 5につき移動速度1%増加)
 "(Fortify grants 20% less Damage Taken from Hits, for 4 seconds)",(Fortifyはヒットからのダメージを20%減少させ、4秒間持続する)
 (Enemies standing in Smoke Clouds are Blinded),(煙幕の中にいる敵は盲目になる)
 (Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second),(聖域上にいる味方は、最大ライフの一定割合を毎秒再生する)
@@ -206,9 +206,9 @@ Chance to Dodge Attacks,回避率
 Damage over Time Multiplier for Ailments is equal to Critical Strike Multiplier,状態異常の継続ダメージ倍率がクリティカルダメージ倍率と等しくなる
 Non-Critical Strikes cannot inflict Ailments,クリティカルストライクでない攻撃は状態異常を付与できない
 "(Bleeding deals Physical Damage over time, based on the base Physical Damage of the Skill. Damage is 200% higher while moving)",(出血は、スキルのベース物理ダメージに基づいた継続的な物理ダメージを与える。移動中はダメージが200%増加する)
-(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(Rage 1につき攻撃ダメージ1%増加。最大Rageは30。過去2秒間にヒットを受けなかったかRageを獲得しなかった場合、毎秒10 Rageを失う)
-(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(過去2秒間にヒットを受けなかったかRageを獲得しなかった場合、毎秒10 Rageを失う)
-(Base Maximum Rage is 30),(ベース最大Rageは30)
+(Every Rage grants 1% more Attack Damage. Maximum Rage is 30. Lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(憤怒 1につき攻撃ダメージ1%増加。最大憤怒は30。過去2秒間にヒットを受けなかったか憤怒を獲得しなかった場合、毎秒10 憤怒を失う)
+(You lose 10 Rage per second if you have not been Hit or gained Rage in the last 2 seconds),(過去2秒間にヒットを受けなかったか憤怒を獲得しなかった場合、毎秒10 憤怒を失う)
+(Base Maximum Rage is 30),(ベース最大憤怒は30)
 "(Arcane Surge grants 20% increased Cast Speed and 30% increased Mana Regeneration rate, for 4 seconds)",(秘術の奔流はキャスト速度を20%増加させ、マナ再生率を30%増加させる。4秒間持続)
 "(Adopt the power of the forest, gradually covering your body in bark. Getting hit by enemy attacks causes bark to be removed. You take reduced damage from physical attack hits the more bark builds up, but higher chance to evade when less covered in bark)",(森の力を取り込み、徐々に体に樹皮をまとわせる。敵の攻撃を受けると樹皮が剥がれる。樹皮の蓄積量が多いほど物理攻撃ヒットからのダメージが軽減されるが、樹皮の被覆が少ないほど回避率が高くなる)
 (Choose one of the two attached options),(添付された2つのオプションのうち1つを選択)

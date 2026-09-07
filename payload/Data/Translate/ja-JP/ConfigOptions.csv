@@ -531,7 +531,7 @@ This also implies that your Skills have Crit Recently.,これはあなたのス�
 Have your Skills Crit Recently?,直近スキルがクリティカルしましたか?
 Have your Herald Skills Crit Recently?,直近Heraldスキルがクリティカルしましたか?
 # of times your Attacks have Crit Recently:,直近アタックがクリティカルした回数:
-Lost a Non-Vaal Guard Skill buff recently?,直近 Non-Vaal ガードスキルのバフを失いましたか?
+Lost a Non-Vaal Guard Skill buff recently?,直近 Non-ヴァール ガードスキルのバフを失いましたか?
 Have you dealt a Non-Crit Recently?,直近非クリティカルヒットを与えましたか?
 Are you Channelling?,チャネリング中ですか?
 "You will automatically be considered to be Channeling if your main skill is a channelled skill,",メインスキルがチャネリングスキルの場合、自動的にチャネリング中とみなされます。
@@ -634,9 +634,9 @@ Have you cast Dash Recently?,直近Dashをキャストしましたか?
 Have you used a Movement Skill Recently?,直近移動スキルを使用しましたか?
 This also implies that you have used a Skill Recently..,これはあなたが直近スキルを使用したことも意味します。
 "You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,",メインスキルが移動スキルの場合、自動的に「直近移動スキルを使用した」とみなされます。
-Have you used a Vaal Skill Recently?,直近Vaalスキルを使用しましたか?
+Have you used a Vaal Skill Recently?,直近ヴァールスキルを使用しましたか?
 "You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,",メインスキルがヴァールスキルの場合、自動的に「直近ヴァールスキルを使用した」とみなされます。
-# of Vaal Skills used in the past 8 Seconds:,過去8秒間に使用したVaalスキル数:
+# of Vaal Skills used in the past 8 Seconds:,過去8秒間に使用したヴァールスキル数:
 Do you have Soul Gain Prevention?,ソウル獲得不能状態ですか?
 Sacrifice Minion on Attack,アタック時にミニオンを生贄
 Each Attack is sacrificing a damage minion to grant you extra projectiles.,各アタックでダメージミニオンを犠牲にし、追加投射物を獲得します。
@@ -1112,7 +1112,7 @@ Custom Modifiers,カスタム補正
 # of Traps Triggered Recently,直近発動したトラップ数
 # of Traps per throw,1回で投げるトラップ数
 # of Trauma Stacks,トラウマスタック数
-# of Vaal Skills used in the past 8 Seconds,過去8秒間に使用したVaalスキル数
+# of Vaal Skills used in the past 8 Seconds,過去8秒間に使用したヴァールスキル数
 # of Virulence Stacks,毒性スタック数
 # of Warcries Used Recently,直近使用したウォークライ数
 # of Whirlwind Stages,ワールウィンドステージ数
